@@ -1,0 +1,55 @@
+version=7
+background=http://media.navi-x.org/images/backgrounds/bkg_navix_bh_plain.jpg
+title=navi-xtreme [COLOR=FF888888]»[/COLOR] search for "bundesliga"
+logo=http://media.navi-x.org/images/logos/search.png
+
+
+type=video
+name=6/7 SKY BUNDESLIGA HD1 ([COLOR pink] German channels@Halow  TV [/COLOR])
+date=2014-06-07
+URL=http://de.iphone-tv.eu/stream/de/22
+player=default
+rating=-1.00
+
+type=video
+name=10/4 SKY Bundesliga 1 (DE) ([COLOR red]SPORT[COLOR white] channels@[COLOR green]Halow TV[/COLOR])
+thumb=https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6wFzRb7swzKbFb7BHufOZY2wnsjIHFkN7j83uoKLHWkaWZKzM
+date=2014-10-04
+URL=rtmp://94.242.228.96/liveedge//channel12
+player=default
+rating=-1.00
+
+type=image
+name=8/9 Sat, 08 Aug 2009 Bundesliga : Schalke et Wolfsburg frappent d'entrÃÂ©e, le Bayern cale (Le Monde.fr : ÃÂ  la Une)
+date=2009-08-09
+URL=http://medias.lemonde.fr/mmpub/edt/ill/2009/08/08/h_1_ill_1227012_4a27_schlake.jpg
+rating=-1.00
+description=Le nouveau club de Felix Magath s'impose lors de la premiÃÂ¨re journÃÂ©e du championnat d'Allemagne, samedi 8 aoÃÂ»t. Wolfsburg, champion en titre, commence aussi par une victoire.&lt;img width='1' height='1' src='http://rss.feedsportal.com/c/205/f/3050/s/599cd34/mf.gif' border='0'/&gt;&lt;br/&gt;&lt;br/&gt;&lt;a href="http://da.feedsportal.com/r/46728779021/u/6/f/3050/c/205/s/93965620/a2.htm"&gt;&lt;img src="http://da.feedsportal.com/r/46728779021/u/6/f/3050/c/205/s/93965620/a2.img" border="0"/&gt;&lt;/a&gt;/description
+
+type=video
+name=4/18 Sky Bundesliga 2 (Live Sports)
+thumb=https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSzSUXGHEzsu0Cx1Tphw9Q_9nJsdn1SF9Uw4eZCSQJNH_9W-I-g
+date=2013-04-18
+URL=rtmp://212.7.212.19:1935/live/_definst_/castbit3 swfUrl=http://cdn.yycast.com/player/player.swf pageUrl=http://www.yycast.com/embed.php?fileid=castbit3&vw=728&vh=540
+rating=-1.00
+
+type=video
+name=4/18 Sky Bundesliga 2 (Live Sports)
+thumb=https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSzSUXGHEzsu0Cx1Tphw9Q_9nJsdn1SF9Uw4eZCSQJNH_9W-I-g
+date=2013-04-18
+URL=rtmp://46.165.230.2/pull?testkey=fa1f9670cd978aaaff6ecb7faa790aa3 playpath=ppauulii21ad swfUrl=http://files.leton.tv/player.swf pageUrl=http://leton.tv/player.php?streampage=ppauulii21ad&width=600&height=450
+rating=-1.00
+
+type=video
+name=4/18 Sky Bundesliga 1 (Live Sports)
+thumb=https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSzSUXGHEzsu0Cx1Tphw9Q_9nJsdn1SF9Uw4eZCSQJNH_9W-I-g
+date=2013-04-18
+URL=rtmp://67.228.177.52/pull?testkey=fa1f9670cd978aaaff6ecb7faa790aa3 playpath=koonnfferennzz26aa swfUrl=http://files.leton.tv/player.swf pageUrl=http://leton.tv/player.php?streampage=koonnfferennzz26aa&width=600&height=450
+rating=-1.00
+
+type=video
+name=9/5 Sky Fussball Bundesliga HD (ANDROIDTV > Deutsche Sender)
+date=2014-09-05
+URL=rtmp://s02.futubox.to/live?lp=dGt0azkyOjpzYWx0OjoxYzIyYjI1YWY1ZTBiZGZkY2RkZjI2MTUxOTE3ZjI4MQ== playpath=z050333.stream live=1
+player=default
+rating=-1.00

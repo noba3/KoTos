@@ -1,0 +1,13 @@
+version=1
+title=Scheels Live Sports Streams
+description=Watch live sports, including Soccer, Wrestling, Boxing, UFC, Sky Sports and much more!/description
+
+# 1337440
+type=rss:
+name=Scheels Live Sports Streams
+URL=http://pastebin.com/raw.php?i=6NWDsFb6
+player=default
+rating=-1.00
+
+
+# cached

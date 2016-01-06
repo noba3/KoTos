@@ -1,0 +1,11 @@
+<settings>
+    <setting id="coloredSubtitles" value="true" />
+    <setting id="firstrun" value="false" />
+    <setting id="forceViewMode" value="true" />
+    <setting id="listLive" value="true" />
+    <setting id="showSubtitles" value="false" />
+    <setting id="useThumbAsFanart" value="true" />
+    <setting id="videoQuality" value="3" />
+    <setting id="viewIDShows" value="500" />
+    <setting id="viewIDVideos" value="51" />
+</settings>

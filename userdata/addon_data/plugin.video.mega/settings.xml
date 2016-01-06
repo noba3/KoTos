@@ -1,0 +1,6 @@
+<settings>
+    <setting id="buffering_time" value="30" />
+    <setting id="password" value="" />
+    <setting id="tos_accepted" value="true" />
+    <setting id="username" value="" />
+</settings>

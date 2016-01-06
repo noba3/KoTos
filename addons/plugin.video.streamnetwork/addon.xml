@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="plugin.video.streamnetwork" name="StreamNetwork TV" version="2.0.6" provider-name="TV StreamNetwork">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="default.py">
+        <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary>TV StreamNetwork</summary>
+    <description>TV StreamNetwork
+	
+http://www.streamnetwork.tv</description>
+	<website>http://www.streamnetwork.tv</website>
+    <platform>all</platform>
+  </extension>
+</addon>

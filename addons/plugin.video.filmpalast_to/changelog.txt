@@ -1,0 +1,11 @@
+0.1.5
+ - hoster fixed
+ - hoster added
+ 
+0.1.4
+ - dbg output removed
+
+...
+
+0.1.0
+ - first try

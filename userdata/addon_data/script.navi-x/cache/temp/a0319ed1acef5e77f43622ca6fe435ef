@@ -1,0 +1,1662 @@
+version=1
+background=http://www.livewallpapers.org/wp-content/uploads/2012/12/blue-3d-cubes.jpg
+title=([COLOR=FFFF0000]Live[/COLOR] International [COLOR=FF00BFFF]TV[/COLOR]) All Working! [COLOR=FF888888]»[/COLOR] 1 to 198 of 263
+logo=http://lrc.utk.edu/learn/images/dishworld.jpg
+icon_playlist=http://lrc.utk.edu/learn/images/dishworld.jpg
+description=\\\\///E A S Y S T R E A M S////\\\
+
+I am fixing all my bad links today.
+
+200 + Channels Coming Soon!!
+
+=== Attention Please ===
+
+Live International tv got deleted by Navi X for unknown reasons so i created a new one
+
+The video keeps buffering? Just pause it for 2-5 minutes then continue playing!
+
+Donate to My PayPal Jaymac192@msn.com i would be eternally grateful
+
+Email me with any questions, bad links or request [COLOR=FF00BFFF]Jaymac192@gmail.com[/COLOR]
+
+--- Links [COLOR=FF00FF00] Tested [/COLOR]  / [COLOR=FFFF34FF] Added [/COLOR]  /[COLOR=FFFF0000] Replaced [/COLOR]/ [COLOR=FF00BFFF] Updated Daily [/COLOR] --- /description
+
+type=playlist
+name=Sorted [COLOR=FF00FF00][COLOR=FF00FF00][COLOR=FF00FF00]by user-assigned order[/COLOR][/COLOR][/COLOR]
+icon=http://media.navi-x.org/images/icons/2downarrow.png
+URL=http://www.navixtreme.com/playlist/150363/(live_international_hdtv)_all_working.plx?action=sortsel&cur=ord
+
+# 2439816
+type=video
+name=,CFCN-5 CTV Lethbridge
+thumb=http://www.hdwallpapersnews.com/wp-content/uploads/2015/02/Canada-Flag-Macbook-Wallpapers.jpg
+date=2015-03-21
+URL=http://198.179.31.198/live/2062.high.stream/2062.high.stream/index.m3u8
+player=default
+rating=-1.00
+
+# 2437611
+type=
+name=_/******* [COLOR=FF00BFFF]\\\\///English HD Channels////\\\[/COLOR] *******\ _
+thumb=http://images.fineartamerica.com/images-medium-large-5/32-american-flag-les-cunliffe.jpg
+player=default
+rating=-1.00
+description=\\\\///English HD Channels////\\\/description
+
+# 2439456
+type=
+name=[COLOR=FF00BFFF]News & Sports[/COLOR]
+thumb=http://icons.iconseeker.com/png/fullsize/alerts/transfer-2.png
+date=2015-03-19
+URL=http://
+player=default
+rating=-1.00
+
+# 2438743
+type=video
+name=Fox Sports 1
+thumb=http://img4.wikia.nocookie.net/__cb20140414164158/logopedia/images/6/6f/Logo_fox_sports.png
+date=2015-03-16
+URL=http://2co1.vp9.tv/chn/fox1/v.m3u8
+player=default
+rating=-1.00
+
+# 2439539
+type=video
+name=Barclays Premier League
+thumb=http://thestudentscoop.co.uk/wp-content/uploads/2014/04/Premier-League-Teams-Graphic-700x697.png
+date=2015-03-19
+URL=http://bit.do/2AVQ
+player=default
+rating=-1.00
+
+# 2439575
+type=video
+name=SETANTA Sport
+thumb=http://upload.wikimedia.org/wikipedia/fr/thumb/2/29/Logo_Setanta_Sports.png/220px-Logo_Setanta_Sports.png
+date=2015-03-20
+URL=http://202.75.23.36/live/ch44/01.m3u8?Vd?u
+player=default
+rating=-1.00
+
+# 2439587
+type=video
+name=FIGHT CLUB
+thumb=http://4.bp.blogspot.com/-ueCJFktJO_E/VQu9H_VtpcI/AAAAAAAADkE/KUeRgIs3AIU/s1600/fight%2Bclub.jpg
+date=2015-03-20
+URL=http://peerstv.ufanet.ru/tv/1118/index.m3u8
+player=default
+rating=-1.00
+
+# 2439424
+type=video
+name=Abc News
+thumb=http://davefennoy.com/wp-content/uploads/2014/08/abc1.png
+date=2015-03-19
+URL=http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8
+player=default
+rating=-1.00
+
+# 2439686
+type=video
+name=CNN
+thumb=http://icons.iconarchive.com/icons/wackypixel/tv-buttons/256/CNN-icon.png
+date=2015-03-21
+URL=rtmp://d.cdn.newschat.tv/edge playpath=cnn_live swfUrl=http://www.newsviews.tv/player.swf live=1 pageUrl=http://www.newsviews.tv/news-views-video-six
+player=default
+rating=-1.00
+
+# 2439803
+type=video
+name=CNN Test
+date=2015-03-21
+URL=http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/cnn/ls_satlink/b_828.m3u8
+player=default
+rating=-1.00
+
+# 2439411
+type=video
+name=Chicago WG
+thumb=http://img3.wikia.nocookie.net/__cb20130717023410/logopedia/images/thumb/8/82/WGN9_The_CW_Chicago_ALT.svg/446px-WGN9_The_CW_Chicago_ALT.svg.png
+date=2015-03-19
+URL=http://wgntribune-lh.akamaihd.net/i/WGNPrimary_1@304622/master.m3u8
+player=default
+rating=-1.00
+
+# 2437759
+type=video
+name=I24 NEWS
+thumb=http://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/I24_official_logo.png/220px-I24_official_logo.png
+URL=http://2co1.vp9.tv/chn/i24/v.m3u8
+player=default
+rating=-1.00
+
+# 2439064
+type=video
+name=Sky News
+thumb=http://img3.wikia.nocookie.net/__cb20111101111609/logopedia/images/7/75/Sky_News_Australia_2006.png
+date=2015-03-17
+URL=https://www.youtube.com/watch?v=VYlQJbsVs48
+processor=http://www.navixtreme.com/proc/youtube
+player=default
+rating=-1.00
+
+# 2437757
+type=video
+name=ABC NEWS
+thumb=http://davefennoy.com/wp-content/uploads/2014/08/abc1.png
+URL=http://2co1.vp9.tv/chn/abcn/v.m3u8
+player=default
+rating=-1.00
+
+# 2437977
+type=video
+name=BBC News
+thumb=http://www.userlogos.org/files/logos/bluewolverine07/bbc%20news%20logo.png
+date=2015-03-15
+URL=http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/bbc_world/ls_satlink/b_828.m3u8?Vd?u#bt!25
+player=default
+rating=-1.00
+
+# 2439451
+type=
+name=[COLOR=FF00BFFF]Music[/COLOR]
+thumb=http://idata.over-blog.com/2/98/66/50//cryo64-podcats.png
+date=2015-03-19
+URL=http://
+player=default
+rating=-1.00
+
+# 2439438
+type=video
+name=MI MUSICA  Latina HD
+thumb=http://www.canalmimusica.com/wp-content/uploads/2012/11/logo-mimusica.png
+date=2015-03-19
+URL=http://uneapple-i.akamaihd.net/hls/live/206731/grupoune_st20@206731/st20_index.m3u8
+player=default
+rating=-1.00
+
+# 2437981
+type=video
+name=Vevo
+thumb=https://www.justunblock.com/media/channels/vevologo-300x52.png
+date=2015-03-15
+URL=http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/06/prog_index.m3u8
+player=default
+rating=-1.00
+
+# 2437982
+type=video
+name=Vevo HipHop & R&B
+thumb=https://www.justunblock.com/media/channels/vevologo-300x52.png
+date=2015-03-15
+URL=http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/06/prog_index.m3u8
+player=default
+rating=-1.00
+
+# 2439826
+type=video
+name=Sebring 2015
+thumb=http://3.bp.blogspot.com/-nUeoCpGIH-4/VQ3V9gKTxUI/AAAAAAAADl0/ZSjZPlrQMe0/s1600/sebring.jpg
+date=2015-03-21
+URL=http://imsamultimedia-lh.akamaihd.net/i/multimedia_01@172999//master.m3u8
+player=default
+rating=-1.00
+
+# 2437983
+type=video
+name=Vevo Country Music
+thumb=https://www.justunblock.com/media/channels/vevologo-300x52.png
+date=2015-03-15
+URL=http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/06/prog_index.m3u8
+player=default
+rating=-1.00
+
+# 2438107
+type=video
+name=MTV Live
+thumb=http://www.ileamatthews.com/wp-content/uploads/2012/07/mtv_logo.png
+date=2015-03-15
+URL=http://bit.do/2qb3
+player=default
+rating=-1.00
+
+# 2437762
+type=video
+name=MTV live [COLOR=FF00BFFF]HD[/COLOR]
+thumb=http://www.ileamatthews.com/wp-content/uploads/2012/07/mtv_logo.png
+URL=http://89.212.240.49:11980/live/smil:324_0.smil/playlist.m3u8?authorization_key=hNj0mnLtB9O5rfIKuCVsX7oWASQayqZg&stream_id=0
+player=default
+rating=-1.00
+
+# 2439574
+type=video
+name=Gold Tv
+thumb=http://upload.wikimedia.org/wikipedia/en/a/a5/Gold_TV_Channel_Logo.png
+date=2015-03-20
+URL=http://87.248.160.8/edge/smil:goldtv/playlist.m3u8
+player=default
+rating=-1.00
+
+# 2439442
+type=video
+name=Kiss tv
+thumb=http://static.seenow.ro/img/tvstation/46.png
+date=2015-03-19
+URL=rtmp://tst.es.flash.glb.ipercast.net/tst.es-live/live
+player=default
+rating=-1.00
+
+# 2439425
+type=video
+name=Planet Pop
+thumb=http://upload.wikimedia.org/wikipedia/en/d/d9/Planet_Pop.png
+date=2015-03-19
+URL=http://rrr.sz.xlcdn.com/?account=AATW&file=ppop&type=live&service=wowza&protocol=http&output=playlist.m3u8
+player=default
+rating=-1.00
+
+# 2437985
+type=video
+name=Lobas TV
+thumb=http://he-repository-brasil.googlecode.com/svn/trunk/plugin.video.mastertv/resources/img/Lobas%20TV.png
+date=2015-03-15
+URL=http://bit.do/2oTc
+player=default
+rating=-1.00
+
+# 2439441
+type=video
+name=HOT HOT HOT
+thumb=http://thegrid10.com/wp-content/uploads/2013/12/Hot_Music1.png
+date=2015-03-19
+URL=http://www.djing.com/tv/hothothot.m3u8
+player=default
+rating=-1.00
+
+# 2439439
+type=video
+name=DANCEFLOOR
+thumb=http://img3.wikia.nocookie.net/__cb20140623140322/logopedia/images/archive/9/92/20141215095005!-Hot-Music-Vector-psd93250.png
+date=2015-03-19
+URL=http://www.djing.com/tv/dancefloor.m3u8
+player=default
+rating=-1.00
+
+# 2439440
+type=video
+name=UNDERGROUND
+thumb=http://img3.wikia.nocookie.net/__cb20140623140322/logopedia/images/archive/9/92/20141215095005!-Hot-Music-Vector-psd93250.png
+date=2015-03-19
+URL=http://www.djing.com/tv/underground.m3u8
+player=default
+rating=-1.00
+
+# 2437984
+type=video
+name=Europa plus TV
+thumb=http://img3.wikia.nocookie.net/__cb20140623140322/logopedia/images/archive/9/92/20141215095005!-Hot-Music-Vector-psd93250.png
+date=2015-03-15
+URL=http://europaplus.cdnvideo.ru:1935/europaplus-live/eptv_main.sdp/playlist.m3u8
+player=default
+rating=-1.00
+
+# 2439668
+type=
+name=[COLOR=FFFF34FF]Private Area[/COLOR]
+thumb=http://www.nicolalocalzo.com/site/wp-content/uploads/2010/12/logo_private1.jpg
+date=2015-03-20
+player=default
+rating=-1.00
+
+# 2439667
+type=playlist
+name=18 + ADULTS ONLY
+thumb=http://funk.co.uk/blogpix/adult_18.gif
+date=2015-03-20
+URL=http://www.navixtreme.com/playlist/150586/18__adult.plx
+player=default
+rating=3.00
+
+# 2439452
+type=
+name=[COLOR=FF00BFFF]Movies[/COLOR]
+thumb=http://icons.iconarchive.com/icons/itzikgur/my-seven/512/Movies-Oscar-icon.png
+date=2015-03-19
+URL=http://
+player=default
+rating=-1.00
+
+# 2437684
+type=video
+name=HBO
+thumb=http://www.merchantwise.com/content/client-logos/clientlogo-hbo.png
+URL=rtmp://178.162.199.141/iguide playpath=0bf02qe6msgtu4s swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/ token=#ed%h0#w18623jsda6523lDGD
+player=default
+rating=-1.00
+
+# 2437628
+type=video
+name=HBO [COLOR=FF00BFFF]HD[/COLOR]
+thumb=http://hboasia.com/assets/img/core/hbo-hd-logo.png
+URL=http://bit.do/2mdT
+player=default
+rating=-1.00
+
+# 2437627
+type=video
+name=CINEMAX
+thumb=http://upload.wikimedia.org/wikipedia/commons/8/8f/Cinemax_logo_logo.png
+URL=http://bit.do/2mcY
+player=default
+rating=-1.00
+
+# 2439736
+type=video
+name=AXN test
+date=2015-03-21
+URL=http://live.oneplay.tv/reproducir/109.m3u8
+player=default
+rating=-1.00
+
+# 2437629
+type=video
+name=AXN [COLOR=FF00BFFF]HD[/COLOR]
+thumb=http://epg.serbianforum.org/logo_znaci/AXN%20HD%20720i.png
+URL=http://bit.do/2meL
+player=default
+rating=-1.00
+
+# 2438169
+type=video
+name=Fox 1 HD
+thumb=http://foromedios.com/uploads/gallery/category_7/gallery_7692_7_2340.png
+date=2015-03-15
+URL=http://bit.do/2qGV
+player=default
+rating=-1.00
+
+# 2438163
+type=video
+name=Fox movies HD
+thumb=http://static.myhdmedia.co/hd/channels/Movies/dark/foxmovies.png
+date=2015-03-15
+URL=http://bit.do/2qGH
+player=default
+rating=-1.00
+
+# 2438166
+type=video
+name=Fox action HD
+thumb=http://www.digihost360.co.uk/ch/images/channels/fox_action_hd.png
+date=2015-03-15
+URL=http://bit.do/2qGL
+player=default
+rating=-1.00
+
+# 2438117
+type=video
+name=Star Movies
+thumb=http://www.fictw.com/images/smit/logo.png
+date=2015-03-15
+URL=http://113.160.49.34/lives/origin03/moviehd.isml/moviehd-2096k.m3u8
+player=default
+rating=-1.00
+
+# 2439537
+type=video
+name=FILM ZONE
+thumb=http://www.lamac.org/res/channels/logos/_0028_the_film_zone.png
+date=2015-03-19
+URL=http://200.76.77.237/LIVE/H01/CANAL440/PROFILE03.m3u8?
+player=default
+rating=-1.00
+
+# 2437657
+type=video
+name=SONY [COLOR=FF00BFFF]HD[/COLOR] (Eng/Spa)
+thumb=https://pbs.twimg.com/profile_images/1449227398/Sony_TV_logo.png
+URL=http://200.76.77.237/LIVE/H01/CANAL203/PROFILE03.m3u8
+player=default
+rating=-1.00
+
+# 2438148
+type=video
+name=Cinecanal
+thumb=http://i605.photobucket.com/albums/tt134/grupofmultimedios/Imagen1.png
+date=2015-03-15
+URL=http://bit.do/2qGk
+player=default
+rating=-1.00
+
+# 2439660
+type=video
+name=WARNER (SD)
+date=2015-03-20
+URL=http://200.76.77.237/LIVE/H01/CANAL205/PROFILE03.m3u8?
+player=default
+rating=-1.00
+
+# 2437635
+type=video
+name=WARNER [COLOR=FF00BFFF]HD[/COLOR] (Eng/Spa)
+thumb=http://fc03.deviantart.net/fs71/f/2010/078/0/6/Warner_Bros__Logo_by_gershonv.png
+URL=http://bit.do/2mrT
+player=default
+rating=-1.00
+
+# 2439412
+type=video
+name=Pink WESTERN
+thumb=http://findicons.com/files/icons/1780/black_and_orange/500/my_movies_orange_2.png
+date=2015-03-19
+URL=http://str108.setplex.net/fastv_2psh/PinkWesternglobal_rly_greece_103/balkansatnet.m3u8
+player=default
+rating=-1.00
+
+# 2439413
+type=video
+name=COMEDY
+thumb=http://findicons.com/files/icons/1780/black_and_orange/500/my_movies_orange_2.png
+date=2015-03-19
+URL=http://str108.setplex.net/fastv_2psh/PinkComedyglobal_rly_greece_103/balkansatnet.m3u8
+player=default
+rating=-1.00
+
+# 2439415
+type=video
+name=ACTION
+thumb=http://findicons.com/files/icons/1780/black_and_orange/500/my_movies_orange_2.png
+date=2015-03-19
+URL=http://str108.setplex.net/fastv_2psh/PinkActionglobal_rly_greece_109/balkansatnet.m3u8
+player=default
+rating=-1.00
+
+# 2439416
+type=video
+name=ACTION 2
+thumb=http://findicons.com/files/icons/1780/black_and_orange/500/my_movies_orange_2.png
+date=2015-03-19
+URL=http://str108.setplex.net/fastv_2psh/PinkAction2global_rly_greece_103/balkansatnet.m3u8
+player=default
+rating=-1.00
+
+# 2439417
+type=video
+name=ACTION 3
+thumb=http://findicons.com/files/icons/1780/black_and_orange/500/my_movies_orange_2.png
+date=2015-03-19
+URL=http://str108.setplex.net/fastv_2psh/PinkAction3global_rly_greece_103/balkansatnet.m3u8
+player=default
+rating=-1.00
+
+# 2439418
+type=video
+name=HORROR
+thumb=http://findicons.com/files/icons/1780/black_and_orange/500/my_movies_orange_2.png
+date=2015-03-19
+URL=http://str108.setplex.net/fastv_2psh/PinkHorrorglobal_rly_greece_103/balkansatnet.m3u8
+player=default
+rating=-1.00
+
+# 2437617
+type=video
+name=FX [COLOR=FF00BFFF]HD[/COLOR]
+thumb=http://exorbeo.com/wp-content/uploads/blogger/-s2e5VCpTMBs/T1Vqfn5mitI/AAAAAAAAERs/1kX51h6H9Ic/s1600/fxhd.png
+URL=http://bit.do/2kTK
+player=default
+rating=-1.00
+
+# 2439419
+type=video
+name=MOVIES 2
+thumb=http://findicons.com/files/icons/1780/black_and_orange/500/my_movies_orange_2.png
+date=2015-03-19
+URL=http://str108.setplex.net/fastv_2psh/PinkMovies2global_rly_greece_109/balkansatnet.m3u8
+player=default
+rating=-1.00
+
+# 2439420
+type=video
+name=MOVIES 3
+thumb=http://findicons.com/files/icons/1780/black_and_orange/500/my_movies_orange_2.png
+date=2015-03-19
+URL=http://str108.setplex.net/fastv_2psh/PinkMovies3global_rly_greece_109/balkansatnet.m3u8
+player=default
+rating=-1.00
+
+# 2439421
+type=video
+name=PREMIUM
+thumb=http://findicons.com/files/icons/1780/black_and_orange/500/my_movies_orange_2.png
+date=2015-03-19
+URL=http://str108.setplex.net/fastv_2psh/PinkPremiumglobal_rly_greece_103/balkansatnet.m3u8
+player=default
+rating=-1.00
+
+# 2439546
+type=video
+name=OSN
+thumb=http://findicons.com/files/icons/1780/black_and_orange/500/my_movies_orange_2.png
+date=2015-03-19
+URL=http://bit.do/2AWX
+player=default
+rating=-1.00
+
+# 2439545
+type=video
+name=OSN FIRST
+thumb=http://findicons.com/files/icons/1780/black_and_orange/500/my_movies_orange_2.png
+date=2015-03-19
+URL=http://bit.do/2AWP
+player=default
+rating=-1.00
+
+# 2439551
+type=video
+name=OSN first more
+thumb=http://findicons.com/files/icons/1780/black_and_orange/500/my_movies_orange_2.png
+date=2015-03-19
+URL=http://bit.do/2AXF
+player=default
+rating=-1.00
+
+# 2439540
+type=video
+name=oSn movie
+thumb=http://findicons.com/files/icons/1780/black_and_orange/500/my_movies_orange_2.png
+date=2015-03-19
+URL=http://bit.do/2AWo
+player=default
+rating=-1.00
+
+# 2439543
+type=video
+name=OMN movie
+thumb=http://findicons.com/files/icons/1780/black_and_orange/500/my_movies_orange_2.png
+date=2015-03-19
+URL=http://bit.do/2AWF
+player=default
+rating=-1.00
+
+# 2439547
+type=video
+name=OSN movie drama +2
+thumb=http://findicons.com/files/icons/1780/black_and_orange/500/my_movies_orange_2.png
+date=2015-03-19
+URL=http://bit.do/2AWY
+player=default
+rating=-1.00
+
+# 2439541
+type=video
+name=oSn movie 2
+thumb=http://findicons.com/files/icons/1780/black_and_orange/500/my_movies_orange_2.png
+date=2015-03-19
+URL=http://bit.do/2AWt
+player=default
+rating=-1.00
+
+# 2439548
+type=video
+name=OSN 2
+thumb=http://findicons.com/files/icons/1780/black_and_orange/500/my_movies_orange_2.png
+date=2015-03-19
+URL=http://bit.do/2AW7
+player=default
+rating=-1.00
+
+# 2439544
+type=video
+name=OSN +2
+thumb=http://findicons.com/files/icons/1780/black_and_orange/500/my_movies_orange_2.png
+date=2015-03-19
+URL=http://bit.do/2AWK
+player=default
+rating=-1.00
+
+# 2439550
+type=video
+name=OSN 3
+thumb=http://findicons.com/files/icons/1780/black_and_orange/500/my_movies_orange_2.png
+date=2015-03-19
+URL=http://bit.do/2AXr
+player=default
+rating=-1.00
+
+# 2439552
+type=video
+name=OSN 4
+thumb=http://findicons.com/files/icons/1780/black_and_orange/500/my_movies_orange_2.png
+date=2015-03-19
+URL=http://bit.do/2AXT
+player=default
+rating=-1.00
+
+# 2439557
+type=video
+name=OSN 5
+thumb=http://findicons.com/files/icons/1780/black_and_orange/500/my_movies_orange_2.png
+date=2015-03-19
+URL=http://bit.do/2AYy
+player=default
+rating=-1.00
+
+# 2439558
+type=video
+name=OSN 6
+thumb=http://findicons.com/files/icons/1780/black_and_orange/500/my_movies_orange_2.png
+date=2015-03-19
+URL=http://bit.do/2AYL
+player=default
+rating=-1.00
+
+# 2439554
+type=video
+name=OSN 7
+thumb=http://findicons.com/files/icons/1780/black_and_orange/500/my_movies_orange_2.png
+date=2015-03-19
+URL=http://bit.do/2AX7
+player=default
+rating=-1.00
+
+# 2439559
+type=video
+name=diseny
+thumb=http://findicons.com/files/icons/1780/black_and_orange/500/my_movies_orange_2.png
+date=2015-03-19
+URL=http://bit.do/2AYY
+player=default
+rating=-1.00
+
+# 2437990
+type=video
+name=CBS Drama
+thumb=http://findicons.com/files/icons/1780/black_and_orange/500/my_movies_orange_2.png
+date=2015-03-15
+URL=http://93.184.221.133/00573D/712/712-0.m3u8
+player=default
+rating=-1.00
+
+# 2437992
+type=video
+name=CBS ACTION
+thumb=http://findicons.com/files/icons/1780/black_and_orange/500/my_movies_orange_2.png
+date=2015-03-15
+URL=http://93.184.221.133/00573D/711/711-0.m3u8
+player=default
+rating=-1.00
+
+# 2437991
+type=video
+name=CBS Reality
+thumb=http://findicons.com/files/icons/1780/black_and_orange/500/my_movies_orange_2.png
+date=2015-03-15
+URL=http://93.184.221.133/00573D/713/713-0.m3u8
+player=default
+rating=-1.00
+
+# 2439455
+type=
+name=[COLOR=FF00BFFF]Carton & Entertainment[/COLOR]
+thumb=http://fc05.deviantart.net/fs70/i/2013/328/1/7/mockingjay_movie_logo_png__no_ring__by_allheartsgoboom-d6vgkud.png
+date=2015-03-19
+player=default
+rating=-1.00
+
+# 2439533
+type=video
+name=TLC (SD)
+date=2015-03-19
+URL=http://200.76.77.237/LIVE/H01/CANAL356/PROFILE03.m3u8?
+player=default
+rating=-1.00
+
+# 2437881
+type=video
+name=TLC 1080P
+URL=http://bit.do/2npf
+player=default
+rating=-1.00
+
+# 2439532
+type=video
+name=DISCOVERY HD
+date=2015-03-19
+URL=http://200.76.77.237/LIVE/H01/CANAL351/PROFILE03.m3u8?
+player=default
+rating=-1.00
+
+# 2437650
+type=video
+name=Discovery Theatre [COLOR=FF00BFFF]HD[/COLOR]
+thumb=http://upload.wikimedia.org/wikipedia/commons/d/d7/HD_Theater_logo.png
+URL=http://bit.do/2mvo
+player=default
+rating=-1.00
+
+# 2439555
+type=video
+name=discovery science
+date=2015-03-19
+URL=http://bit.do/2AYf
+player=default
+rating=-1.00
+
+# 2439556
+type=video
+name=discovery id
+date=2015-03-19
+URL=http://bit.do/2AYt
+player=default
+rating=-1.00
+
+# 2439542
+type=video
+name=discovery channel
+date=2015-03-19
+URL=http://bit.do/2AWB
+player=default
+rating=-1.00
+
+# 2439423
+type=video
+name=NAT GEO WILD
+date=2015-03-19
+URL=http://202.75.23.35/live/ch39/03.m3u8
+player=default
+rating=-1.00
+
+# 2439549
+type=video
+name=tcm
+date=2015-03-19
+URL=http://bit.do/2AXe
+player=default
+rating=-1.00
+
+# 2439534
+type=video
+name=WOBI
+date=2015-03-19
+URL=http://200.76.77.237/LIVE/H01/CANAL387/PROFILE03.m3u8?
+player=default
+rating=-1.00
+
+# 2437979
+type=video
+name=ITV HD
+thumb=http://www.freelargeimages.com/wp-content/uploads/2014/11/England_flag-3.jpg
+date=2015-03-15
+URL=http://93.184.221.133/00573D/283/283-0.m3u8
+player=default
+rating=-1.00
+
+# 2437756
+type=video
+name=CARTOON NETWORK
+thumb=http://fc05.deviantart.net/fs71/i/2012/230/4/3/cartoon_network_20th_anniversary_picture_2_by_toon2012-d5biexd.png
+URL=http://bit.do/2mZL
+player=default
+rating=-1.00
+
+# 2439815
+type=video
+name=CTV Yorkton
+thumb=http://www.hdwallpapersnews.com/wp-content/uploads/2015/02/Canada-Flag-HD-Wallpapers-for-Mobile.jpg
+date=2015-03-21
+URL=http://198.179.31.198/live/2053.high.stream/2053.high.stream/index.m3u8
+player=default
+rating=-1.00
+
+# 2437758
+type=video
+name=NICKELODEON
+thumb=http://www.nick.ch/assets/nickelodeon-d84aae62e4dfb9dcb60d68cd00dbf53e.png
+URL=http://2co1.vp9.tv/chn/nicke/v.m3u8
+player=default
+rating=-1.00
+
+# 2437753
+type=video
+name=The Simpsons 24/7
+thumb=http://icons.iconarchive.com/icons/jonathan-rey/simpsons/256/The-Simpsons-04-icon.png
+URL=http://bit.do/2mYQ
+player=default
+rating=-1.00
+
+# 2437755
+type=video
+name=Family Guy 24/7
+thumb=http://th06.deviantart.net/fs70/PRE/i/2011/120/b/5/young_family_guy_characters_by_craig_38-d3fa2n5.png
+URL=http://bit.do/2mY5
+player=default
+rating=-1.00
+
+# 2437754
+type=video
+name=South Park 24/7
+thumb=http://fc03.deviantart.net/fs42/f/2009/103/0/8/South_Park_Logo_by_Sonic_Gal007.png
+URL=http://bit.do/2mYX
+player=default
+rating=-1.00
+
+# 2437752
+type=video
+name=Tom&Jerry 24/7
+thumb=https://s-media-cache-ak0.pinimg.com/originals/91/49/33/9149338773c8b38b58d99a597463c67d.jpg
+URL=http://bit.do/2mYM
+player=default
+rating=-1.00
+
+# 2439432
+type=video
+name=Cops 24/7
+date=2015-03-19
+URL=rtmpe://192.99.21.184/blink02202afghadfgfodfndanfkjncvnjvnkjfhfgjhadfvandkjcnbjkadgbutoarihn/ playpath=cops01 swfUrl=http://www.tgun.tv/locked/player.swf live=true pageUrl=http://www.tgun.tv/menus/players/dlock/playerindex6.php?cops01 timeout=10
+player=default
+rating=-1.00
+
+# 2439553
+type=video
+name=fashion tv
+date=2015-03-19
+URL=http://bit.do/2AXY
+player=default
+rating=-1.00
+
+# 2438129
+type=video
+name=Bloomberg
+date=2015-03-15
+URL=http://bit.do/2qFD
+player=default
+rating=-1.00
+
+# 2439422
+type=video
+name=WORLD
+date=2015-03-19
+URL=http://str108.setplex.net/fastv_2psh/PinkWorldglobal_rly_greece_109/balkansatnet.m3u8
+player=default
+rating=-1.00
+
+# 2437978
+type=video
+name=BBC 1
+thumb=http://world-livestreaming.eu/wp-content/uploads/2014/11/bbc1.png.gif
+date=2015-03-15
+URL=http://93.184.221.133/00573D/1277/1277-0.m3u8
+player=default
+rating=-1.00
+
+# 2437612
+type=
+name=_/*** [COLOR=FF00BFFF]\\\\///Canales Latino Nacionaless////\\\[/COLOR] ***\_
+thumb=http://mobiletvx.ru/images/ChannelList%202.png
+URL=http://
+player=default
+rating=-1.00
+
+# 2437613
+type=
+name=Donar a Mi PayPal [COLOR=FF00BFFF]Jaymac192@msn.com[/COLOR] para ayudarme a seguir poniendo canales
+thumb=http://www.chatpalmademallorca.com/foro/Themes/default/images/donar.png
+player=default
+rating=-1.00
+
+# 2438115
+type=
+name=Yo hare mi mejor esfuerzo para tener los canales alto al dia.
+date=2015-03-15
+player=default
+rating=-1.00
+
+# 2439535
+type=video
+name=TNT test
+date=2015-03-19
+URL=http://200.76.77.237/LIVE/H01/CANAL435/PROFILE03.m3u8?
+player=default
+rating=-1.00
+
+# 2439642
+type=video
+name=CANAL DE LAS ESTRELLAS NUEVO
+thumb=http://www.risk.net/IMG/219/214219/mexico-flag-2.jpg
+date=2015-03-20
+URL=http://200.76.77.237/LIVE/H01/CANAL102/PROFILE03.m3u8?
+player=default
+rating=-1.00
+
+# 2439538
+type=video
+name=SPACE  test
+date=2015-03-19
+URL=http://200.76.77.237/LIVE/H01/CANAL445/PROFILE03.m3u8?
+player=default
+rating=-1.00
+
+# 2437638
+type=video
+name=Univision
+thumb=http://upload.wikimedia.org/wikipedia/en/9/9a/Univision_2013_logo.png
+URL=http://bit.do/2msW
+player=default
+rating=-1.00
+
+# 2439737
+type=video
+name=Univision Test
+date=2015-03-21
+URL=http://bit.do/2DX2
+player=default
+rating=-1.00
+
+# 2437636
+type=video
+name=TruTv HD
+URL=http://bit.do/2msx
+player=default
+rating=-1.00
+
+# 2437879
+type=video
+name=Motors
+URL=http://bit.do/2noW
+player=default
+rating=-1.00
+
+# 2437618
+type=video
+name=A&E [COLOR=FF00BFFF]HD[/COLOR]
+thumb=http://www.canalesamericanos.com/wp-content/uploads/2014/08/AE-Logo1-e1355250638985-600x250.jpg
+URL=http://bit.do/2kTW
+player=default
+rating=-1.00
+
+# 2437616
+type=video
+name=Universal [COLOR=FF00BFFF]HD[/COLOR]
+thumb=http://upload.wikimedia.org/wikipedia/en/c/c6/Universal_Channel.png
+URL=http://bit.do/2kTj
+player=default
+rating=-1.00
+
+# 2439536
+type=video
+name=GOLDEN test
+date=2015-03-19
+URL=http://200.76.77.237/LIVE/H01/CANAL436/PROFILE03.m3u8?
+player=default
+rating=-1.00
+
+# 2439804
+type=video
+name=GOLDEN test
+date=2015-03-21
+URL=http://200.76.77.237/LIVE/H01/CANAL436/PROFILE03.m3u8?
+player=default
+rating=-1.00
+
+# 2437769
+type=video
+name=GOLDEN [COLOR=FF00BFFF]HD[/COLOR]
+thumb=http://img3.wikia.nocookie.net/__cb20120104013116/logopedia/images/e/e1/Cinema_golden_choice.png
+URL=http://200.76.77.237/LIVE/H01/CANAL436/PROFILE03.m3u8
+player=default
+rating=-1.00
+
+# 2437639
+type=video
+name=E
+URL=http://bit.do/2mti
+player=default
+rating=-1.00
+
+# 2437878
+type=video
+name=TÃ¼m
+URL=http://bit.do/2noP
+player=default
+rating=-1.00
+
+# 2437880
+type=video
+name=Natgeo Wild HQ
+URL=http://bit.do/2no2
+player=default
+rating=-1.00
+
+# 2437876
+type=video
+name=Reality
+URL=http://bit.do/2noA
+player=default
+rating=-1.00
+
+# 2438125
+type=video
+name=Star
+date=2015-03-15
+URL=http://bit.do/2qFn
+player=default
+rating=-1.00
+
+# 2438141
+type=video
+name=TCM
+date=2015-03-15
+URL=http://bit.do/2qGa
+player=default
+rating=-1.00
+
+# 2439658
+type=video
+name=TLC (SD)
+date=2015-03-20
+URL=http://200.76.77.237/LIVE/H01/CANAL386/PROFILE03.m3u8?
+player=default
+rating=-1.00
+
+# 2437640
+type=video
+name=SyFy
+URL=http://bit.do/2mtx
+player=default
+rating=-1.00
+
+# 2438152
+type=video
+name=Space
+date=2015-03-15
+URL=http://bit.do/2qGp
+player=default
+rating=-1.00
+
+# 2438146
+type=video
+name=Edge
+date=2015-03-15
+URL=http://bit.do/2qGf
+player=default
+rating=-1.00
+
+# 2438196
+type=video
+name=TBS HQ
+date=2015-03-15
+URL=http://bit.do/2qHz
+player=default
+rating=-1.00
+
+# 2437647
+type=video
+name=TBS
+URL=http://bit.do/2muG
+player=default
+rating=-1.00
+
+# 2437877
+type=video
+name=tvs
+URL=http://bit.do/2noJ
+player=default
+rating=-1.00
+
+# 2437637
+type=video
+name=Comedy Central
+URL=http://bit.do/2msA
+player=default
+rating=-1.00
+
+# 2438216
+type=video
+name=Cartoon network
+date=2015-03-15
+URL=http://bit.do/2qJo
+player=default
+rating=-1.00
+
+# 2437768
+type=video
+name=DISNEY JR - NUEVO
+thumb=http://img4.wikia.nocookie.net/__cb20100604112357/logopedia/images/7/70/Disney_Junior.png
+URL=http://200.76.77.237/LIVE/H01/CANAL308/PROFILE03.m3u8?
+player=default
+rating=-1.00
+
+# 2438214
+type=video
+name=Nick
+date=2015-03-15
+URL=http://bit.do/2qJh
+player=default
+rating=-1.00
+
+# 2438206
+type=video
+name=Nick Jr
+date=2015-03-15
+URL=http://bit.do/2qHQ
+player=default
+rating=-1.00
+
+# 2439657
+type=video
+name=NICK (SD)
+date=2015-03-20
+URL=http://200.76.77.237/LIVE/H01/CANAL317/PROFILE03.m3u8?
+player=default
+rating=-1.00
+
+# 2439653
+type=video
+name=NICK 720P
+date=2015-03-20
+URL=http://200.76.77.237/LIVE/H01/CANAL315/PROFILE03.m3u8?
+player=default
+rating=-1.00
+
+# 2438210
+type=video
+name=Nick 1080P
+date=2015-03-15
+URL=http://bit.do/2qJa
+player=default
+rating=-1.00
+
+# 2438128
+type=video
+name=Nicktoons
+date=2015-03-15
+URL=http://bit.do/2qFz
+player=default
+rating=-1.00
+
+# 2438217
+type=video
+name=Disney XD
+date=2015-03-15
+URL=http://bit.do/2qJx
+player=default
+rating=-1.00
+
+# 2438208
+type=video
+name=Disney Channel HQ
+date=2015-03-15
+URL=http://bit.do/2qH5
+player=default
+rating=-1.00
+
+# 2438218
+type=video
+name=Boomerang
+date=2015-03-15
+URL=http://bit.do/2qJC
+player=default
+rating=-1.00
+
+# 2438201
+type=video
+name=Cartoonita
+date=2015-03-15
+URL=http://bit.do/2qHM
+player=default
+rating=-1.00
+
+# 2437651
+type=video
+name=Motors
+URL=http://bit.do/2mvx
+player=default
+rating=-1.00
+
+# 2438188
+type=video
+name=Animal Planet
+date=2015-03-15
+URL=http://bit.do/2qHj
+player=default
+rating=-1.00
+
+# 2438185
+type=video
+name=National Geographic
+date=2015-03-15
+URL=http://bit.do/2qHg
+player=default
+rating=-1.00
+
+# 2438180
+type=video
+name=Discovery Science
+date=2015-03-15
+URL=http://bit.do/2qG8
+player=default
+rating=-1.00
+
+# 2438177
+type=video
+name=Discovery civilization
+date=2015-03-15
+URL=http://bit.do/2qG5
+player=default
+rating=-1.00
+
+# 2438175
+type=video
+name=Discovery Turbo
+date=2015-03-15
+URL=http://bit.do/2qG2
+player=default
+rating=-1.00
+
+# 2438191
+type=video
+name=Discovery HQ
+date=2015-03-15
+URL=http://bit.do/2qHo
+player=default
+rating=-1.00
+
+# 2437641
+type=video
+name=I.D
+thumb=http://www.lamac.org/res/channels/logos/_0037_investigation_discovery.png
+URL=http://bit.do/2mtJ
+player=default
+rating=-1.00
+
+# 2439734
+type=video
+name=AXN
+date=2015-03-21
+URL=http://bit.do/2DXb
+player=default
+rating=-1.00
+
+# 2439735
+type=video
+name=AXN HD
+date=2015-03-21
+URL=http://bit.do/2DXq
+player=default
+rating=-1.00
+
+# 2438131
+type=video
+name=M
+date=2015-03-15
+URL=http://bit.do/2qFM
+player=default
+rating=-1.00
+
+# 2437642
+type=video
+name=Infinito
+URL=http://bit.do/2mtS
+player=default
+rating=-1.00
+
+# 2437980
+type=video
+name=TRT
+date=2015-03-15
+URL=http://trtcanlitv-lh.akamaihd.net/i/TRTHD_1@182045/index_1500_av-p.m3u8?sd=10&rebase=on
+player=default
+rating=-1.00
+
+# 2437643
+type=video
+name=G
+URL=http://bit.do/2mtZ
+player=default
+rating=-1.00
+
+# 2437644
+type=video
+name=Reality
+URL=http://bit.do/2mua
+player=default
+rating=-1.00
+
+# 2438127
+type=video
+name=Hmax
+date=2015-03-15
+URL=http://bit.do/2qFw
+player=default
+rating=-1.00
+
+# 2438154
+type=video
+name=Dp HD
+date=2015-03-15
+URL=http://bit.do/2qGt
+player=default
+rating=-1.00
+
+# 2438143
+type=video
+name=Cinecanal red
+date=2015-03-15
+URL=http://bit.do/2qGb
+player=default
+rating=-1.00
+
+# 2438160
+type=video
+name=Cinecanal +
+date=2015-03-15
+URL=http://bit.do/2qGC
+player=default
+rating=-1.00
+
+# 2438106
+type=video
+name=Fox life
+date=2015-03-15
+URL=http://bit.do/2qbk
+player=default
+rating=-1.00
+
+# 2437645
+type=video
+name=Fox life
+URL=http://bit.do/2mus
+player=default
+rating=-1.00
+
+# 2438121
+type=video
+name=Fox cinema
+date=2015-03-15
+URL=http://bit.do/2qE2
+player=default
+rating=-1.00
+
+# 2438122
+type=video
+name=Fox family
+date=2015-03-15
+URL=http://bit.do/2qE7
+player=default
+rating=-1.00
+
+# 2438123
+type=video
+name=Fox classics
+date=2015-03-15
+URL=http://bit.do/2qFc
+player=default
+rating=-1.00
+
+# 2438187
+type=video
+name=H&H
+date=2015-03-15
+URL=http://bit.do/2qHh
+player=default
+rating=-1.00
+
+# 2438157
+type=video
+name=Filmzone HD
+date=2015-03-15
+URL=http://bit.do/2qGy
+player=default
+rating=-1.00
+
+# 2437646
+type=video
+name=Comedias
+URL=http://bit.do/2muy
+player=default
+rating=-1.00
+
+# 2438126
+type=video
+name=H
+date=2015-03-15
+URL=http://bit.do/2qFu
+player=default
+rating=-1.00
+
+# 2438203
+type=video
+name=Cbeebies
+date=2015-03-15
+URL=http://bit.do/2qHN
+player=default
+rating=-1.00
+
+# 2438130
+type=video
+name=Tve
+date=2015-03-15
+URL=http://bit.do/2qFH
+player=default
+rating=-1.00
+
+# 2438183
+type=video
+name=Lifetime
+date=2015-03-15
+URL=http://bit.do/2qHb
+player=default
+rating=-1.00
+
+# 2437648
+type=video
+name=Casa
+URL=http://bit.do/2muP
+player=default
+rating=-1.00
+
+# 2437649
+type=video
+name=Hnovelas
+URL=http://bit.do/2muW
+player=default
+rating=-1.00
+
+# 2437969
+type=video
+name=ANTENA 3
+thumb=http://upload.wikimedia.org/wikipedia/commons/9/99/F1-composite-NEW.png
+date=2015-03-15
+URL=http://antena3-aos1-apple-live.adaptive.level3.net/apple/antena3/channel01/antena_3_hd_1548K_1280x720_main.m3u8
+player=default
+rating=-1.00
+
+# 2437970
+type=video
+name=La Sexta HD
+date=2015-03-15
+URL=http://antena3-aos1-apple-live.adaptive.level3.net/apple/antena3/channel02/la_sexta_hd_1548K_1280x720_main.m3u8
+player=default
+rating=-1.00
+
+# 2437971
+type=video
+name=RTVE 24h
+date=2015-03-15
+URL=http://iphonelive.rtve.es/24H_LV3_IPH/bitrate_2.m3u8
+player=default
+rating=-1.00
+
+# 2437972
+type=video
+name=Galicia TV
+date=2015-03-15
+URL=http://media3.crtvg.es/live/tvge/playlist.m3u8
+player=default
+rating=-1.00
+
+# 2438136
+type=video
+name=Fox sport HD
+date=2015-03-15
+URL=http://bit.do/2qFY
+player=default
+rating=-1.00
+
+# 2438135
+type=video
+name=Fox sport 2 HD
+date=2015-03-15
+URL=http://bit.do/2qFX
+player=default
+rating=-1.00
+
+# 2438406
+type=video
+name=DXTV DEPORTV
+thumb=http://4.bp.blogspot.com/-9-SNuD11nLU/VE3q2AD3dzI/AAAAAAAACQk/Kti7RJhwxbs/s1600/DEPORTV.jpg
+date=2015-03-16
+URL=rtmp://edge02.dcarsat.com.ar/DXTV/DXTV/
+player=default
+rating=-1.00
+
+# 2438134
+type=video
+name=ESPN VIVO
+date=2015-03-15
+URL=http://bit.do/2qFV
+player=default
+rating=-1.00
+
+# 2438139
+type=video
+name=ESPN HD
+date=2015-03-15
+URL=http://bit.do/2qF6
+player=default
+rating=-1.00
+
+# 2438132
+type=video
+name=ESPN 2
+date=2015-03-15
+URL=http://bit.do/2qFR
+player=default
+rating=-1.00
+
+# 2438137
+type=video
+name=ESPN 3 HD
+date=2015-03-15
+URL=http://bit.do/2qF2
+player=default
+rating=-1.00
+
+# 2439447
+type=video
+name=TVE (TELEVISION ESPAÃ?OLA):
+date=2015-03-19
+URL=http://iphonelive.rtve.es/24H_LV3_IPH/bitrate_2.m3u8
+player=default
+rating=-1.00
+
+# 2439446
+type=video
+name=TELEMAX
+date=2015-03-19
+URL=http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/master.m3u8
+player=default
+rating=-1.00
+
+# 2439445
+type=video
+name=VMASTV
+date=2015-03-19
+URL=http://uneapple-i.akamaihd.net/hls/live/207642/grupoune_st23@207642/st23_index.m3u8
+player=default
+rating=-1.00
+
+# 2439444
+type=video
+name=CABLE NOTICIAS
+date=2015-03-19
+URL=http://uneapple-i.akamaihd.net/hls/live/205016/grupoune_st7@205016/st7_index.m3u8
+player=default
+rating=-1.00
+
+# 2439443
+type=video
+name=DIGITAL TV
+date=2015-03-19
+URL=http://bit.do/2zRn
+player=default
+rating=-1.00
+
+# 2439449
+type=
+name=[COLOR=FF00BFFF]Musica[/COLOR]
+date=2015-03-19
+player=default
+rating=-1.00
+
+# 2439437
+type=video
+name=ME SUENA TV
+date=2015-03-19
+URL=http://uneapple-i.akamaihd.net/hls/live/215955/grupoune_st44@215955/st44_index.m3u8
+player=default
+rating=-1.00
+
+# 2439435
+type=video
+name=MeSuena TV (OpciÃ³n 2)
+date=2015-03-19
+URL=http://uneapple-i.akamaihd.net/hls/live/205017/grupoune_st8@205017/st8_index.m3u8
+player=default
+rating=-1.00
+
+# 2439454
+type=
+name=[COLOR=FF00BFFF]************************************************************[/COLOR]
+date=2015-03-19
+player=default
+rating=-1.00
+
+# 2437709
+type=video
+name=Antena 3 Sports
+thumb=http://hdwallpaperia.com/wp-content/uploads/2014/01/Spain-Flag-Wallpaper-Image-Picture.jpg
+URL=http://antena3-aos1-apple-live.adaptive.level3.net/apple/antena3/channel01/antena_3_hd_1548K_1280x720_main.m3u8
+player=default
+rating=-1.00
+
+# 2437973
+type=video
+name=America
+thumb=http://www.risk.net/IMG/219/214219/mexico-flag-2.jpg
+date=2015-03-15
+URL=http://ooyalahd2-f.akamaihd.net/i/americatv_delivery@25405/index_1728_av-p.m3u8
+player=default
+rating=-1.00
+
+# 2437664
+type=video
+name=Teleformula New
+thumb=http://www.risk.net/IMG/219/214219/mexico-flag-2.jpg
+URL=http://200.76.77.237/LIVE/H01/CANAL161/PROFILE03.m3u8?
+player=default
+rating=-1.00
+
+# 2437662
+type=video
+name=AZTECA 7 - NUEVO
+thumb=http://www.risk.net/IMG/219/214219/mexico-flag-2.jpg
+URL=http://200.76.77.237/LIVE/H01/CANAL107/PROFILE03.m3u8?
+player=default
+rating=-1.00
+type=playlist
+name=>>>
+URL=http://www.navixtreme.com/playlist/150363/(live_international_hdtv)_all_working.plx?page=2
+
+# cached

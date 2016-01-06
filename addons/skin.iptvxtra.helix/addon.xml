@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<addon id="skin.iptvxtra.helix" version="3.6.8" name="IPTVxtra für Helix 14.x" provider-name="IPTVxtra.net">
+  <requires>
+		<import addon="xbmc.gui" version="5.3.0"/>
+        <import addon="script.artistslideshow" version="1.8.2"/>
+        <import addon="script.globalsearch" version="3.0.4"/>
+        <import addon="script.iptvxtra-favs" version="1.0"/>
+  </requires>
+  <extension point="xbmc.gui.skin" defaultthemename="textures.xbt" debugging="false" effectslowdown="0.75">
+    <res width="1280" height="720" aspect="16:9" default="true" folder="720p" />
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary>Confluence-MOD von IPTVxtra.net</summary>
+	<description>IPTVxtra Confluence-MOD
+Confluence basiert auf der Arbeit von Jezz_X und Team-XBMC und auf Änderungen von mad-max und blauesgrün (XBMCnerds).
+
+nur kompatibel mit Helix 14.x
+
+
+IPTVxtra Views bedienbar mit Fernbedienung
+Funktion Werbung überspringen im Fullscreen
+ArtistSlideshow integriert für Audio
+wechselnde Wetterhintergründe
+Lautstärkeregelung in Video und Audio OSD
+Zoom in/out in Video (4:3 auf 16:9)
+diverse Änderungen
+
+http://www.IPTVxtra.net</description>
+	<website>http://www.iptvxtra.net</website>
+	<platform>all</platform>
+  </extension>
+</addon>

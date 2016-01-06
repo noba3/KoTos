@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:boxee="http://boxee.tv/rss" xmlns:media="http://search.yahoo.com/mrss/"> 
+
+<channels>
+<channel>
+<name>Scheels Live Sports Streams</name>
+<thumbnail></thumbnail>
+<items>
+
+
+</items>
+</channel>
+
+<channel>
+<name>Scheels Live Sports Streams</name>
+<thumbnail></thumbnail>
+<items>
+<!-- CHANNELS LIST GOES HERE -->
+ 
+<item>
+      <title>Sky Sports 1</title>
+      <media:thumbnail url='http://www.masteetv.com/pic/sky_sports1.png'/>
+      <link>rtmp://198.61.182.107/live playpath=channel1 swfUrl=http://msnbclive.eu/player.swf pageUrl=http://omfgstreams.com/ live=true timeout=1</link>
+      <description>
+</description>
+   </item>
+<item>
+      <title>Sky Sports 2</title>
+      <media:thumbnail url='http://www.masteetv.com/pic/sky_sports2.png'/>
+      <link>rtmp://198.61.182.107/live playpath=channel2 swfUrl=http://msnbclive.eu/player.swf pageUrl=http://omfgstreams.com/ live=true timeout=1</link>
+      <description>
+</description>
+   </item>
+<item>
+      <title>Sky Sports 3</title>
+      <media:thumbnail url='http://www.masteetv.com/pic/sky_sports3.png'/>
+      <link>rtmp://198.61.182.107/live playpath=channel3 swfUrl=http://msnbclive.eu/player.swf pageUrl=http://omfgstreams.com/ live=true timeout=1</link>
+      <description>
+</description>
+   </item>
+<item>
+      <title>Sky Sports 4</title>
+      <media:thumbnail url='http://www.masteetv.com/pic/sky_sports4.png'/>
+      <link>rtmp://198.61.182.107/live playpath=channel4 swfUrl=http://msnbclive.eu/player.swf pageUrl=http://omfgstreams.com/ live=true timeout=1</link>
+      <description>
+</description>
+   </item>
+<item>
+      <title>Sky Sports 2</title>
+      <media:thumbnail url='http://www.masteetv.com/pic/sky_sports2.png'/>
+      <link>rtmp://198.61.182.107/live playpath=channel2 swfUrl=http://msnbclive.eu/player.swf pageUrl=http://omfgstreams.com/ live=true timeout=1</link>
+      <description>
+</description>
+   </item>
+
+
+
+
+<!-- END OF CHANNELS LIST -->
+
+
+</items>
+</channel>
+
+
+
+</channels>
+
+</rss>

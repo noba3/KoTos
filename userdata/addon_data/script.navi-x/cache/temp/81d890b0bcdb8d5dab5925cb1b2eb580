@@ -1,0 +1,13 @@
+version=1
+title=Sport Channel
+
+# 2439036
+type=video
+name=ITV 4 HD
+date=2015-03-17
+URL=http://wpc.AC3A.edgecastcdn.net:80/80AC3A/001/hls/m3u8/itv4.m3u8
+player=default
+rating=-1.00
+
+
+# cached

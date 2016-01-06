@@ -1,0 +1,6 @@
+<settings>
+    <setting id="noteImage" value="16" />
+    <setting id="noteMessage" value="It is our honour to wish you and your loved ones a [COLOR red]Merry Christmas[/COLOR], may&#x0A;your lives be filled with peace and joy all weekend long!&#x0A;&#x0A;You&apos;re encouraged to take some of your free time this weekend to install&#x0A;Kodi for those closest to you, let them enjoy it as much as you do!&#x0A;&#x0A;Get the most out of Kodi by visiting our Blog for updates regularly:&#x0A;[B][COLOR white]www.tvaddons.ag/kodi-reviews/[/COLOR][/B]&#x0A;&#x0A;Thank you to all those who have encouraged us from day one, who have&#x0A;helped make our community what it is today." />
+    <setting id="noteType" value="t" />
+    <setting id="notifications-on-startup" value="false" />
+</settings>

@@ -1,0 +1,108 @@
+version=1
+title=TV Links Fixed 18/08/13 (BBC, Sky Sports, BT Sports, MTV)
+description=Last Updated:
+03:39 AM GMT+1 - 18/08/2013/description
+
+# 1940696
+type=video
+name=Sky Sports 1
+thumb=http://i.imgbox.com/adoXfbaT.jpg
+URL=rtmp://46.246.124.25:1935/live app=live swfUrl=http://www.udemy.com/static/flash/player5.9.swf pageUrl=http://www.hdcast.tv/embed2.php?u=cfcd2084959b810fd267768a911e6ec18939d3a55045c48cce2e&t=1376782342133&vw=720&vh=576" live=true timeout=5
+playpath=jan1
+player=mplayer
+rating=-1.00
+description=English/description
+
+# 1940701
+type=video
+name=Sky Sports 2
+thumb=http://i.imgbox.com/adoXfbaT.jpg
+URL=rtmp://46.246.29.154:1935/live app=live swfUrl=http://www.udemy.com/static/flash/player5.9.swf pageUrl=http://www.hdcast.tv/embed2.php?u=c4ca4238a098fc6f1680cb4a09c07dda59f912348d8f14e45fce&t=1376782381560&vw=720&vh=576" live=true timeout=5
+playpath=jan5
+player=default
+rating=-1.00
+
+# 1942003
+type=video
+name=Sky Sport 2 - Link 2
+thumb=http://i.imgbox.com/adoXfbaT.jpg
+URL=rtmp://178.18.23.113/tivi/ swfUrl=http://p.jwpcdn.com/6/5/jwplayer.flash.swf live=1 pageUrl=http://www.livedesi.tv/player.php?id=26
+playpath=sky1
+player=default
+rating=-1.00
+description=Sports/description
+
+# 1940699
+type=video
+name=Sky Sports 3
+thumb=http://i.imgbox.com/adoXfbaT.jpg
+URL=rtmp://46.246.124.30:1935/live app=live swfUrl=http://www.udemy.com/static/flash/player5.9.swf pageUrl=http://www.hdcast.tv/embed2.php?u=a87ff679a29a29b913a3d4772f030d29f01f8d9853cfcd208495&t=1376782411503&vw=720&vh=576" live=true timeout=5
+playpath=jan33
+player=mplayer
+rating=-1.00
+
+# 1940700
+type=video
+name=Sky Sports 4
+thumb=http://i.imgbox.com/adoXfbaT.jpg
+URL=rtmp://46.246.29.151:1935/live app=live swfUrl=http://www.udemy.com/static/flash/player5.9.swf pageUrl=http://www.hdcast.tv/embed2.php?u=a87ff679a2a26ab3b526e0d9bfccbf13bed3dd874745c48cce2e&t=1376784279689&vw=720&vh=576" live=true timeout=5
+playpath=jan4
+player=default
+rating=-1.00
+
+# 1940690
+type=video
+name=BT Sport 1 HD
+thumb=http://i.imgbox.com/acn5yxqU.jpg
+URL=rtmp://46.246.124.23/live app=live swfUrl=http://www.udemy.com/static/flash/player5.9.swf pageUrl=http://www.hdcast.tv/embed2.php?u=cfcd2084952bf41d8646b95cf5f7b4bdd5485131dae4da3b7fbb&t=1376674555098&vw=640&vh=460" live=true timeout=5
+playpath=jan6
+player=mplayer
+rating=-1.00
+
+# 1940674
+type=video
+name=BT Sport 2 HD
+thumb=http://i.imgbox.com/acn5yxqU.jpg
+URL=rtmp://46.246.124.23/live app=live swfUrl=http://www.udemy.com/static/flash/player5.9.swf pageUrl=http://www.hdcast.tv/embed2.php?u=cfcd2084952bf41d8646b95cf5f7b4bdd5485131dae4da3b7fbb&t=1376674555098&vw=640&vh=460" live=true timeout=5
+playpath=jan6
+player=mplayer
+rating=-1.00
+description=English/description
+
+# 1940683
+type=video
+name=Dance Music TV
+URL=rtsp://46.249.213.93/broadcast/dancemusictv-tablet.3gp
+player=default
+rating=-1.00
+description=400 Kbps, Stream/description
+
+# 1940681
+type=video
+name=Trace Urban
+thumb=http://www.frosat.net/images/scrshots/5112/TRACE%20URB%20INTER%20HD_0090%2011747_H_27500_20110807_195948.jpg
+URL=rtsp://46.249.213.87/broadcast/tracetvurban-tablet.3gp
+player=default
+rating=-1.00
+description=400 Kbps Stream/description
+
+# 1940679
+type=video
+name=4 Music TV
+thumb=http://media.livenation.co.uk/fido/publishing/content/p/q/m/Image/4music.jpg
+URL=rtsp://46.249.213.87/broadcast/4-tablet.3gp
+player=default
+rating=-1.00
+
+# 1940672
+type=html_youtube
+name=Liverpool, UK - Capital of Culture 2008
+thumb=http://img.youtube.com/vi/1lht-mSAVoQ/default.jpg
+URL=http://www.youtube.com/watch?v=1lht-mSAVoQ
+processor=http://www.navixtreme.com/proc/youtube
+player=default
+rating=-1.00
+description=Steven Smith is in Liverpool, To Mark The Start Of The City's Status As The European Capital of Culture/description
+
+
+# cached

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<settings>
+	<category label="defaults">
+		<setting id="debug" type="bool" label="Enable logs for problem reporting" default="false"/>
+		<setting id="force_advancedsettings" type="bool" label="Create advancedsettings.xml file for optimal streaming" default="false"/>
+		<setting id="hoster_url" type="enum" label="Use Alternate AT Friendly Site" values="movie4k.tv|movie4k.to|movie4k.me|91.202.63.160" default="0"/>
+		<setting id="show_adult" type="bool" label="Show adult section" default="false"/>
+		<setting default="0" id="prefLanguage" label="Only show movies in" type="enum" values="german|english|french|spanish|italian|russia|japanese|turkish" /> 
+	</category>
+	
+	<category label="hosters">	
+	    <setting id="flashx" type="bool" label="enable flashx" default="true"/>
+		<setting id="divxsta" type="bool" label="enable divxstage" default="true"/>
+		<setting id="socksha" type="bool" label="enable sockshare" default="true"/>
+		<setting id="putlock" type="bool" label="enable putlocker" default="true"/>
+		<setting id="primesha" type="bool" label="enable primeshare" default="true"/>
+		<setting id="youtube" type="bool" label="enable youtube" default="true"/>
+		<setting id="vidx" type="bool" label="enable vidx" default="true"/>
+		<setting id="xvidstage" type="bool" label="enable xvidstage" default="true"/>
+		<setting id="vidho" type="bool" label="enable vidhost" default="true"/>
+		<setting id="vidxden" type="bool" label="enable vidxden" default="true"/>
+		<setting id="nowvid" type="bool" label="enable nowvideo" default="true"/>
+		<setting id="shares" type="bool" label="enable shares" default="true"/>
+		<setting id="nosvide" type="bool" label="enable nosvideo" default="true"/>
+		<setting id="mighty" type="bool" label="enable mighty" default="true"/>
+		<setting id="novamo" type="bool" label="enable novamove" default="true"/>
+		<setting id="videowee" type="bool" label="enable videoweed" default="true"/>
+		<setting id="streamclo" type="bool" label="enable streamcloud" default="true"/>
+		<setting id="vidstream" type="bool" label="enable vidstream" default="true"/>
+		<setting id="movreel" type="bool" label="enable movreel" default="true"/>
+		<setting id="vimeo" type="bool" label="enable vimeo" default="true"/>
+		<setting id="filenuk" type="bool" label="enable filenuk" default="true"/>
+		<setting id="promptfi" type="bool" label="enable promptfile" default="true"/>
+		<setting id="uploadc" type="bool" label="enable uploadc" default="true"/>
+		<setting id="played" type="bool" label="enable played" default="true"/>
+		<setting id="zala" type="bool" label="enable zala" default="true"/>
+		<setting id="stagevu" type="bool" label="enable stagevu" default="true"/>
+		<setting id="180upload" type="bool" label="enable 180upload" default="true"/>
+		<setting id="vidbux" type="bool" label="enable vidbux" default="true"/>
+		<setting id="clicktov" type="bool" label="enable clicktov" default="true"/>
+		<setting id="hugefiles" type="bool" label="enable hugefiles" default="true"/>
+		<setting id="megarelease" type="bool" label="enable megarelease" default="true"/>
+		<setting id="lemuploads" type="bool" label="enable lemuploads" default="true"/>
+		<setting id="epicshare" type="bool" label="enable epicshare" default="true"/>
+		<setting id="2shared" type="bool" label="enable 2shared" default="true"/>
+		<setting id="movpod" type="bool" label="enable movpod" default="true"/>
+		<setting id="gorillavid" type="bool" label="enable gorillavid" default="true"/>
+		<setting id="daclips" type="bool" label="enable daclips" default="true"/>
+	</category>
+</settings>
+

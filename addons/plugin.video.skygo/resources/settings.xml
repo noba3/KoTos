@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<settings>
+
+    <category label="31001">
+        <setting id="separator" type="lsep" label="31002"/>
+        <setting id="username" type="text" label="31003" default=""/>
+        <setting id="password" type="text" label="31004" option="hidden" default=""/>
+	</category>	
+	
+	<category label="Advanced Settings">
+		<setting id="sleep 1" type="slider" label="31005" default="0.4" range="0,0.1,1" option="float"/>
+		<setting id="sleep 2" type="slider" label="31006" default="5" range="0,1,10" option="float"/>
+		<setting id="Mousex" type="slider" label="31010" default="500" range="0,10,1000" option="int"/>
+		<setting id="Mousey" type="slider" label="31011" default="500" range="0,10,1000" option="int"/>
+		<setting id="splashy" type="bool" label="31012" default="true"/>
+		<setting id="focus" label="31013" type="labelenum" default="Default"
+                 values="Default|Alt" />
+    </category>
+	
+	<category label="Cache Settings">
+		<setting id="cache" type="number" label="31014" default="7"/>
+		<setting id="delcache" label="31015" type="action" action="RunPlugin(plugin://plugin.video.skygo/?mode=deleteCache)"/>
+    </category>
+
+	<category label="TVGuide Addon Fix">
+		<setting label="Add Skygo to TVGuide" type="action" option="close" action="RunScript($CWD/resources/TVGuide/textadd.py)"/>
+    </category>
+	
+	
+	
+</settings>

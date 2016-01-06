@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<window id="910" type="dialog">
+	<animation effect="fade" start="0" end="100" time="200">WindowOpen</animation>
+	<animation effect="fade" start="100" end="0" time="200">WindowClose</animation>
+	<!-- <visible>!Window.IsVisible(VideoOSD.xml)</visible> -->
+	<coordinates>
+		<left>20</left>
+		<top>540</top>
+	</coordinates>
+	<controls>
+		<control type="group">
+			<animation effect="slide" start="0,0" end="-190,0" time="200" condition="Window.IsVisible(BusyDialog)">conditional</animation>
+			<visible>!Window.IsVisible(VideoOSD.xml)</visible>
+			<control type="image">
+				<left>0</left><top>0</top>
+				<width>1240</width><height>170</height>
+				<colordiffuse>EEFFFFFF</colordiffuse>
+				<texture border="12">OverlayDialogBackground.png</texture>
+			</control>
+			<control type="image" id="400">
+				<description>Werbe Banner</description>
+				<left>10</left><top>10</top>
+				<width>1220</width><height>150</height>
+				<texture>$INFO[Skin.String(iptvxtra_advertising)]</texture>
+			</control>
+		</control>
+	</controls>
+</window>

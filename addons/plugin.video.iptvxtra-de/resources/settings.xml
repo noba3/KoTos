@@ -1,0 +1,278 @@
+<settings>
+    <category label="Allgemein">
+        <setting id="sBackup" type="bool" label="Settings automatisch sichern und wiederherstellen (Rootzugriff)" default="true"/>
+        <setting id="tBackup" type="bool" label="Backup Infos anzeigen" enable="eq(-1,true)" default="false"/>
+        <setting id="servhost" label="Stream-Hoster: " type="enum" default="0" values="Hoster 1 - Qualität auto|Hoster 2 - Qualität einstellbar|" />
+        <setting id="quali" label="Stream Qualität: " type="enum" default="2" values="low|medium|high" />
+        <setting id="setHeader" type="bool" label="Set http Header  -  !!! kann auch u.U. den Stream blockieren !!!" default="false"/>
+        <setting id="setBack" type="bool" label="Hintergrundbild aktivieren" default="true"/>
+        <setting id="views" type="text" label="Standard Ansicht / Replay 730-733" default="733"/>
+        <setting id="replayDE" type="bool" label="bei Replay immer deutsche Zeit eingeben" default="true"/>
+        <setting id="skip1" type="text" label="Skip bei Replay       < >     +-minuten" default="1"/>
+        <setting id="skip2" type="text" label="Skip bei Replay     << >>   +-minuten" default="5"/>
+        <setting id="skip3" type="text" label="Skip bei Replay  <<< >>>  +-minuten" default="10"/>
+        <setting id="setFull" type="bool" label="sofort Fullscreen (nicht im Vorschau-Fenster)" default="true"/>
+    </category>
+    <category label="User Login">
+        <setting id="login" label="IPTVxtra Benutzername:" type="text" default="xbmcuser"/>
+        <setting id="password" label="Passwort eingeben: " type="text" default="user"/>
+        <setting label="30080" type="sep" />
+       	<setting label="Der Benutzername ist xbmcuser und das Passwort user" type="lsep" multiline="true"/>
+		<setting label="Bitte beachte die Login Info, für noch mehr TV-Kanäle" type="lsep"/>		
+    </category>
+    <category label="Puffer für Streams">
+        <setting id="record_live_active" type="bool" label="Puffer aktiviert für Live TV" default="false"/>
+        <setting id="record_live_time" label="Player Start nach x Sekunden Puffer" type="enum" visible="!eq(-1,false)" enable="eq(-1,true)" default="0" values="sofort|30 Sekunden|60 Sekunden|" />
+        <setting id="record_live_endtime" label="maximal Laufzeit des Live Streams" type="enum" enable="eq(-2,true)" visible="!eq(-2,false)" default="2" values="4 Stunde|6 Stunden|8 Stunden|" />
+        <setting label="30080" type="sep" />
+        <setting id="record_active" type="bool" label="Puffer aktiviert für Replay" default="true"/>
+        <setting id="record_quali" label="Qualität" type="enum" enable="eq(-1,true)" visible="!eq(-1,false)" default="0" values="720p|480p|" />
+        <setting id="segment_dl" label="Replay Datei Modus" type="enum" enable="eq(-2,true)" visible="!eq(-2,false)" default="1" values="alles wird in einer Datei gespeichert|einzelne Segmente werden geladen|" />
+        <setting id="record_folder" label="Verzeichnis des Videopuffers" type="folder"  enable="eq(-3,true)" visible="!eq(-3,false)" default="Kodi Cache Verzeichnis" source="folder" option="writeable"/>
+        <setting id="record_time" label="Player Start nach x Sekunden Puffer" type="enum" enable="eq(-4,true)" visible="!eq(-4,false)" default="1" values="sofort|30 Sekunden|60 Sekunden|90 Sekunden|120 Sekunden|" />
+        <setting id="record_endtime" label="Sendungs-Ende plus x Minuten" type="enum" enable="eq(-5,true)" visible="!eq(-5,false)" default="0" values="10 Minuten|30 Minuten|1 Stunde|2 Stunden|max. 4 Stunden|" />
+        <setting id="record_max2g" type="bool" label="bei max. 2GB Puffer abbrechen" enable="eq(-6,true)" visible="!eq(-6,false)" default="true"/>
+        <setting label="aber Achtung ......." type="lsep" />
+        <setting label="es soll mindestens ein freier Speicher von 4GB zur Verfügung stehen" type="lsep" />
+        <setting label="wir empfehlen einen leeren USB Stick oder eine SD-Karte zu verwenden" type="lsep" />
+        <setting label="nur lokale Datenträger werden unterstützt (keine Netzwerkpfade)" type="lsep" />
+        <setting label="als Standard ist das Kodi Tempfile gesetzt" type="lsep" />
+        <setting label="" type="lsep" />
+        <setting label="" type="lsep" />
+    </category>
+    <category label="XMLTV-EPG">
+        <setting id="epg_on" type="bool" label="EPG / Senderinformationen anzeigen" default="true"/>
+		<setting id="epg_title" enable="!eq(-1,false)" type="bool" label="laufende Sendung grösser in der Liste anzeigen" default="false"/>
+        <setting id="timeshift0" enable="!eq(-2,false)" type="bool" label="Zeitzone fürs EPG automatisch ermitteln" default="true" /> 
+        <setting id="timeshift" enable="!eq(-1,true)+!eq(-3,false)" type="text" label="EPG Zeitverschiebung relativ zu DE (nur volle Stunden)" default="0" /> 
+        <setting id="sommer" type="bool" enable="!eq(-2,true)+!eq(-4,false)" label="deutsche Sommerzeit" default="false" /> 
+		<setting id="epg_dl" enable="!eq(-5,false)" label="XMLTV download alle x Stunden " type="enum" default="2" values="18 Std|20 Std|22 Std|24 Std" />
+        <setting id="epg_info" enable="!eq(-6,false)" type="text" label="wieviel Sendungen im Info Fenster" default="4" /> 
+		<setting id="no_epg_title" enable="!eq(-7,false)" type="bool" label="laufende Sendung nicht in der Liste anzeigen" default="false"/>
+		<setting id="epg_dlneu" enable="!eq(-8,false)" type="bool" label="EPG wird beim nächsten Addon-Start zwangs-erneuert" default="false"/>
+    </category>
+    <category label="Sender aktiv">
+		<setting id="thumbupd" type="bool" label="Update der Senderlogos (nur wenn es im Forum angekündigt wird)" default="false"/>
+		<setting id="hd_aktivx" type="enum" label="wenn verfügbar, Sender in HD, HQ oder HQ und HD" default="2" values="HQ Sender|HD Sender|HQ und HD Sender|" />
+        <setting label="30080" type="sep" />
+        <setting label="Sender sortieren... 0 = ausgeblendet  -  1 = 1.Position  -  2 = 2.Position u.s.w." type="lsep" />
+        <setting label="wird die Gruppe deaktiviert, wird diese im Addon nicht angezeigt" type="lsep" />
+        <setting label="30080" type="sep" />
+        <setting id="setCAT00" type="bool" label=" - - - - -   D e u t s c h l a n d   - - - - - - " default="true"/>
+		<setting id="xch01" visible="!eq(-1,false)" type="number" label="ARD + HD" default="100"/>
+		<setting id="xch02" visible="!eq(-2,false)" type="number" label="ZDF + HD" default="100"/>
+		<setting id="xch03" visible="!eq(-3,false)" type="number" label="SAT 1" default="100"/>
+		<setting id="xch04" visible="!eq(-4,false)" type="number" label="PRO 7 + HD" default="100"/>
+		<setting id="xch05" visible="!eq(-5,false)" type="number" label="PRO 7 maxx" default="100"/>
+		<setting id="xch06" visible="!eq(-6,false)" type="number" label="RTL + HD" default="100"/>
+		<setting id="xch07" visible="!eq(-7,false)" type="number" label="RTL 2" default="100"/>
+		<setting id="xch08" visible="!eq(-8,false)" type="number" label="Super RTL" default="100"/>
+		<setting id="xch09" visible="!eq(-9,false)" type="number" label="RTL nitro" default="100"/>
+		<setting id="xch10" visible="!eq(-10,false)" type="number" label="VOX" default="100"/>
+		<setting id="xch11" visible="!eq(-11,false)" type="number" label="DMAX" default="100"/>
+		<setting id="xch12" visible="!eq(-12,false)" type="number" label="Sixx" default="100"/>
+		<setting id="xch13" visible="!eq(-13,false)" type="number" label="Kabel 1" default="100"/>
+		<setting id="xch14" visible="!eq(-14,false)" type="number" label="Phoenix + HD" default="100"/>
+		<setting id="xch29" visible="!eq(-15,false)" type="number" label="nickCC" default="100"/>
+		<setting id="xch30" visible="!eq(-16,false)" type="number" label="KIKA + HD" default="100"/>
+		<setting id="xch31" visible="!eq(-17,false)" type="number" label="Disney Channel" default="100"/>
+		<setting id="xch32" visible="!eq(-18,false)" type="number" label="RIC" default="100"/>
+		<setting id="xch108" visible="!eq(-19,false)" type="number" label="das Neue TV - no Replay" default="100"/>
+		<setting id="xch109" visible="!eq(-20,false)" type="number" label="Welt der Wunder - no Replay" default="100"/>
+		<setting id="xch33" visible="!eq(-21,false)" type="number" label="ZDFneo + HD" default="100"/>
+		<setting id="xch34" visible="!eq(-22,false)" type="number" label="ZDFinfo + HD" default="100"/>
+		<setting id="xch35" visible="!eq(-23,false)" type="number" label="ZDFkultur + HD" default="100"/>
+		<setting id="xch37" visible="!eq(-24,false)" type="number" label="ARTE + HD" default="100"/>
+		<setting id="xch38" visible="!eq(-25,false)" type="number" label="3SAT + HD" default="100"/>
+		<setting id="xch39" visible="!eq(-26,false)" type="number" label="WDR + HD" default="100"/>
+		<setting id="xch40" visible="!eq(-27,false)" type="number" label="SWR + HD" default="100"/>
+		<setting id="xch41" visible="!eq(-28,false)" type="number" label="BR + HD" default="100"/>
+		<setting id="xch42" visible="!eq(-29,false)" type="number" label="BRalpha" default="100"/>
+		<setting id="xch43" visible="!eq(-30,false)" type="number" label="HRfernsehen + HD" default="100"/>
+		<setting id="xch44" visible="!eq(-31,false)" type="number" label="RBB Berlin + HD" default="100"/>
+		<setting id="xch107" visible="!eq(-32,false)" type="number" label="MDR + HD" default="100"/>
+		<setting id="xch45" visible="!eq(-33,false)" type="number" label="NDR + HD" default="100"/>
+		<setting id="xch106" visible="!eq(-35,false)" type="number" label="ServusTV +HD (DE) - no Replay" default="100"/>
+		<setting id="xch133" visible="!eq(-36,false)" type="number" label="Tele 5" default="100"/>
+		<setting id="xch134" visible="!eq(-37,false)" type="number" label="ANIXE + HD" default="100"/>
+		<setting id="xch135" visible="!eq(-38,false)" type="number" label="Eins plus + HD" default="100"/>
+		<setting id="xch136" visible="!eq(-39,false)" type="number" label="Eins festival + HD" default="100"/>
+		<setting id="xch137" visible="!eq(-40,false)" type="number" label="Deutsche Welle" default="100"/>
+        <setting id="setCAT10" type="bool" label=" - - - - -   S p o r t   u n d   N e w ' s   - - - - - - " default="true"/>
+		<setting id="xch22" visible="!eq(-1,false)" type="number" label="Eurosport" default="100"/>
+		<setting id="xch23" visible="!eq(-2,false)" type="number" label="Sport 1" default="100"/>
+		<setting id="xch16" visible="!eq(-3,false)" type="number" label="tagesschau24 + HD" default="100"/>
+		<setting id="xch17" visible="!eq(-4,false)" type="number" label="N24 + HD" default="100"/>
+		<setting id="xch18" visible="!eq(-5,false)" type="number" label="N-TV" default="100"/>
+		<setting id="xch19" visible="!eq(-6,false)" type="number" label="Euronews" default="100"/>
+        <setting id="setCAT20" type="bool" label=" - - - - -   M u s i k s e n d e r   - - - - - - " default="true"/>
+		<setting id="xch24" visible="!eq(-1,false)" type="number" label="Viva" default="100"/>
+		<setting id="xch93" visible="!eq(-2,false)" type="number" label="Deluxe Music - no Replay" default="100"/>
+		<setting id="xch25" visible="!eq(-4,false)" type="number" label="VEVO Music TV DE - no Replay" default="100"/>
+		<setting id="xch26" visible="!eq(-5,false)" type="number" label="VEVO Music Ch.1 - no Replay" default="100"/>
+		<setting id="xch27" visible="!eq(-6,false)" type="number" label="VEVO Music Ch.2 - no Replay" default="100"/>
+		<setting id="xch28" visible="!eq(-7,false)" type="number" label="VEVO Music Ch.3 - no Replay" default="100"/>
+		<setting id="xch105" visible="!eq(-8,false)" type="number" label="Radio 105 TV italy - no Replay" default="100"/>
+		<setting id="xch94" visible="!eq(-3,false)" type="number" label="nex1 TV - no Replay" default="100"/>
+        <setting id="setCAT30" type="bool" label=" - - - - -   Ö s t e r r e i c h   - - - - - - " default="true"/>
+		<setting id="xch47" visible="!eq(-1,false)" type="number" label="ORF1 + HD" default="100"/>
+		<setting id="xch48" visible="!eq(-2,false)" type="number" label="ORF2 + HD" default="100"/>
+		<setting id="xch49" visible="!eq(-3,false)" type="number" label="ServusTV + HD" default="100"/>
+		<setting id="xch50" visible="!eq(-4,false)" type="number" label="ATV" default="100"/>
+        <setting id="setCAT40" type="bool" label=" - - - - -   S c h w e i z   - - - - - - " default="true"/>
+		<setting id="xch51" visible="!eq(-1,false)" type="number" label="SF 1 + HD" default="100"/>
+		<setting id="xch52" visible="!eq(-2,false)" type="number" label="SF 2 + HD" default="100"/>
+		<setting id="xch53" visible="!eq(-3,false)" type="number" label="SF info" default="100"/>
+		<setting id="xch142" visible="!eq(-4,false)" type="number" label="S1 TV + HD" default="100"/>
+		<setting id="xch36" visible="!eq(-5,false)" type="number" label="3 Plus" default="100"/>
+		<setting id="xch54" visible="!eq(-6,false)" type="number" label="JOIZ" default="100"/>
+		<setting id="xch55" visible="!eq(-7,false)" type="number" label="Tele Basel" default="100"/>
+		<setting id="xch56" visible="!eq(-8,false)" type="number" label="Tele Zuri" default="100"/>
+		<setting id="xch57" visible="!eq(-9,false)" type="number" label="Tele Barn" default="100"/>
+		<setting id="xch58" visible="!eq(-10,false)" type="number" label="TeleBieLingue" default="100"/>
+		<setting id="xch59" visible="!eq(-11,false)" type="number" label="Tele 1" default="100"/>
+		<setting id="xch60" visible="!eq(-12,false)" type="number" label="TeleM1 West" default="100"/>
+		<setting id="xch61" visible="!eq(-13,false)" type="number" label="TeleM1 Ost" default="100"/>
+		<setting id="xch62" visible="!eq(-14,false)" type="number" label="Tele Top TG" default="100"/>
+		<setting id="xch63" visible="!eq(-15,false)" type="number" label="Tele Top ZH" default="100"/>
+		<setting id="xch64" visible="!eq(-16,false)" type="number" label="Tele Top SH" default="100"/>
+        <setting id="setCAT50" type="bool" label=" - - - - -   E n g l a n d   - - - - - - " default="true"/>
+		<setting id="xch87" visible="!eq(-1,false)" type="number" label="BBC one + HD" default="100"/>
+		<setting id="xch88" visible="!eq(-2,false)" type="number" label="BBC two + HD" default="100"/>
+		<setting id="xch89" visible="!eq(-3,false)" type="number" label="BBC three + HD" default="100"/>
+		<setting id="xch125" visible="!eq(-4,false)" type="number" label="BBC four + HD" default="100"/>
+		<setting id="xch126" visible="!eq(-5,false)" type="number" label="CNBC" default="100"/>
+		<setting id="xch127" visible="!eq(-6,false)" type="number" label="ITV 1 + HD" default="100"/>
+		<setting id="xch128" visible="!eq(-7,false)" type="number" label="ITV 2" default="100"/>
+		<setting id="xch129" visible="!eq(-8,false)" type="number" label="ITV 3" default="100"/>
+		<setting id="xch130" visible="!eq(-9,false)" type="number" label="ITV 4" default="100"/>
+		<setting id="xch20" visible="!eq(-10,false)" type="number" label="CNN" default="100"/>
+		<setting id="xch21" visible="!eq(-11,false)" type="number" label="Bloomberg" default="100"/>
+		<setting id="xch90" visible="!eq(-12,false)" type="number" label="BBC Sport - no Replay (SD)" default="100"/>
+		<setting id="xch91" visible="!eq(-13,false)" type="number" label="BBC News + HD" default="100"/>
+		<setting id="xch92" visible="!eq(-14,false)" type="number" label="BBC World" default="100"/>
+		<setting id="xch119" visible="!eq(-15,false)" type="number" label="London Live - no Replay" default="100"/>
+		<setting id="xch120" visible="!eq(-16,false)" type="number" label="NBC Golf - no Replay" default="100"/>
+		<setting id="xch112" visible="!eq(-17,false)" type="number" label="Eurosport - no Replay" default="100"/>
+		<setting id="xch65" visible="!eq(-18,false)" type="number" label="Film4" default="100"/>
+		<setting id="xch66" visible="!eq(-19,false)" type="number" label="E4" default="100"/>
+		<setting id="xch124" visible="!eq(-20,false)" type="number" label="more4" default="100"/>
+		<setting id="xch131" visible="!eq(-21,false)" type="number" label="Channel 4 + HD" default="100"/>
+		<setting id="xch132" visible="!eq(-22,false)" type="number" label="Channel 5" default="100"/>
+        <setting id="setCAT60" type="bool" label=" - - - - -   I t a l i e n   - - - - - - " default="true"/>
+		<setting id="xch138" visible="!eq(-1,false)" type="number" label="Canale 5 (IT)" default="100"/>
+		<setting id="xch67" visible="!eq(-2,false)" type="number" label="RSI LA1 (IT)" default="100"/>
+		<setting id="xch68" visible="!eq(-3,false)" type="number" label="RSI LA2 (IT)" default="100"/>
+		<setting id="xch118" visible="!eq(-4,false)" type="number" label="LA5 - no Replay (IT)" default="100"/>
+		<setting id="xch110" visible="!eq(-5,false)" type="number" label="LA6 - no Replay (IT)" default="100"/>
+		<setting id="xch121" visible="!eq(-6,false)" type="number" label="LA7 (IT)" default="100"/>
+		<setting id="xch70" visible="!eq(-7,false)" type="number" label="Tele Ticino (IT)" default="100"/>
+		<setting id="xch69" visible="!eq(-8,false)" type="number" label="Rai 1 (IT)" default="100"/>
+		<setting id="xch115" visible="!eq(-9,false)" type="number" label="Rai 2 (IT)" default="100"/>
+		<setting id="xch116" visible="!eq(-10,false)" type="number" label="Rai 3 (IT)" default="100"/>
+		<setting id="xch97" visible="!eq(-11,false)" type="number" label="Rai 4 - no Replay (SD) (IT)" default="100"/>
+		<setting id="xch98" visible="!eq(-12,false)" type="number" label="Rai 5 - no Replay (SD) (IT)" default="100"/>
+		<setting id="xch117" visible="!eq(-13,false)" type="number" label="Rai news24 (IT)" default="100"/>
+		<setting id="xch95" visible="!eq(-14,false)" type="number" label="Rai Movie - no Replay (SD) (IT)" default="100"/>
+		<setting id="xch96" visible="!eq(-15,false)" type="number" label="Rai Premium - no Replay (SD) (IT)" default="100"/>
+		<setting id="xch99" visible="!eq(-16,false)" type="number" label="Rai Storia (IT)" default="100"/>
+		<setting id="xch100" visible="!eq(-17,false)" type="number" label="Rai Scuola (IT)" default="100"/>
+		<setting id="xch101" visible="!eq(-18,false)" type="number" label="Rai Sport1 (IT)" default="100"/>
+		<setting id="xch102" visible="!eq(-19,false)" type="number" label="Rai Sport2 (IT)" default="100"/>
+		<setting id="xch103" visible="!eq(-20,false)" type="number" label="Rai Gulp (IT)" default="100"/>
+		<setting id="xch104" visible="!eq(-21,false)" type="number" label="Rai yoyo - no Replay (SD) (IT)" default="100"/>
+		<setting id="xch140" visible="!eq(-22,false)" type="number" label="TV Moda (IT)" default="100"/>
+		<setting id="xch141" visible="!eq(-23,false)" type="number" label="Italia 1 (IT)" default="100"/>
+        <setting id="setCAT70" type="bool" label=" - - - - -   F r a n k r e i c h   - - - - - - " default="true"/>
+		<setting id="xch122" visible="!eq(-1,false)" type="number" label="France 0 (FR)" default="100"/>
+		<setting id="xch71" visible="!eq(-2,false)" type="number" label="France 2 (FR)" default="100"/>
+		<setting id="xch72" visible="!eq(-3,false)" type="number" label="France 3 (FR)" default="100"/>
+		<setting id="xch123" visible="!eq(-4,false)" type="number" label="France 4 (FR)" default="100"/>
+		<setting id="xch73" visible="!eq(-5,false)" type="number" label="France 5 (FR)" default="100"/>
+		<setting id="xch139" visible="!eq(-6,false)" type="number" label="Gulli (FR)" default="100"/>
+		<setting id="xch111" visible="!eq(-7,false)" type="number" label="Eurosport - no Replay (FR)" default="100"/>
+		<setting id="xch113" visible="!eq(-8,false)" type="number" label="i24news - no Replay (FR)" default="100"/>
+		<setting id="xch114" visible="!eq(-9,false)" type="number" label="BFM TV - no Replay (FR)" default="100"/>
+		<setting id="xch74" visible="!eq(-10,false)" type="number" label="RTS 1 (FR)" default="100"/>
+		<setting id="xch75" visible="!eq(-11,false)" type="number" label="RTS 2 (FR)" default="100"/>
+		<setting id="xch76" visible="!eq(-12,false)" type="number" label="CartoonNetwork (FR)" default="100"/>
+		<setting id="xch77" visible="!eq(-13,false)" type="number" label="ARTE (FR)" default="100"/>
+		<setting id="xch78" visible="!eq(-14,false)" type="number" label="Canal 9 (FR)" default="100"/>
+		<setting id="xch79" visible="!eq(-15,false)" type="number" label="RTL 9 (FR)" default="100"/>
+		<setting id="xch80" visible="!eq(-16,false)" type="number" label="M6 (FR)" default="100"/>
+		<setting id="xch81" visible="!eq(-17,false)" type="number" label="LaTele (FR)" default="100"/>
+		<setting id="xch82" visible="!eq(-18,false)" type="number" label="TV5 Monde (FR)" default="100"/>
+		<setting id="xch83" visible="!eq(-19,false)" type="number" label="TF1 (FR)" default="100"/>
+		<setting id="xch84" visible="!eq(-20,false)" type="number" label="LeManBleu (FR)" default="100"/>
+		<setting id="xch85" visible="!eq(-21,false)" type="number" label="Canal Alpha JU (FR)" default="100"/>
+		<setting id="xch86" visible="!eq(-22,false)" type="number" label="Canal Alpha NE (FR)" default="100"/>
+		<setting id="xch143" visible="!eq(-23,false)" type="number" label="Rouge TV (FR)" default="100"/>
+		<setting id="xch144" visible="!eq(-24,false)" type="number" label="W 9 (FR)" default="100"/>
+		<setting id="xch145" visible="!eq(-25,false)" type="number" label="Montagne TV (FR)" default="100"/>
+		<setting id="xch146" visible="!eq(-26,false)" type="number" label="D 8 (FR)" default="100"/>
+		<setting id="xch147" visible="!eq(-27,false)" type="number" label="D 17 (FR)" default="100"/>
+		<setting id="xch148" visible="!eq(-28,false)" type="number" label="NT 1 (FR)" default="100"/>
+		<setting id="xch149" visible="!eq(-29,false)" type="number" label="NRJ 12 (FR)" default="100"/>
+		<setting id="xch150" visible="!eq(-30,false)" type="number" label="Numero 23 (FR)" default="100"/>
+		<setting id="xch151" visible="!eq(-31,false)" type="number" label="Cherie 25 (FR)" default="100"/>
+		<setting id="xch152" visible="!eq(-32,false)" type="number" label="Canal + (FR)" default="100"/>
+		<setting id="xch153" visible="!eq(-33,false)" type="number" label="TMC (FR)" default="100"/>
+		<setting id="xch154" visible="!eq(-34,false)" type="number" label="Euronews (FR)" default="100"/>
+		<setting id="xch155" visible="!eq(-35,false)" type="number" label="France 24 (FR)" default="100"/>
+		<setting id="xch156" visible="!eq(-36,false)" type="number" label="i TELE (FR)" default="100"/>
+		<setting id="xch157" visible="!eq(-37,false)" type="number" label="HD 1 (FR)" default="100"/>
+		<setting id="xch158" visible="!eq(-38,false)" type="number" label="6 ter (FR)" default="100"/>
+		<setting id="xch159" visible="!eq(-39,false)" type="number" label="TV m3 (FR)" default="100"/>
+		<setting id="xch160" visible="!eq(-40,false)" type="number" label="RMC Decouverte (FR)" default="100"/>
+		<setting id="xch161" visible="!eq(-41,false)" type="number" label="L'Equipe 21 (FR)" default="100"/>
+		<setting id="xch162" visible="!eq(-42,false)" type="number" label="KTO (FR)" default="100"/>
+    </category>
+    <category label="Deinstallation">
+		<setting label="hier können die IPTVxtra Zusatzaddons deinstalliert werden" type="lsep"/>
+		<setting label="Achtung, nach dem Klick auf den Button kommt  - K E I N E -  Nachfrage" type="lsep"/>
+		<setting label="Kodi muss danach neu gestartet werden" type="lsep"/>
+        <setting label="" type="lsep"/>
+        <setting label="                                              IPTVxtra Top Hits deinstallieren" type="action" action="RunScript($CWD/resources/lib/del_tophits.py)" />
+        <setting label="" type="lsep"/>
+        <setting label="                                              IPTVxtra more TV deinstallieren" type="action" action="RunScript($CWD/resources/lib/del_moretv.py)" />
+        <setting label="" type="lsep"/>
+        <setting label="                                       IPTVxtra DE Settings-Backup entfernen" type="action" action="RunScript($CWD/resources/lib/del_settings.py)" />
+    </category>
+    <category label="Login & Replay Info">
+        <setting label="" type="lsep"/>
+		<setting label="Mehr freie Streams ..." type="lsep"/>
+       	<setting label="für über 50 TV Sender musst du einfach per Formular Zugangsdaten anfordern" type="lsep" multiline="true"/>
+		<setting label="dann kannst du alle bereitgestellten Free Streams kostenfrei ansehen." type="lsep"/>
+		<setting label="Name, Herkunftsland, Email und gewünschten Usernamen eintragen, fertig ! " type="lsep"/>
+		<setting label="Nach dem absenden des Formulars bekommst du sofort eine Email mit deinen" type="lsep"/>
+        <setting label="Zugangsdaten zugesendet und bist auch direkt freigeschaltet!" type="lsep"/>
+		<setting label="" type="lsep"/>
+        <setting label="Replay Information: " type="lsep"/>
+		<setting label="Wir haben 2 Skins mit 4 Views für Replay angepasst, diese findest du auch in " type="lsep"/>
+		<setting label="unserer Repo" type="lsep"/>
+       	<setting label="weitere Infos findest du auf unserer Homepage - http://www.IPTVxtra.net" type="lsep"/>
+       	<setting label="oder in unserem Forum - http://www.IPTVxtra.net/forum/" type="lsep"/>
+		<setting label="" type="lsep"/>
+        <setting label="" type="lsep"/>
+    </category>
+		<setting id="firstrun" default="0"/>
+		<setting id="firstrun2" default="0"/>
+		<setting id="firstrun3" default="0"/>
+		<setting id="md5_0" default="0"/>
+		<setting id="md5_1" default="0"/>
+		<setting id="md5_2" default="0"/>
+		<setting id="data1" default="0"/>
+		<setting id="data2" default="0"/>
+		<setting id="data3" default="0"/>
+		<setting id="data4" default="0"/>
+		<setting id="data5" default="0"/>
+		<setting id="rep1" default="local Time"/>
+		<setting id="rep2" default="today"/>
+		<setting id="rep3" default="0"/>
+		<setting id="rep4" default="0"/>
+		<setting id="rep5" default="0"/>
+		<setting id="rep6" default="0"/>
+		<setting id="rep7" default="0"/>
+		<setting id="rep8" default="0"/>
+		<setting id="rep9" default="0"/>
+</settings>

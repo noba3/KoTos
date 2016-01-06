@@ -1,0 +1,4 @@
+Acestream|43e2bbb8fb2bd6dbccacfa6e7adbd4dc4e184b56|1|C:\Users\Dawain\AppData\Roaming\Kodi\addons\plugin.video.p2p-streams\resources\art\acelogofull.jpg
+Sky Sports 1|acestream://e6aaeb0c93c291a4cfe2c04d05c6b1e906f54955|1|C:\Users\Dawain\AppData\Roaming\Kodi\addons\plugin.video.p2p-streams\resources\art\acelogofull.jpg
+Sky Sports 2|acestream://97518ab8451a5c9e8da2b92245ac0ea6622a519c|1|C:\Users\Dawain\AppData\Roaming\Kodi\addons\plugin.video.p2p-streams\resources\art\acelogofull.jpg
+Sky Sports 1|acestream://e6aaeb0c93c291a4cfe2c04d05c6b1e906f54955|1|C:\Users\Dawain\AppData\Roaming\Kodi\addons\plugin.video.p2p-streams\resources\art\acelogofull.jpg

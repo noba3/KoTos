@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><user>
+	<affiliate>
+		<name>invalid</name>
+		<imageUrl><![CDATA[http://a.espncdn.com/espn360/images/affiliates/]]></imageUrl>
+		<websiteUrl><![CDATA[]]></websiteUrl>
+		<localAdAccountId></localAdAccountId>
+	</affiliate>
+
+	<location>
+		<ip>217.250.243.138</ip>
+		<country>germany</country>
+		<city>mainz</city>
+		<state>rheinland-pfalz</state>
+		<continent>eu</continent>
+		<dma></dma>
+		<zipCode></zipCode>
+		<domain>t-ipconnect.de</domain>
+	</location>
+
+	<personalization loginStatus="Anonymous Guest" swid="">
+		<username></username>
+	</personalization>
+</user>

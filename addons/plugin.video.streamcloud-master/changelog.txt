@@ -1,0 +1,24 @@
+# Version 1.1.3
+
+* change kinox top level domain to .tv to prevent blocking AT users
+* Bug fix to remove script error when searching with empty query string
+
+# Version 1.1.2
+
+* Bug fix to remove duplicate BASE_URL in video and directory path
+* remove redundant character escaping
+
+# Version 1.1.1
+
+* Code refactoring
+* Reorganize project structure
+* Add StreamCloud icon image to the add-on
+
+# Version 1.1.0
+
+* Add multi language support (DE, EN)
+
+# Version 1.0.7
+
+* Fixed bug "file not found" dialog displayed when pressing CANCEL button)
+* Added CHANGELOG.md

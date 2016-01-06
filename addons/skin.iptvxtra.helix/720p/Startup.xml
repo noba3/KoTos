@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<window>
+	<defaultcontrol always="true">10</defaultcontrol>
+
+	<onload condition="!Skin.HasSetting(Firststart)">Skin.SetBool(IPTVxtra)</onload>
+	<onload condition="!Skin.HasSetting(Firststart)">Skin.SetBool(SeparateBackdrops)</onload>
+    <onload condition="!Skin.HasSetting(Firststart)">Skin.SetBool(AutoScroll)</onload>
+    <onload condition="!Skin.HasSetting(Firststart)">Skin.SetBool(WeatherWidget)</onload>
+    <onload condition="!Skin.HasSetting(Firststart)">Skin.SetBool(NoFloor)</onload>
+    <onload condition="!Skin.HasSetting(Firststart)">Skin.SetBool(homepageWeatherinfo)</onload>
+    <onload condition="!Skin.HasSetting(Firststart)">Skin.SetBool(CdArtHome)</onload>
+    <onload condition="!Skin.HasSetting(Firststart)">Skin.SetBool(ActivateSearch)</onload>
+    <onload condition="!Skin.HasSetting(Firststart)">Skin.SetBool(HomeMenuNoMusicVideosButton)</onload>
+    <!-- <onload condition="!Skin.HasSetting(Firststart)">Skin.SetBool(favourite1)</onload> -->
+    <onload condition="!Skin.HasSetting(Firststart)">Skin.SetBool(HomeMenuNoDocuButton)</onload>
+    <onload condition="!Skin.HasSetting(Firststart)">Skin.SetBool(ShowTrailer)</onload>
+    <onload condition="!Skin.HasSetting(Firststart)">Skin.SetBool(ExtraFanart)</onload>
+    <onload condition="!Skin.HasSetting(Firststart)">Skin.SetBool(CdArtVis)</onload>
+    <onload condition="!Skin.HasSetting(Firststart)">Skin.SetBool(ArtistSlide)</onload>
+    <onload condition="!Skin.HasSetting(Firststart)">Skin.SetBool(ArtistSlideHome)</onload>
+    <onload condition="!Skin.HasSetting(Firststart)">Skin.SetBool(IntroMovie)</onload>
+    <onload condition="!Skin.HasSetting(Firststart)">Skin.SetBool(WindowedTrailer)</onload>
+    <onload condition="!Skin.HasSetting(Firststart)">Skin.SetBool(FanartInHome)</onload>
+    <onload condition="!Skin.HasSetting(Firststart)">Skin.SetBool(ShowWeatherFanart)</onload>
+	<onload condition="!Skin.HasSetting(Firststart)">Skin.SetBool(HomeMenuNoDocuButton)</onload>
+	<onload condition="!Skin.HasSetting(Firststart)">Skin.SetBool(HomeMenuNoMusicVideosButton)</onload>
+	<onload condition="!Skin.HasSetting(Firststart)">Skin.SetBool(SeparateBackdrops)</onload>
+	<onload condition="!Skin.HasSetting(Firststart)">Skin.SetBool(FanCode)</onload>
+    <!-- <onload condition="!Skin.HasSetting(Firststart)">Skin.SetBool()</onload> -->
+	<onload condition="!Skin.HasSetting(Firststart)">Skin.SetString(WeatherFanartDir,special://skin/backgrounds/weather/)</onload>
+    <onload condition="!Skin.HasSetting(Firststart)">Skin.SetString(HomeVideosButton1,plugin.video.iptvxtra-de)</onload>
+    <onload condition="!Skin.HasSetting(Firststart)">Skin.SetString(HomeVideosButton2,plugin.video.iptvxtra-th)</onload>
+    <onload condition="!Skin.HasSetting(Firststart)">Skin.SetString(HomeVideosButton3,plugin.video.xstream)</onload>
+    <onload condition="!Skin.HasSetting(Firststart)">Skin.SetString(HomeMusicButton1,plugin.audio.antennebayern)</onload>
+    <onload condition="!Skin.HasSetting(Firststart)">Skin.SetString(HomeMusicButton2,plugin.audio.radio7ulm)</onload>
+    <onload condition="!Skin.HasSetting(Firststart)">Skin.SetString(HomeMusicButton3,plugin.audio.ballermann)</onload>
+    <onload condition="!Skin.HasSetting(Firststart)">Skin.SetString(MoviesCustom,1)</onload>
+	<onload condition="!Skin.HasSetting(Firststart)">Skin.SetString(HDMoviesCustom,4)</onload>
+    <onload condition="!Skin.HasSetting(Firststart)">Skin.SetString(CustomFavourite1.Label,IPTVxtra DE)</onload>
+    <onload condition="!Skin.HasSetting(Firststart)">Skin.SetString(Home_Custom_Back_Favourite1_Folder,special://skin/backgrounds/IPTVxtra.jpg)</onload>
+    <onload condition="!Skin.HasSetting(Firststart)">Skin.SetString(CustomFavourite1.Path,ActivateWindow(10025,&quot;plugin://plugin.video.iptvxtra-de/&quot;,return))</onload>
+    <onload condition="!Skin.HasSetting(Firststart)">Skin.SetString(CustomFavourite2.Label,IPTVxtra TH)</onload>
+    <onload condition="!Skin.HasSetting(Firststart)">Skin.SetString(Home_Custom_Back_Favourite2_Folder,special://skin/backgrounds/IPTVxtra.jpg)</onload>
+    <onload condition="!Skin.HasSetting(Firststart)">Skin.SetString(CustomFavourite2.Path,ActivateWindow(10025,&quot;plugin://plugin.video.iptvxtra-th/&quot;,return))</onload>
+    <onload condition="!Skin.HasSetting(Firststart)">Skin.SetBool(Firststart)</onload>
+
+
+
+	<allowoverlay>no</allowoverlay>
+	<controls>
+		<control type="button" id="10">
+			<description>trigger</description>
+			<onfocus>ReplaceWindow($INFO[System.StartupWindow])</onfocus>
+			<texturenofocus>-</texturenofocus>
+			<texturefocus>-</texturefocus>
+			<visible>!Skin.HasSetting(Use_Startup_Playlist)</visible>
+		</control>
+		<control type="button" id="10">
+			<description>trigger</description>
+			<onfocus>RunScript(script.xbmc.intro.movie)</onfocus>
+			<texturenofocus>-</texturenofocus>
+			<texturefocus>-</texturefocus>
+			<visible>!Skin.HasSetting(Use_Startup_Playlist) + Skin.HasSetting(intromovie)</visible>
+		</control>
+		<control type="button" id="10">
+			<description>trigger with startup Playlist</description>
+			<onfocus>XBMC.PlayMedia($INFO[Skin.String(Startup_Playlist_Path)])</onfocus>
+			<onfocus>ReplaceWindow($INFO[System.StartupWindow])</onfocus>
+			<texturenofocus>-</texturenofocus>
+			<texturefocus>-</texturefocus>
+			<visible>Skin.HasSetting(Use_Startup_Playlist)</visible>
+		</control>
+		<!--<include>CommonVideoBackground</include>-->
+	</controls>
+</window>

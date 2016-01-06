@@ -1,0 +1,2293 @@
+version=7
+background=http://media.navi-x.org/images/backgrounds/bkg_navix_bh_plain.jpg
+title=navi-xtreme [COLOR=FF888888]»[/COLOR] search for "sky sport"
+logo=http://media.navi-x.org/images/logos/search.png
+
+
+type=playlist
+name=SKY SPORT HD
+thumb=http://www.google.com/imgres?biw=1280&bih=898&tbm=isch&tbnid=jB5oZgT2ZdWEWM:&imgrefurl=http://www.tvforum.co.uk/thegallery/sky-sports-hd-logo-32882/&docid=PvhjYJrKh3VBJM&imgurl=http://skyidentstest.yolasite.com/resources/blue%252520backdrop.png&w=1491&h=4
+URL=http://www.navixtreme.com/playlist/133422/sky_sport_hd.plx
+description=SKY SPORT 1 2 3 4/description
+
+type=playlist
+name=Sky Sports
+URL=http://www.navixtreme.com/playlist/97303/sky_sports.plx
+description=Sky Sports/description
+
+type=playlist
+name=Live 24/7 Sky Sports and Movies
+URL=http://www.navixtreme.com/playlist/106905/live_247_sky_sports_and_movies.plx
+description=Live 24/7 Sky Sports and Movies/description
+
+type=playlist
+name=SKY SPORT HD 1 ... 4
+thumb=http://www.google.com/imgres?biw=1280&bih=855&tbm=isch&tbnid=DTiFiJVP01zPoM:&imgrefurl=http://www.fm-base.co.uk/forum/football-manager-2013-manager-stories/114050-madrid-messiah-arises.html&docid=R9JmQrN9gPwTEM&imgurl=http://www.fm-base.co.uk/forum/attach
+URL=http://www.navixtreme.com/playlist/133675/sky_sport_hd_1_..._4.plx
+description=SKY 1 ... 4/description
+
+type=playlist
+name=Brilo Sky Sports
+URL=http://www.navixtreme.com/playlist/79117/brilo_sky_sports.plx
+description=all of the channels - wip/description
+
+type=playlist
+name=Sky Sports 1-4 (working)
+URL=http://www.navixtreme.com/playlist/84318/sky_sports_1-4_(working).plx
+
+type=playlist
+name=`@```SKY SPORTS HD + MOVIES HD ```@```
+thumb=http://www.picturedrome.net/files/Sky-Sports-Logo.jpg
+URL=http://www.navixtreme.com/playlist/117064/sky_sports_hd_movies_hd_.plx
+description=high quality streams/description
+
+type=playlist
+name=TV Links Fixed 18/08/13 (BBC, Sky Sports, BT Sports, MTV)
+URL=http://www.navixtreme.com/playlist/123297/tv_links_fixed_180813_(bbc_sky_sports_bt_sports_mtv).plx
+description=Last Updated:
+03:39 AM GMT+1 - 18/08/2013/description
+
+type=playlist
+name=- - - - - - - - - - - -[COLORyellow] Click Here for Sky Sports Tv Guide [/COLOR]- - - - - - - - - - - - -
+thumb=https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQK5ka8yw09pHrJSMkTyzSRIirRcGeEXOZLbxBH1TS3XbgByHQu
+URL=http://www.navixtreme.com/playlist/123901/-_-_-_-_-_-_-_-_-_-_-_-_click_here_for_sky_sports_tv_guide_-_-_-_-_-_-_-_-_-_-_-_-_-.plx
+description=TV Guide/description
+
+type=playlist
+name=[COLOR=FFFFD700]***Super Sunday Live HD***[/COLOR]100% Working FREE [COLOR=FFFFD700]***Sky Sports Channels Live***[/COLOR] [COLOR=FF00FFFF]SD and HD Quality [/COLOR]
+thumb=http://ecx.images-amazon.com/images/I/51CUxLqtHZL._SL500_AA300_.png
+URL=http://www.navixtreme.com/playlist/131353/super_sunday_live_hd100_working_free_sky_sports_channels_live_sd_and_hd_quality_.plx
+description=Watch Channels in High Quality, no buffering or missing vital moments! Reliable Streams.
+
+Skype: SportsHDgrabber/description
+
+type=playlist
+name=Live Streams
+URL=http://www.navixtreme.com/playlist/146122/live_streams.plx
+description=P
+
+
+
+# 2402887
+
+type=video
+
+name=Clubland TV
+
+date=2014-11-24
+
+URL=http://rrr.sz.xlcdn.com/?account=AATW&file=clublandtv&type=live&service=wowza&protocol=http&output=playlist.m3u8?Vd?u#bt!25/%20HaryysStreams
+
+player=default
+
+rating=-1.00
+
+
+
+# 2402882
+
+type=video
+
+name=4Music
+
+date=2014-11-24
+
+URL=http://csm-e.cds1.yospace.com/csm/live/86550614.m3u8
+
+player=default
+
+rating=-1.00
+
+
+
+# 2402878
+
+type=video
+
+name=BOX NATION
+
+date=2014-11-24
+
+URL=rtmpe://46.246.124.24:1935/live/ playpath=sboxn live=1 pageUrl=http://www.hdcast.org/Vd?u#bt!25 token=#yw%tt#w@kku timeout=15/
+
+player=default
+
+rating=-1.00
+
+
+
+# 2402876
+
+type=video
+
+name=SKY SPORTS NEWS
+
+date=2014-11-24
+
+URL=rtmp://88.86.125.177:1935/live playpath=ssnx live=1 pageUrl=http://www.flashtv.co/Vd?u#bt!25 token=%ZZri(nKa@#Z timeout=10 /
+
+player=default
+
+rating=-1.00
+
+
+
+# 2402875
+
+type=video
+
+name=SKY SPORTS NEWS
+
+date=2014-11-24
+
+URL=rtmp://88.86.125.177:1935/live playpath=ssnx live=1 pageUrl=http://www.flashtv.co/Vd?u#bt!25 token=%ZZri(nKa@#Z timeout=10 /
+
+player=default
+
+rating=-1.00
+
+
+
+# 2399507
+
+type=video
+
+name=MUTV
+
+thumb=http://www.broadbandtvnews.com/wp-content/uploads/2013/01/mutv.jpg
+
+URL=rtmp://nonamehdfree.dyndns.org:443/limelight app=limelight?t=guest playpath=99_mutv_360p swfUrl=https://nonamehd.com/playerv3.swf flashver=WIN\2013,0,0,214 pageUrl=https://nonamehd.com live=1 timeout=15
+
+player=default
+
+rating=-1.00
+
+
+
+# 2393419
+
+type=video
+
+name=BBC NEWS
+
+URL=http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/bbc_world/ls_satlink/b_828.m3u8
+
+player=default
+
+rating=-1.00
+
+
+
+# 2393099
+
+type=video
+
+name=RACING UK
+
+thumb=http://www.racinguk.com/images/articles/Racing-UK-Logo.jpg
+
+URL=rtmp://88.86.125.177:1935/live playpath=kingracing token=%ZZri(nKa@#Z swfUrl=http://www.flashtv.co/ePlayerr.swf live=1 timeout=13 pageUrl=http://www.flashtv.co/
+
+player=default
+
+rating=-1.00
+
+
+
+# 2393096
+
+type=video
+
+name=BEIN SPORT 5
+
+thumb=http://www.beinsports.tv/i/beINSport/site/holding_image_videoplayer.jpg
+
+URL=rtmp://95.168.199.245:1935/live/ playpath=bn5 token=%ZZri(nKa@#Z swfUrl=http://www.flashtv.co/ePlayerr.swf live=1 timeout=13 pageUrl=http://www.flashtv.co/
+
+player=default
+
+rating=-1.00
+
+
+
+# 2393094
+
+type=video
+
+name=BEIN SPORT 6
+
+thumb=http://cupbraziltv.com/wp-content/uploads/2014/05/bein-sport-6.jpg
+
+URL=rtmp://95.168.199.245:1935/live/ playpath=bn6 token=%ZZri(nKa@#Z swfUrl=http://www.flashtv.co/ePlayerr.swf live=1 timeout=13 pageUrl=http://www.flashtv.co/
+
+player=default
+
+rating=-1.00
+
+
+
+# 2393093
+
+type=video
+
+name=BEIN  SPORT 10
+
+thumb=http://www.beinsports.tv/i/beINSport/site/US/logos/uslogosprites.png
+
+URL=rtmp://31.220.0.194:1935/live playpath=bn10 token=%ZZri(nKa@#Z swfUrl=http://www.flashtv.co/ePlayerr.swf live=1 timeout=13 pageUrl=http://www.flashtv.co/
+
+player=default
+
+rating=-1.00
+
+
+
+# 2393091
+
+type=video
+
+name=BEIN SPORT 12
+
+thumb=http://world-livestreaming.eu/wp-content/uploads/2014/05/bein-sport-12.png
+
+URL=rtmp://31.220.0.194:1935/live playpath=bn12 token=%ZZri(nKa@#Z swfUrl=http://www.flashtv.co/ePlayerr.swf live=1 timeout=13 pageUrl=http://www.flashtv.co/
+
+player=default
+
+rating=-1.00
+
+
+
+# 2393088
+
+type=video
+
+name=SPORT TIME 1
+
+thumb=http://i29.tinypic.com/2b7kgl.jpg
+
+URL=rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/
+
+player=default
+
+rating=-1.00
+
+
+
+# 2393087
+
+type=video
+
+name=SPORT TIME 2
+
+thumb=http://i29.tinypic.com/2b7kgl.jpg
+
+URL=rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/
+
+player=default
+
+rating=-1.00
+
+
+
+# 2393086
+
+type=video
+
+name=NFL NETWORK
+
+thumb=http://inthestandsport.com/wp-content/uploads/2014/07/nfl.png
+
+URL=rtmp://5.39.69.114:80/liverepeater playpath=117161 swfUrl=http://cdn.goodcast.co/players.swf live=1 pageUrl=http://goodcast.co/huraivza token=Fo5_n0w?U.rA6l3-70w47ch/
+
+player=default
+
+rating=-1.00
+
+
+
+# 2393085
+
+type=video
+
+name=Viasat sport
+
+thumb=http://upload.wikimedia.org/wikipedia/en/4/45/Viasatsport.png
+
+URL=http://hlsstr02.svc.iptv.rt.ru/hls/CH_VIASATSPORT/variant.m3u8
+
+player=default
+
+rating=-1.00
+
+
+
+# 2391491
+
+type=video
+
+name=CLUBLAND tv
+
+URL=http://goo.gl/O4u5oo
+
+player=default
+
+rating=-1.00
+
+
+
+# 2391485
+
+type=video
+
+name=BT Sports 1
+
+URL=rtmp://62.210.84.233:443/liverepeater playpath=170293 live=1 pageUrl=http://biggestplayer.me/Vd?u#bt!25 token=#atd%#$ZH timeout=15/
+
+player=default
+
+rating=-1.00
+
+
+
+# 2391481
+
+type=video
+
+name=Sky sports 5
+
+URL=rtmp://62.210.78.125:443/liverepeater playpath=170243 live=1 pageUrl=http://biggestplayer.me/Vd?u#bt!25 token=#atd%#$ZH timeout=15
+
+player=default
+
+rating=-1.00
+
+
+
+# 2391479
+
+type=video
+
+name=Sky sports 3
+
+URL=rtmp://31.220.0.104:1935/live playpath=ss3x live=1 pageUrl=http://www.flashtv.co/Vd?u#bt!25 token=%ZZri(nKa@#Z timeout=15/
+
+player=default
+
+rating=-1.00
+
+
+
+# 2391477
+
+type=video
+
+name=Sky sports 2
+
+URL=rtmp://95.168.199.241:1935/live playpath=ss442 live=1 pageUrl=http://www.flashtv.co/Vd?u#bt!25 token=%ZZri(nKa@#Z timeout=15/
+
+player=default
+
+rating=-1.00
+
+
+
+# 2390782
+
+type=video
+
+name=SKY SPORTS F1
+
+URL=rtmp://31.220.0.103:1935/live playpath=ssf1 swfUrl=http://www.flashtv.co/ePlayerr.swf pageUrl=http://www.flashtv.co/embed.php?live=ssf1&vw=620&vh=490 token=%ZZri(nKa@#Z/
+
+player=default
+
+rating=-1.00
+
+
+
+# 2390781
+
+type=video
+
+name=TSN SPORTS 1 epl games
+
+URL=rtmp://31.220.0.104:1935/live/tsn1x live=1 pageUrl=http://www.flashtv.co/ token=%ZZri(nKa@#Z/
+
+player=default
+
+rating=-1.00
+
+
+
+# 2390780
+
+type=video
+
+name=TSN SPORTS 2 epl games
+
+URL=rtmp://31.220.0.104:1935/live/tsn2x live=1 pageUrl=http://www.flashtv.co/ token=%ZZri(nKa@#Z/
+
+player=default
+
+rating=-1.00
+
+
+
+# 2390778
+
+type=video
+
+name=NFL TV
+
+URL=rtmpe://46.246.124.88/live playpath=nflusa_usa swfUrl=http://ukcast.co/player//player.swf live=1 pageUrl=http://www.ukcast.co/ token=%ZZri(nKa@#
+
+player=default
+
+rating=5.00
+
+
+
+# 2390777
+
+type=video
+
+name=NBA TV
+
+URL=rtmp://46.246.29.141:1935/stream/K8l9h6j8.stream swfUrl=http://thecdn.04stream.com/p/boopo.swf pageUrl=http://04stream.com/ live=true
+
+player=default
+
+rating=-1.00
+
+
+
+# 2390776
+
+type=video
+
+name=NBCSN NBC SPORTS EPL GAMES
+
+URL=rtmpe://46.246.124.88/live playpath=nbcsnusa_usa swfUrl=http://ukcast.co/player//player.swf live=1 pageUrl=http://www.ukcast.co/ token=%ZZri(nKa@#Z/  HarryStreams
+
+player=default
+
+rating=-1.00
+
+
+
+# 2390772
+
+type=video
+
+name=SMASH HITS MUSIC
+
+URL=http://csm-e.cds1.yospace.com/csm/live/86561609.m3u8
+
+player=default
+
+rating=-1.00
+
+
+
+# 2390771
+
+type=video
+
+name=MTV LIVE HD
+
+URL=http://ilg.club/streamlink.m3u8?channel_id=8d45473ff4ca44d79e1abc4516c2fee0&bitrate=800
+
+player=default
+
+rating=-1.00
+
+
+
+# 2390770
+
+type=video
+
+name=CBS REALITY
+
+URL=http://hls01-05.az.myvideo.az/hls-live/livepkgr/cbsreality/cbsreality/cbsreality.m3u8&rRb545vJBB5tYzB7vVP
+
+player=default
+
+rating=-1.00
+
+
+
+# 2390769
+
+type=video
+
+name=ANIMAL PLANET HD. ((Foreign subs))
+
+URL=http://83.139.104.123/Content/HLS/Live/Channel(animal_planet)/Stream(03)/index.m3u8/%20harrystreams
+
+player=default
+
+rating=-1.00
+
+
+
+# 2390768
+
+type=video
+
+name=COMEDY CENTRAL HD
+
+URL=http://ilg.club/streamlink.m3u8?channel_id=2f18d4ba25224edaa8bb9aac94b00d4f
+
+player=default
+
+rating=-1.00
+
+
+
+# 2390765
+
+type=video
+
+name=FX HD
+
+URL=http://ilg.club/streamlink.m3u8?channel_id=2e0e4b05aa6e428593f3b45b710045b7&bitrate=800
+
+player=default
+
+rating=-1.00
+
+
+
+# 2390761
+
+type=video
+
+name=Viaasat history
+
+URL=http://83.139.104.123/Content/HLS/Live/Channel(viasat_history)/index.m3u8
+
+player=default
+
+rating=-1.00
+
+
+
+# 2390759
+
+type=video
+
+name=ESPN 2
+
+URL=rtmp://80.82.78.85:443/liverepeater playpath=25 swfUrl=http://popeoftheplayers.pw/atdedead.swf pageUrl=http://popeoftheplayers.pw/player3.php?id=25&width=600&height=450 token=#atd%#$ZH
+
+player=default
+
+rating=-1.00
+
+
+
+# 2390757
+
+type=video
+
+name=Nat geo wild
+
+URL=http://202.75.23.35/live/ch39/01.m3u8
+
+player=default
+
+rating=-1.00
+
+
+
+# 2390756
+
+type=video
+
+name=4Music
+
+URL=http://csm-e-usc1-9.cds1.yospace.com/csm/live/86550614.m3u8
+
+player=default
+
+rating=-1.00
+
+
+
+# 2388833
+
+type=video
+
+name=PINK COMEDY
+
+URL=http://on108.setplex.net/fastv_2psh/PinkComedyglobal_rly_greece_103/playlist.m3u8
+
+player=default
+
+rating=-1.00
+
+
+
+# 2388832
+
+type=video
+
+name=TEENAGE MUTANT NINJA TURTLES **HD**
+
+URL=http://filenuke.com/f/6xeLWN0
+
+processor=http://www.navixtreme.com/wlfwood/processors/filenuke.txt
+
+player=default
+
+rating=-1.00
+
+
+
+# 2388830
+
+type=video
+
+name=CARTOON NETWORK USA
+
+URL=rtmp://rtmp.zerocast.tv:1935/live/ playpath=08pydvp1b7ZwZb3a5TW1 swfUrl=http://p.jwpcdn.com/6/10/jwplayer.flash.swf live=1 flashver=WIN\202012,0,0,77 timeout=15 token=3a439185c0f4b61f swfVfy=1 pageUrl=http://zerocast.tv
+
+player=default
+
+rating=-1.00
+
+
+
+# 2388829
+
+type=video
+
+name=CBS REALITY
+
+URL=http://hls01-05.az.myvideo.az/hls-live/livepkgr/cbsreality/cbsreality/cbsreality.m3u8&rRb545vJBB5tYzB7vVP
+
+player=default
+
+rating=-1.00
+
+
+
+# 2388827
+
+type=video
+
+name=BOX NATION
+
+URL=rtmpe://46.246.124.24:1935/live/ playpath=sboxn swfUrl=http://www.hdcast.org/j2/jwplayer.flash.swf pageUrl=http://www.hdcast.org/embedlive.php?u=sboxn&vw=854&amp;vh=480&domain=streamhd.eu live=1 token=#yw%tt#w@kku timeout=15
+
+player=default
+
+rating=-1.00
+
+
+
+# 2388825
+
+type=video
+
+name=PREMIER SPORTS
+
+URL=rtmpe://46.246.124.23:1935/live/ playpath=spremsp swfUrl=http://www.hdcast.org/j2/jwplayer.flash.swf live=1 pageUrl=http://www.hdcast.org/embedlive.php?u=spremsp&vw=854&vh=480&domain=www.streamhd.eu token=#yw%tt#w@kku --live
+
+player=default
+
+rating=-1.00
+
+
+
+# 2388824
+
+type=video
+
+name=SKYSPORTS F1
+
+URL=rtmpe://46.246.124.26:1935/live/ playpath=sskysf1 swfUrl=http://www.hdcast.org/j2/jwplayer.flash.swf pageUrl=http://www.hdcast.org/Vd?u#bt!25 live=1 token=#yw%tt#w@kku timeout=15
+
+player=default
+
+rating=-1.00
+
+
+
+# 2383154
+
+type=video
+
+name=FX  USA
+
+URL=rtmp://rtmp.zerocast.tv:1935/live/ playpath=VCV8SViFVBv2nX5RQwKI swfUrl=http://p.jwpcdn.com/6/10/jwplayer.flash.swf live=1 flashver=WIN\202012,0,0,77 timeout=15 token=3a439185c0f4b61f swfVfy=1 pageUrl=http://zerocast.tv/
+
+player=default
+
+rating=-1.00
+
+
+
+# 2383136
+
+type=video
+
+name=MRS BROWNS BOYS BrRip
+
+URL=http://billionuploads.com/zakze148jvgo
+
+processor=http://www.navixtreme.com/proc/billionuploads
+
+player=default
+
+rating=-1.00
+
+
+
+# 2382776
+
+type=video
+
+name=SKY MOVIES ACTION
+
+URL=rtmpe://46.246.29.160:1935/live/ playpath=action swfUrl=http://player.hdcast.org/player.swf pageUrl=http://www.hdcast.org/embedlive2.php?u=sskys3&vw=854&vh=480&domain=streamking.org live=1 token=#yw%tt#w@kku timeout=15
+
+player=default
+
+rating=-1.00
+
+
+
+# 2382673
+
+type=video
+
+name=MRS BROWN BOYS 2014
+
+URL=http://180upload.com/609h916zxly8
+
+player=default
+
+rating=-1.00
+
+
+
+# 2382554
+
+type=video
+
+name=BT SPORT 1
+
+URL=rtmpe://46.246.124.28:1935/live/ playpath=sbt1 pageUrl=http://www.hdcast.org/ token=#yw%tt#w@kku
+
+player=default
+
+rating=-1.00
+
+
+
+# 2382553
+
+type=video
+
+name=BT SPORT 2
+
+URL=rtmpe://46.246.124.28:1935/live/ playpath=sbt2 pageUrl=http://www.hdcast.org/ token=#yw%tt#w@kku
+
+player=default
+
+rating=-1.00
+
+
+
+# 2382552
+
+type=video
+
+name=NBCSN
+
+URL=rtmpe://46.246.124.24:1935/live/ playpath=snbcsports swfUrl=http://www.hdcast.org/j2/jwplayer.flash.swf live=1 pageUrl=http://www.hdcast.org/embedlive.php?u=snbcsports&vw=854&vh=480&domain=streamhd.eu token=#yw%tt#w@kku --live
+
+player=default
+
+rating=-1.00
+
+
+
+# 2382548
+
+type=video
+
+name=BOXNATION
+
+URL=rtmpe://46.246.124.24:1935/live/ playpath=sboxn swfUrl=http://www.hdcast.org/j2/jwplayer.flash.swf pageUrl=http://www.hdcast.org/embedlive.php?u=sboxn&vw=854&amp;vh=480&domain=streamhd.eu live=1 token=#yw%tt#w@kku timeout=15
+
+player=default
+
+rating=-1.00
+
+
+
+# 2382546
+
+type=video
+
+name=SETANTA SPORTS
+
+URL=rtmpe://46.246.124.24:1935/live playpath=ssetanta swfUrl=http://prvservers.com/j/jwplayer.flash.swf pageUrl=http://prvservers.com/ live=1 token=#yw%tt#w@kku
+
+player=default
+
+rating=-1.00
+
+
+
+# 2382544
+
+type=video
+
+name=SKY SPORTS 1
+
+URL=rtmpe://31.220.0.198/live playpath=sky1 swfUrl=http://www.pvtserverz.com/player/player.swf live=1 timeout=13 pageUrl=http://www.pvtserverz.com/
+
+player=default
+
+rating=-1.00
+
+
+
+# 2382543
+
+type=video
+
+name=SKY SPORTS 2
+
+URL=rtmpe://31.220.0.198/live playpath=sky2 swfUrl=http://www.pvtserverz.com/player/player.swf live=1 timeout=13 pageUrl=http://www.pvtserverz.com/
+
+player=default
+
+rating=-1.00
+
+
+
+# 2382542
+
+type=video
+
+name=SKY SPORTS 3
+
+URL=rtmpe://31.220.0.198/live playpath=sky3 swfUrl=http://www.pvtserverz.com/player/player.swf live=1 timeout=13 pageUrl=http://www.pvtserverz.com/
+
+player=default
+
+rating=-1.00
+
+
+
+# 2382540
+
+type=video
+
+name=SKY SPORTS 4
+
+URL=rtmpe://31.220.0.198/live playpath=sky4 swfUrl=http://www.pvtserverz.com/player/player.swf live=1 timeout=13 pageUrl=http://www.pvtserverz.com/
+
+player=default
+
+rating=-1.00
+
+
+
+# 2382538
+
+type=video
+
+name=SKY SPORTS 5
+
+URL=rtmpe://31.220.0.198/live playpath=sky5 swfUrl=http://www.pvtserverz.com/player/player.swf live=1 timeout=13 pageUrl=http://www.pvtserverz.com/
+
+player=default
+
+rating=-1.00
+
+
+
+# 2382537
+
+type=video
+
+name=SKY SPORTS NEWS
+
+URL=rtmpe://46.246.124.83/live/skysportsnewsfifaembed pageUrl=http://www.dcast.tv/
+
+player=default
+
+rating=-1.00
+
+
+
+# 2382521
+
+type=video
+
+name=THE BOX  (MUSIC)
+
+URL=http://goo.gl/MCBwlo
+
+player=default
+
+rating=-1.00
+
+
+
+# 2382519
+
+type=video
+
+name=CLUBLAND  TV
+
+URL=http://goo.gl/O4u5oo
+
+player=default
+
+rating=-1.00
+
+
+
+# 2382517
+
+type=video
+
+name=FOX NEWS
+
+URL=http://csm-e.cds1.yospace.com/csm/live/86561776.m3u8
+
+player=default
+
+rating=-1.00
+
+
+
+# 2382512
+
+type=video
+
+name=ESPN
+
+URL=rtmp://80.82.78.22:443/liverepeater playpath=26 swfUrl=http://popeoftheplayers.pw/atdedead.swf live=1 pageUrl=http://popeoftheplayers.pw/player3.php?id=26&width=600&height=450 token=#atd%#$ZH
+
+player=default
+
+rating=-1.00
+
+
+
+# 2382510
+
+type=video
+
+name=NBA NETWORK
+
+URL=rtmp://31.7.58.122:1935/stream/I8s9S4H7.stream swfUrl=http://thecdn.04stream.com/p/bbp.swf live=true pageUrl=http://www.04stream.com/ live=1 timeout=10
+
+player=default
+
+rating=-1.00
+
+
+
+# 2382508
+
+type=video
+
+name=GOLF NETWORK
+
+URL=rtmp://62.210.187.73:443/liverepeater playpath=164446 swfUrl=http://bernardotv.club/atdedead.swf pageUrl=http://biggestplayer.me/streamcr.php?id=164446&width=620&height=490 token=#atd%#$ZH
+
+player=default
+
+rating=-1.00
+
+
+
+# 2382505
+
+type=video
+
+name=A&E ((USA))
+
+URL=rtmp://strm.ukcast.tv:1935/push/aeusa_usa
+
+player=default
+
+rating=-1.00
+
+
+
+# 2382502
+
+type=video
+
+name=CNN
+
+URL=rtmpe://watch.playfooty.tv/live playpath=cnn1569 swfUrl=http://www.playfooty.tv/play/player/player.swf pageUrl=http://www.playfooty.tv/play/embed.php?u=cnn1569&vw=600&vh=430
+
+player=default
+
+rating=-1.00
+
+
+
+# 2382500
+
+type=video
+
+name=COMEDY CENTRAL
+
+URL=http://ilg.club/streamlink.m3u8?channel_id=2f18d4ba25224edaa8bb9aac94b00d4f&bitrate=800
+
+player=default
+
+rating=-1.00
+
+
+
+# 2382495
+
+type=video
+
+name=PLANET POP
+
+URL=http://cdn.live.simplestream.com/D6I0S4IWX8O1NJDNBTRE/3/playlist-limelight.m3u8
+
+player=default
+
+rating=-1.00
+
+
+
+# 2382493
+
+type=video
+
+name=NAT GET WILD
+
+URL=http://202.75.23.35:1400/live/ch39/01.m3u8
+
+player=default
+
+rating=-1.00
+
+
+
+# 2382479
+
+type=video
+
+name=SKY MOVIES PREMIER
+
+URL=rtmpe://46.246.29.160:1935/live/ playpath=premierx swfUrl=http://player.hdcast.org/player.swf pageUrl=http://www.hdcast.org/Vd?u#bt!25 live=1 token=#yw%tt#w@kku timeout=15
+
+player=default
+
+rating=-1.00
+
+
+
+# 2382478
+
+type=video
+
+name=SKY MOVIES  CRIME & THRILLER
+
+URL=rtmpe://209.95.34.58:1935/live/thriller pageUrl=http://www.hdcast.org/hpg_disco token=#yw%tt#w@kku
+
+player=default
+
+rating=-1.00
+
+
+
+# 2382477
+
+type=video
+
+name=MTV
+
+URL=http://ilg.club/streamlink.m3u8?channel_id=8d45473ff4ca44d79e1abc4516c2fee0&bitrate=800
+
+player=default
+
+rating=-1.00
+
+
+
+# 2382475
+
+type=video
+
+name=HISTORY CHANNEL
+
+URL=http://202.75.23.36/live/ch45/03.m3u8
+
+player=default
+
+rating=-1.00
+
+
+
+# 2382474
+
+type=video
+
+name=FAMILY GUY 247
+
+URL=rtmp://192.99.38.122/app/ playpath=familyguy02 swfUrl=http://www.tgun.tv/lock/player.swf pageUrl=http://tgun.tv/shows/ch1
+
+player=default
+
+rating=-1.00
+
+
+
+# 2382473
+
+type=video
+
+name=DISCOVERY CHANNEL
+
+URL=http://202.75.23.34:1400/live/ch29/01.m3u8
+
+player=default
+
+rating=-1.00
+
+
+
+# 2382471
+
+type=video
+
+name=ANIMAL PLANET
+
+URL=http://202.75.23.34/live/ch31/03.m3u8
+
+player=default
+
+rating=-1.00
+
+
+
+# 2382470
+
+type=video
+
+name=BREAKING BAD 247
+
+URL=rtmp://192.99.38.122/app/ playpath=bad02 swfUrl=http://www.tgun.tv/lock/player.swf pageUrl=http://tgun.tv/shows/ch1
+
+player=default
+
+rating=-1.00
+
+
+
+# 2382468
+
+type=video
+
+name=ABC FAMILY
+
+URL=rtmp://rtmp.zerocast.tv:1935/live/ playpath=NyRerYqWuhRWGCsmb3f3 swfUrl=http://p.jwpcdn.com/6/10/jwplayer.flash.swf live=1 flashver=WIN\202012,0,0,77 timeout=15 token=3a439185c0f4b61f swfVfy=1//
+
+player=default
+
+rating=-1.00
+
+
+
+# 2379785
+
+type=video
+
+name=ANNABELLE 2014 (((((CAM COPY))))
+
+URL=http://www.nowvideo.sx/video/fa6376981e7b6
+
+processor=http://www.navixtreme.com/wlfwood/processors/nowvideo.txt
+
+player=default
+
+rating=-1.00
+
+
+
+# 2357279
+
+type=video
+
+name=NOW MUSIC
+
+URL=http://rrr.sz.xlcdn.com/?account=AATW&file=nowmusic&type=live&service=wowza&protocol=http&output=playlist.m3u8
+
+player=default
+
+rating=-1.00
+
+
+
+# 2357255
+
+type=video
+
+name=SKY NEWS HD
+
+URL=http://ilg.club/streamlink.m3u8?channel_id=31b003ab7e7749a798fe00424e3dd9ff&bitrate=800
+
+player=default
+
+rating=-1.00
+
+
+
+# 2357254
+
+type=video
+
+name=ESPN
+
+URL=rtmp://80.82.78.22:443/liverepeater playpath=26 swfUrl=http://popeoftheplayers.pw/atdedead.swf live=1 pageUrl=http://popeoftheplayers.pw/player3.php?id=26&width=600&height=450 token=#atd%#$ZH
+
+player=default
+
+rating=-1.00
+
+
+
+# 2357253
+
+type=video
+
+name=ABC
+
+URL=rtmpe://31.220.0.135/live playpath=abcusa_usa swfUrl=http://ukcast.co/player//player.swf live=1 pageUrl=http://www.ukcast.co/ token=%ZZri(nKa@#Z
+
+player=default
+
+rating=-1.00
+
+
+
+# 2357252
+
+type=video
+
+name=CBS
+
+URL=rtmpe://31.220.0.135/live playpath=cbsusa_usa swfUrl=http://ukcast.co/player//player.swf live=1 pageUrl=http://www.ukcast.co/ token=%ZZri(nKa@#Z
+
+player=default
+
+rating=-1.00
+
+
+
+# 2357251
+
+type=video
+
+name=FOX NEWS
+
+URL=rtmpe://watch.playfooty.tv/live/foxnews1569 swfurl=http://www.playfooty.tv/play/player/player.swf pageurl=http://www.playfooty.tv/play/embed.php?u=foxnews1569&vw=600&vh=430
+
+player=default
+
+rating=-1.00
+
+
+
+# 2357250
+
+type=video
+
+name=NFL NETWORK
+
+URL=rtmpe://31.220.0.135/live playpath=nflusa_usa swfUrl=http://ukcast.co/player//player.swf live=1 pageUrl=http://www.ukcast.co/ token=%ZZri(nKa@#Z
+
+player=default
+
+rating=-1.00
+
+
+
+# 2357249
+
+type=video
+
+name=GOLF  CHANNEL
+
+URL=rtmp://62.210.187.73:443/liverepeater playpath=164446 swfUrl=http://bernardotv.club/atdedead.swf pageUrl=http://biggestplayer.me/streamcr.php?id=164446&width=620&height=490 token=#atd%#$ZH
+
+player=default
+
+rating=-1.00
+
+
+
+# 2357248
+
+type=video
+
+name=COMEDY CENTRAL
+
+URL=http://ilg.club/streamlink.m3u8?channel_id=2f18d4ba25224edaa8bb9aac94b00d4f&bitrate=800
+
+player=default
+
+rating=-1.00
+
+
+
+# 2357247
+
+type=video
+
+name=MTV HD
+
+URL=http://ilg.club/streamlink.m3u8?channel_id=8d45473ff4ca44d79e1abc4516c2fee0&bitrate=800
+
+player=default
+
+rating=-1.00
+
+
+
+# 2357246
+
+type=video
+
+name=WGN CHICAGO
+
+URL=http://wgntribune-lh.akamaihd.net/i/WGNTribune_1@109089/master.m3u8
+
+player=default
+
+rating=-1.00
+
+
+
+# 2357243
+
+type=video
+
+name=ANIMAL PLANET
+
+URL=rtmpe://31.220.0.135/live playpath=animalusa_usa swfUrl=http://ukcast.co/player//player.swf live=1 pageUrl=http://www.ukcast.co/ token=%ZZri(nKa@#Z
+
+player=default
+
+rating=-1.00
+
+
+
+# 2357242
+
+type=video
+
+name=BEIN SPORT 7
+
+URL=rtmp://31.220.0.194:1935/live playpath=bns7 swfUrl=http://www.flashtv.co/ePlayerr.swf pageUrl=http://www.flashtv.co/embed.php?live=bn9&vw=620&vh=490 token=%ZZri(nKa@#Z timeout=10
+
+player=default
+
+rating=-1.00
+
+
+
+# 2357241
+
+type=video
+
+name=BEIN SPORTS 11
+
+URL=rtmp://31.220.0.194:1935/live playpath=bnss11 pageUrl=http://www.flashtv.co/ token=%ZZri(nKa@#Z timeout=10
+
+player=default
+
+rating=-1.00
+
+
+
+# 2357239
+
+type=video
+
+name=BOX NATION
+
+URL=rtmpe://46.246.124.24:1935/live/ playpath=sboxn swfUrl=http://www.hdcast.org/j2/jwplayer.flash.swf pageUrl=http://www.hdcast.org/embedlive.php?u=sboxn&vw=854&amp;vh=480&domain=streamhd.eu live=1 token=#yw%tt#w@kku timeout=15
+
+player=default
+
+rating=-1.00
+
+
+
+# 2357238
+
+type=video
+
+name=BT SPORTS 1
+
+URL=rtmpe://209.95.34.60:1935/live playpath=sbt1 token=#yw%tt#w@kku pageUrl=http://www.hdcast.org
+
+player=default
+
+rating=-1.00
+
+
+
+# 2357237
+
+type=video
+
+name=BT SPORTS 2
+
+URL=rtmpe://209.95.34.58:1935/live playpath=sbt2 pageUrl=http://www.hdcast.org
+
+player=default
+
+rating=-1.00
+
+
+
+# 2357228
+
+type=video
+
+name=SKY SPORTS 1
+
+URL=rtmpe://31.220.0.198/live playpath=sky1 swfUrl=http://www.pvtserverz.com/player/player.swf live=1 timeout=13 pageUrl=http://www.pvtserverz.com/
+
+player=default
+
+rating=-1.00
+
+
+
+# 2357225
+
+type=video
+
+name=SKY SPORTS 2
+
+URL=rtmpe://31.220.0.198/live playpath=sky2 swfUrl=http://www.pvtserverz.com/player/player.swf live=1 timeout=13 pageUrl=http://www.pvtserverz.com/
+
+player=default
+
+rating=-1.00
+
+
+
+# 2357224
+
+type=video
+
+name=SKY SPORTS 3
+
+URL=rtmpe://31.220.0.198/live playpath=sky3 swfUrl=http://www.pvtserverz.com/player/player.swf live=1 timeout=13 pageUrl=http://www.pvtserverz.com/
+
+player=default
+
+rating=-1.00
+
+
+
+# 2357223
+
+type=video
+
+name=SKY SPORTS 4
+
+URL=rtmpe://31.220.0.198/live playpath=sky4 swfUrl=http://www.pvtserverz.com/player/player.swf live=1 timeout=13 pageUrl=http://www.pvtserverz.com/
+
+player=default
+
+rating=-1.00
+
+
+
+# 2357221
+
+type=video
+
+name=SKY SPORTS 5
+
+URL=rtmpe://31.220.0.198/live playpath=sky5 swfUrl=http://www.pvtserverz.com/player/player.swf live=1 timeout=13 pageUrl=http://www.pvtserverz.com/
+
+player=default
+
+rating=-1.00
+
+
+
+# 2351612
+
+type=video
+
+name=BT SPORTS 2
+
+URL=rtmpe://209.95.34.58:1935/live playpath=sbt2 pageUrl=http://www.hdcast.org/
+
+player=default
+
+rating=-1.00
+
+
+
+# 2351611
+
+type=video
+
+name=BT SPORTS 1
+
+URL=rtmpe://209.95.34.60:1935/live playpath=sbt1 token=#yw%tt#w@kku pageUrl=http://www.hdcast.org/
+
+player=default
+
+rating=-1.00
+
+
+
+# 2351610
+
+type=video
+
+name=SKY SPORTS F1
+
+URL=rtmpe://46.246.124.26:1935/live/ playpath=sskysf1  swfUrl=http://www.hdcast.org/j2/jwplayer.flash.swf pageUrl=http://www.hdcast.org/Vd?u#bt!25 live=1 token=#yw%tt#w@kku timeout=15
+
+player=default
+
+rating=-1.00
+
+
+
+# 2350337
+
+type=video
+
+name=SKY SPORTS 1
+
+URL=rtmpe://46.246.124.26:1935/live/ playpath=sskys1  swfUrl=http://www.hdcast.org/j2/jwplayer.flash.swf pageUrl=http://www.hdcast.org/Vd?u#bt!25 live=1 token=#yw%tt#w@kku timeout=15
+
+player=default
+
+rating=-1.00
+
+
+
+# 2350335
+
+type=video
+
+name=SKY SPORTS 2
+
+URL=rtmpe://46.246.124.26:1935/live/ playpath=sskys2  swfUrl=http://www.hdcast.org/j2/jwplayer.flash.swf pageUrl=http://www.hdcast.org/Vd?u#bt!25 live=1 token=#yw%tt#w@kku timeout=15
+
+player=default
+
+rating=-1.00
+
+
+
+# 2350334
+
+type=video
+
+name=SKY SPORTS 3
+
+URL=rtmpe://46.246.124.26:1935/live/ playpath=sskys3  swfUrl=http://www.hdcast.org/j2/jwplayer.flash.swf pageUrl=http://www.hdcast.org/Vd?u#bt!25 live=1 token=#yw%tt#w@kku timeout=15
+
+player=default
+
+rating=-1.00
+
+
+
+# 2350333
+
+type=video
+
+name=SKY SPORTS 4
+
+URL=rtmpe://46.246.124.26:1935/live/ playpath=sskys5  swfUrl=http://www.hdcast.org/j2/jwplayer.flash.swf pageUrl=http://www.hdcast.org/Vd?u#bt!25 live=1 token=#yw%tt#w@kku timeout=15
+
+player=default
+
+rating=-1.00
+
+
+
+# 2350332
+
+type=video
+
+name=SKY SPORTS 5
+
+URL=rtmpe://46.246.124.26:1935/live/ playpath=sskys5  swfUrl=http://www.hdcast.org/j2/jwplayer.flash.swf pageUrl=http://www.hdcast.org/Vd?u#bt!25 live=1 token=#yw%tt#w@kku timeout=15
+
+player=default
+
+rating=-1.00
+
+
+
+# 2350331
+
+type=video
+
+name=SKY SPORTS NEWS
+
+URL=rtmp://31.220.0.134:1935/live playpath=skksnews swfUrl=http://www.flashtv.co/ePlayerr.swf live=1 pageUrl=http://www.flashtv.co/embed.php?live=skksnews&vw=620&vh=490 token=%ZZri(nKa@#Z
+
+player=default
+
+rating=-1.00
+
+
+
+# 2350320
+
+type=video
+
+name=MUTV
+
+URL=rtmp://extondemand.livestream.com/ondemand playpath=trans/dv02/mogulus-user-files/chmymutv/2009/08/13/a5fba842-8f2f-4a15-b095-9dfd8ff29b45 swfUrl=http://cdn.livestream.com/chromelessPlayer/v21/playerapi.swf?jsEnabled=false&allowchat=false&showMoreVideos=false&lschannel=true&borderColor=0xCCCCCC&time=&allowChat=true&browseMode=false&showBorderControlBar=false&textLines=2&autoPlay=true&hideChannelBranding=true&iconColor=0x555555&hideInfo=true&t=428531&mode=false pageUrl=http://www.livestream.com/embed/mymutv?showMoreVideos=false&hideInfo=true&autoPlay=true&lschannel=true&browseMode=false&textLines=2&hideChannelBranding=true&mode=false&allowchat=false&layout=1&t=428531
+
+player=default
+
+rating=-1.00
+
+
+
+# 2350319
+
+type=video
+
+name=CAPITAL MUSIC
+
+URL=rtmp://cdn-sov-2.musicradio.com:80/LiveVideo/Capital
+
+player=default
+
+rating=-1.00
+
+
+
+# 2350315
+
+type=video
+
+name=FIRST MUSIC HD
+
+URL=http://goo.gl/BXx2U4
+
+player=default
+
+rating=-1.00
+
+
+
+# 2350312
+
+type=video
+
+name=SPORTS NET ONE HD
+
+URL=http://goo.gl/vAdQ0O
+
+player=default
+
+rating=-1.00
+
+
+
+# 2350311
+
+type=video
+
+name=CLUBLAND TV
+
+URL=http://rrr.sz.xlcdn.com/?account=AATW&file=clublandtv&type=live&service=wowza&protocol=http&output=playlist.m3u8
+
+player=default
+
+rating=-1.00
+
+
+
+# 2350309
+
+type=video
+
+name=CAPITAL MUSIC
+
+URL=rtmp://cdn-sov-2.musicradio.com:80/LiveVideo/Capital
+
+player=default
+
+rating=-1.00
+
+
+
+# 2350305
+
+type=video
+
+name=BOX NATION
+
+URL=rtmpe://46.246.124.28:1935/live/sboxn token=#yw%tt#w@kku pageUrl=http://www.hdcast.org/
+
+player=default
+
+rating=-1.00
+
+
+
+# 2349099
+
+type=video
+
+name=BEIN SPORTS 2 &lt;&lt;&lt;HD&lt;&lt;&lt;
+
+URL=rtmp://213.136.71.43/live/beinsports2?Sport.HD
+
+player=default
+
+rating=-1.00
+
+
+
+# 2349098
+
+type=video
+
+name=BEIN SPORTS 3    &lt;&lt;&lt;HD&lt;&lt;&lt;
+
+URL=rtmp://213.136.71.43/live/beinsports3?Sport.HD
+
+player=default
+
+rating=-1.00
+
+
+
+# 2345808
+
+type=video
+
+name=4Music
+
+URL=http://csm-e.cds1.yospace.com/csm/live/86550614.m3u8
+
+player=default
+
+rating=-1.00
+
+
+
+# 2304559
+
+type=video
+
+name=bad neighbours 2014
+
+URL=http://www.nowvideo.sx/video/93cd505c132ee
+
+processor=http://www.navixtreme.com/wlfwood/processors/nowvideo.txt
+
+player=default
+
+rating=-1.00
+
+description=bad neighbours 2014 ENJOY THE MOVIE GUYS/description
+
+type=playlist
+name=Scheels Live Sports Streams
+URL=http://www.navixtreme.com/playlist/81410/scheels_live_sports_streams.plx
+description=Watch live sports, including Soccer, Wrestling, Boxing, UFC, Sky Sports and much more!/description
+
+type=playlist
+name=@@@@ 15.May SKy Movies 24/7 @@@
+thumb=http://images.broadbandgenie.co.uk/fckImages/logos/Sky-logo-2012-lrg.jpg
+URL=http://www.navixtreme.com/playlist/116676/_15.may_sky_movies_247_.plx
+description=Live sky sports and movies /description
+
+type=playlist
+name=skysports 1,2,3,4 BT sports 1,2
+URL=http://www.navixtreme.com/playlist/134077/skysports_1234_bt_sports_12.plx
+description=sky sports and bt sorts/description
+
+type=playlist
+name=SUPER SPORT ALBANIA | ARENA SPORT HD | SPORT KLUB |
+thumb=https://lh4.ggpht.com/GZK9d7xo8KMuFiDt6TsUS24Smp7G-wJm2QrqgshKNcTIE-jln6cdwIYsJ5_OHTgJxg=h900
+URL=http://www.navixtreme.com/playlist/145221/super_sport_albania_arena_sport_hd_sport_klub_.plx
+
+type=playlist
+name=Digitalb Albania % TRing Tv ,Al Jazeera Sport
+thumb=http://www.google.com/imgres?sa=X&espv=210&es_sm=122&biw=1024&bih=652&tbm=isch&tbnid=phSgDlKjcI0lNM:&imgrefurl=http://www.digitalb.al/kompania.php&docid=k1Xn3apmMNLvPM&imgurl=http://www.digitalb.al/Digitalb-129.jpg&w=160&h=200&ei=-Y-tUvmgM4XNsgbQtYCwBA&zo
+URL=http://www.navixtreme.com/playlist/132897/digitalb_albania_tring_tv_al_jazeera_sport.plx
+description=Sports , Super Sport ,RTk ect./description
+
+type=playlist
+name=sport live by mohamed hedi
+thumb=http://alg-tube.blogspot.com/
+URL=http://www.navixtreme.com/playlist/138148/sport_live_by_mohamed_hedi.plx
+description=bein sport/description
+
+type=playlist
+name=Sport Section
+thumb=http://i59.tinypic.com/10h3z2e.png
+URL=http://www.navixtreme.com/playlist/139065/sport_section.plx
+description=Different Sport Sections/description
+
+type=playlist
+name=ALJAZEERA SPORT 1
+URL=http://www.navixtreme.com/playlist/114380/aljazeera_sport_1.plx
+description=SPORT/description
+
+type=playlist
+name=Dream Tv Sport
+thumb=http://img5.fotos-hochladen.net/uploads/dreamtv1pdw8s36ajb.png
+URL=http://www.navixtreme.com/playlist/121110/dream_tv_sport.plx
+description=Sport/description
+
+type=playlist
+name=Dream Tv Sport
+thumb=http://img5.fotos-hochladen.net/uploads/dreamtv1pdw8s36ajb.png
+URL=http://www.navixtreme.com/playlist/131354/dream_tv_sport.plx
+description=Sport/description
+
+type=playlist
+name=BEIN SPORT HD BY GERT
+thumb=http://www.google.com/imgres?biw=1280&bih=898&tbm=isch&tbnid=S-r2xeT02SCB-M:&imgrefurl=http://enpleinelucarne.net/2013/01/je-mabonne-a-bein-sport-si-464/attachment/126722146895265&docid=IXsaBvNKMeP41M&imgurl=http://enpleinelucarne.net/wp-content/uploads/2
+URL=http://www.navixtreme.com/playlist/142258/bein_sport_hd_by_gert.plx
+description=BEIN SPORT HD BY STVALLCH/description
+
+type=playlist
+name=BIGITALB& TRING SUPER SPORT AL
+thumb=https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ6cR_V6PHvu0qJQj-Cu2hGogd7yITtlpCJ8c7WA_BW4pa0jBAO
+URL=http://www.navixtreme.com/playlist/141888/bigitalb_tring_super_sport_al.plx
+description=SUPER SPORT ALL TRING ETV/description
+
+type=playlist
+name=Sport
+URL=http://www.navixtreme.com/playlist/63309/sport.plx
+
+type=playlist
+name=sport
+URL=http://www.navixtreme.com/playlist/114210/sport.plx
+
+type=playlist
+name=Sport TV 
+URL=http://www.navixtreme.com/playlist/115004/sport_tv_.plx
+
+type=playlist
+name=Sport Tv
+URL=http://www.navixtreme.com/playlist/117956/sport_tv.plx
+
+type=playlist
+name=SPORT
+thumb=http://s6.postimg.org/lragqrvmp/iptv.png
+URL=http://www.navixtreme.com/playlist/122820/sport.plx
+description=SPORT/description
+
+type=playlist
+name=Sport
+URL=http://www.navixtreme.com/playlist/136648/sport.plx
+
+type=playlist
+name=sport
+URL=http://www.navixtreme.com/playlist/136852/sport.plx
+
+type=playlist
+name=SPORT INT
+thumb=http://www.parnavsports.com/images/sport-symbols.png
+URL=http://www.navixtreme.com/playlist/142724/sport_int.plx
+description=SPORT INT/description
+
+type=playlist
+name=Aljazeera sport
+URL=http://www.navixtreme.com/playlist/66626/aljazeera_sport.plx
+description=Aljazeera sport/description
+
+type=playlist
+name=Ahmed-Sport-X
+thumb=http://i1121.photobucket.com/albums/l514/k1m05_/sportx.jpg
+URL=http://www.navixtreme.com/playlist/65584/ahmed-sport-x.plx
+
+type=playlist
+name=CBC
+URL=http://www.navixtreme.com/playlist/68102/cbc.plx
+description=CBC Sport LIVE/description
+
+type=playlist
+name=Best of Live Sport
+URL=http://www.navixtreme.com/playlist/81247/best_of_live_sport.plx
+
+type=video
+name=1/28 Sky Sports 1 (k1m05' Live TV)
+thumb=http://www.lyngsat-logo.com/hires/ss/sky_uk_sports1_ie.png
+date=2012-01-28
+URL=rtmp://68.68.26.4/live/_definst_/hXgpwLjm0KYBttu%20playpath=hXgpwLjm0KYBttu%20swfurl=http://www.veemi.com/player/player-licensed.swf%20live=1%20pageurl=http://www.veemi.com/Sky%20Sports%201
+player=default
+rating=-1.00
+description=Sky Sports 1/description
+
+type=video
+name=1/28 Sky Sports 2 (k1m05' Live TV)
+thumb=http://www.lyngsat-logo.com/hires/ss/sky_uk_sports2.png
+date=2012-01-28
+URL=rtmp://68.68.26.4/live/_definst_/gVnIGGXLBUL1S8F%20playpath=gVnIGGXLBUL1S8F%20swfurl=http://www.veemi.com/player/player-licensed.swf%20live=1%20pageurl=http://www.veemi.com/Sky%20Sports%202
+player=default
+rating=-1.00
+description=Sky Sports 2/description
+
+type=video
+name=1/28 Sky Sports 3 (k1m05' Live TV)
+thumb=http://www.lyngsat-logo.com/hires/ss/sky_uk_sports3_in_pubs.png
+date=2012-01-28
+URL=rtmp://68.68.26.4/live/_definst_/06KDP74ONR2iSX6%20playpath=06KDP74ONR2iSX6%20swfurl=http://www.veemi.com/player/player-licensed.swf%20live=1%20pageurl=http://www.veemi.com/Sky%20Sports%203
+player=default
+rating=-1.00
+description=Sky Sports 3/description
+
+type=video
+name=1/28 Sky Sports 4 (k1m05' Live TV)
+thumb=http://www.lyngsat-logo.com/hires/ss/sky_uk_sports4.png
+date=2012-01-28
+URL=rtmp://68.68.26.4/live/_definst_/F8Ac9iYiSGWJh8w%20playpath=F8Ac9iYiSGWJh8w%20swfurl=http://www.veemi.com/player/player-licensed.swf%20live=1%20pageurl=http://www.veemi.com/Sky%20Sports%204
+player=default
+rating=-1.00
+description=Sky Sports 4/description
+
+type=video
+name=8/22 Sky Sports F1 (Colin's first playlist)
+thumb=http://www.touchline.tv/wp-content/uploads/2011/11/skyf1hd.jpg
+date=2013-08-22
+URL=rtmp://46.19.139.146:1935/stream/
+playpath=ffe84f5ed.stream
+player=default
+rating=-1.00
+description=Sky Sports F1/description
+
+type=video
+name=1/26 sky sports 1 (kingg 24hr tv)
+date=2015-01-26
+URL=rtmp://$OPT:rtmp-raw=rtmp://hpgdisco.ddns.net:1935/redirect/11 pageUrl=http://popeoftheplayers.pw/ token=#atd%#$ZH
+player=default
+rating=-1.00
+description=sky sports/description
+
+type=video
+name=3/20 Sky Sports 1 (Elli Streams)
+date=2015-03-20
+URL=rtmpe://46.246.124.86:1935/l playpath=sskys1 swfUrl=http://player.hdcast.org/_.swf live=1 pageUrl=http://www.hdcast.org/osama token=Fo5_n0w?U.rA6l3-70w47ch
+player=default
+rating=-1.00
+description=Sky Sports 1/description
+
+type=video
+name=6/7 Sky Sport 1 HD (Maroc)
+thumb=http://www.masteetv.com/pic/sky_sports1.png
+date=2012-06-07
+URL=rtmp://tv.webport.tv/ilt/z050226.stream swfurl=http://www.tvsector.com/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf swfvfy=true live=true pageurl=http://tvsector.com
+player=default
+rating=-1.00
+
+type=video
+name=5/3 Sky Sport F1 (Thailand Channel HD)
+date=2013-05-03
+URL=rtmp://89.248.174.117/live playpath=f1f1f1f1 swfUrl=http://www.reyhq.com/player/player-licensed.swf live=1 pageUrl=http://www.reyhq.com/embed.php?live=f1f1f1f1&vw=620&vh=490
+player=default
+rating=-1.00
+
+type=video
+name=3/4 Sky Sport f1 HD (Aajeesh > Aajee Sports)
+thumb=http://www.touchline.tv/wp-content/uploads/2011/11/skyf1hd.jpg
+date=2013-03-04
+URL=rtmp://159.253.149.34:80/liverepeater playpath=1skyf1HQ2013season_20792 swfUrl=http://www.udemy.com/static/flash/player5.9.swf pageUrl=http://surk.tv/embed.php?id=1skyf1HQ2013season_20792&width=660&height=420 swfVfy=true live=true
+player=default
+rating=-1.00
+
+type=video
+name=3/4 Sky Sport 2 (Aajeesh > Aajee Sports)
+thumb=http://tvnewsroom.co.uk/wp-content/section-images/sky-sports-2-ident-2010/Sky%20Sports%202%20Ident%20201005.jpg
+date=2013-03-04
+URL=rtmp://live.ukcast.tv/broadcast playpath=sky_sports2.stream swfUrl=http://www.ukcast.tv/player/player.swf pageUrl=http://www.ukcast.tv/embed.php?u=sky_sports2&vw=600&vh=430 swfVfy=true live=true
+player=default
+rating=-1.00
+
+type=video
+name=5/3 Sky Sport 1 (Thailand Channel HD)
+thumb=http://epon.at.ua/_si/0/56903833.png
+date=2013-05-03
+URL=rtmp://173.1.41.227:1935/live/ playpath=skysp1 swfUrl=http://www.longtailvideo.com/jwplayer/jwplayer.flash.swf live=1
+player=default
+rating=-1.00
+
+type=video
+name=5/3 Sky Sport 2 (Thailand Channel HD)
+thumb=http://img.darmowetv.pl/skysport2.png
+date=2013-05-03
+URL=rtmp://173.1.41.227:1935/live/ playpath=skysp2 swfUrl=http://www.longtailvideo.com/jwplayer/jwplayer.flash.swf live=1
+player=default
+rating=-1.00
+
+type=video
+name=5/3 Sky Sport 3 (Thailand Channel HD)
+thumb=http://3.bp.blogspot.com/-8PSIwdtiUGo/ToUw519gQgI/AAAAAAAAAEY/2HRxSX9HHJQ/s1600/sky-sports31.png
+date=2013-05-03
+URL=rtmp://173.1.41.227:1935/live/ playpath=skysp3 swfUrl=http://www.longtailvideo.com/jwplayer/jwplayer.flash.swf live=1
+player=default
+rating=-1.00
+
+type=video
+name=5/7 Sky Sport 1 ([COLOR=FFFF0000]Paasam TV[/COLOR] > [COLOR=FFFF0000]Sports Channel[/COLOR])
+thumb=http://img.darmowetv.pl/skysport1.png
+date=2013-05-07
+URL=rtmp://93.115.92.39/live33 playpath=ss1 swfUrl=http://www.zstream.eu/pl11ayer.swf live=1 pageUrl=http://www.zstream.eu/embed.php?v=ss1&vw=600&vh=450&video=0&domain=pogot v.eu
+player=default
+rating=-1.00
+
+type=video
+name=5/19 Sky Sport F1 (Sport channels)
+date=2013-05-19
+URL=rtmp://93.174.93.67/live playpath=f1111 swfUrl=http://www.reyhq.com/player/player-licensed.swf pageUrl=http://www.reyhq.com/embed.php?live=f1111&vw=620&vh=490
+playpath=f1111
+player=default
+rating=-1.00
+
+type=video
+name=10/29 Sky Sport 1 HD (Nook-TV)
+date=2013-10-29
+URL=rtmp://$OPT:rtmp-raw=rtmpe://46.246.29.149:1935/live/jan1 pageUrl=http://www.hdcast.tv
+player=default
+rating=-1.00
+
+type=video
+name=10/29 Sky Sport 2 HD (Nook-TV)
+date=2013-10-29
+URL=rtmp://$OPT:rtmp-raw=rtmpe://46.246.29.149:1935/live/jan2 pageUrl=http://www.hdcast.tv
+player=default
+rating=-1.00
+
+type=video
+name=10/29 Sky Sport IT (Nook-TV)
+date=2013-10-29
+URL=rtmp://213.163.64.202:1935/liverepeater/_definst_/3ww
+player=default
+rating=-1.00
+
+type=video
+name=1/11 sky sport (PAJTIM TV CHANNELS)
+date=2014-01-11
+URL=rtmp://$OPT:rtmp-raw=rtmp://109.163.233.138/liveedge/ playpath=live5 swfUrl=http://files.mica.st/jwplayer/jwplayer.flash.swf live=1 pageUrl=http://micast.tv/gens2.php?ch=live5&width=100%&height=100%ABO_FARAH _SEIF_EGYPT2013
+player=default
+rating=-1.00
+
+type=video
+name=10/4 SKY Sport (IT) ([COLOR red]SPORT[COLOR white] channels@[COLOR green]Halow TV[/COLOR])
+date=2014-10-04
+URL=rtmp://94.242.228.96/liveedge//channel1
+player=default
+rating=-1.00
+
+type=video
+name=10/4 SKY Sport (IT) ([COLOR red]SPORT[COLOR white] channels@[COLOR green]Halow TV[/COLOR])
+date=2014-10-04
+URL=rtmp://94.242.228.96/liveedge//channel11
+player=default
+rating=-1.00
+
+type=video
+name=10/7 Sky Sport 1 DE ([COLOR pink] German channels@Halow  TV [/COLOR])
+date=2014-10-07
+URL=rtmp://94.242.228.96/liveedge//channel12
+player=default
+rating=-1.00
+
+type=video
+name=10/28 SKY SPORT-Italia (Nook-TV)
+date=2013-10-28
+URL=rtmp://213.163.64.202:1935/liverepeater/_definst_/3ww
+player=default
+rating=-1.00
+
+type=video
+name=6/28 Sky Sport Italia 3 (gio3198)
+thumb=http://www.livep2ptvstream.com/logo/sky_it_sport3.jpg
+date=2014-06-28
+URL=rtmp://31.220.0.134:1935/live playpath=sky3ita swfUrl=http://www.flashtv.co/ePlayerr.swf live=1 pageUrl=http://www.flashtv.co/ token=%ZZri(nKa@#Z
+player=default
+rating=-1.00
+
+type=video
+name=6/28 Sky Sport Italia 2 (gio3198)
+thumb=http://www.livep2ptvstream.com/logo/sky_it_sport2.jpg
+date=2014-06-28
+URL=rtmp://31.220.0.134:1935/live playpath=sky2ita swfUrl=http://www.flashtv.co/ePlayerr.swf live=1 pageUrl=http://www.flashtv.co/ token=%ZZri(nKa@#Z
+player=default
+rating=-1.00
+
+type=video
+name=10/4 SKY Sport Austria (DE) ([COLOR red]SPORT[COLOR white] channels@[COLOR green]Halow TV[/COLOR])
+date=2014-10-04
+URL=rtmp://94.242.228.96/liveedge//channel13
+player=default
+rating=-1.00
+
+type=video
+name=10/7 Sky sport 24 italy ([COLOR red]SPORT[COLOR white] channels@[COLOR green]Halow TV[/COLOR])
+date=2014-10-07
+URL=rtmp://37.187.162.40:1935/liverepeater/173445
+player=default
+rating=-1.00
+
+type=audio
+name=3/26 Sky Sport News Radio ((AFA ) [COLOR=FF00FF00] Sport TV + Balkan TV [/COLOR] > Sport Radio)
+thumb=http://www.skysports.com/Images/skysports/max/radio-promo.gif
+date=2013-03-26
+URL=rtmp://skyradiolivefs.fplive.net/skyradiolive-live playpath=ss001 swfUrl=http://www.skysports.com/radio/ss_player_1_0_11.swf pageUrl=http://www.skysports.com/radio
+player=default
+rating=-1.00
+
+type=video
+name=8/18 Sky Sport 2 - Link 2 (TV Links Fixed 18/08/13 (BBC, Sky Sports, BT Sports, MTV))
+thumb=http://i.imgbox.com/adoXfbaT.jpg
+date=2013-08-18
+URL=rtmp://178.18.23.113/tivi/ swfUrl=http://p.jwpcdn.com/6/5/jwplayer.flash.swf live=1 pageUrl=http://www.livedesi.tv/player.php?id=26
+playpath=sky1
+player=default
+rating=-1.00
+description=Sports/description
+
+type=video
+name=6/7 Galatsaray Sky Sport / Turkish ([COLOR red]SPORT[COLOR white] channels@[COLOR green]Halow TV[/COLOR])
+date=2014-06-07
+URL=rtmp://cdn21.motiwe.com/live/gstv370
+player=default
+rating=-1.00
+
+type=video
+name=8/17 Sky Sports 4 (TV Links Fixed 18/08/13 (BBC, Sky Sports, BT Sports, MTV))
+thumb=http://i.imgbox.com/adoXfbaT.jpg
+date=2013-08-17
+URL=rtmp://46.246.29.151:1935/live app=live swfUrl=http://www.udemy.com/static/flash/player5.9.swf pageUrl=http://www.hdcast.tv/embed2.php?u=a87ff679a2a26ab3b526e0d9bfccbf13bed3dd874745c48cce2e&t=1376784279689&vw=720&vh=576" live=true timeout=5
+playpath=jan4
+player=default
+rating=-1.00
+
+type=video
+name=10/16 SKY Sports 1 (CYBERxNUKE's Live TV)
+date=2013-10-16
+URL=rtmp://141.8.244.56/base/sky1.stream pageUrl=http://sportsembed.com/halilou token=%X886(nPK@#. live=true timeout=10
+player=default
+rating=-1.00
+
+type=video
+name=4/20 Sky Sports 2 HD (Wadani Network Live)
+date=2013-04-20
+URL=rtmp://s01.webport.tv:1935/live?lp/z050325.stream
+player=default
+rating=-1.00
+
+type=video
+name=5/31 Sky Sports HD1 (Live Desi TV Channels)
+date=2012-05-31
+URL=rtmp://tv.futubox.com:1935/live/z050226.stream pageUrl=http://www.tvsector.com live=1 swfUrl=http://www.tvsector.com/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf/Sky Sports 1 HD
+player=default
+rating=-1.00
+
+type=video
+name=4/3 Sky sports 1 (Live Sport TV)
+thumb=http://www.lyngsat-logo.com/hires/ss/sky_uk_sports1.png
+date=2012-04-03
+URL=rtmp://174.34.129.154/?rtmp://91.121.9.48 playpath=channel4 swfUrl=http://247hdsports.net/P/player.swf app=?rtmp://91.121.9.48/live/ pageUrl=http://wrestle-zone.net.pk/f116/wrestle-zone-net-channel-4-a-105210/ live=1 timeout=10
+player=default
+rating=-1.00
+description=skysports 1/description
+
+type=video
+name=10/17 SKY SPORTS 1 ([COLOR=FF00FFFF]NEW&UPDATED[/COLOR] [COLOR=FF00FF00]STREAMING[/COLOR] [COLOR=FF00FFFF] MOVIES [/COLOR] [COLOR=FF00FF00] HD [/COLOR] [COLOR=FF00FFFF] FREE [/COLOR] [COLOR=FF00FF00] HARRYS [/COLOR] [COLOR=FF00FFFF] MEGA [/COLOR] [COLOR=FF00FF00] LIST [/COLO)
+date=2014-10-17
+URL=rtmpe://31.220.0.198/live playpath=sky1 swfUrl=http://www.pvtserverz.com/player/player.swf live=1 timeout=13 pageUrl=http://www.pvtserverz.com/ HarrysStreams
+player=default
+rating=-1.00
+
+type=video
+name=11/9 Sky Sports 1 (United Kingdom (Hasnath's Live TV & Radio Channels))
+date=2012-11-09
+URL=rtmp://212.7.206.66:1935/live/_definst_ playpath=lkjhjknbkjb001 swfUrl=http://cdn.yycast.com/player/player.swf live=1 pageUrl=http://www.yycast.com/embed.php?fileid=lkjhjknbkjb001&vw=620&vh=490
+player=default
+rating=-1.00
+
+type=video
+name=11/24 Sky Sports 2 HD (DE) (Sports TV)
+date=2012-11-24
+URL=rtmp://50.97.94.5/live/178825 swfUrl=http://bitcast-r.v1.sjc1.bitgravity.com/malar/Players/player.swf pageUrl=http://castalba.tv/embed.php?cid=9487&wh=600&ht=358&r=128.127.106.253 live=true
+player=default
+rating=-1.00
+
+type=video
+name=10/16 SKY Sports 2 (CYBERxNUKE's Live TV)
+date=2013-10-16
+URL=rtmp://141.8.244.56/base/sky2.stream pageUrl=http://sportsembed.com/halilou token=%X886(nPK@#. live=true timeout=10
+player=default
+rating=-1.00
+
+type=video
+name=8/20 Sky Sports 2 (DesiTV Channels)
+date=2012-08-20
+URL=rtmp://176.31.231.14/ app=?rtmp://91.121.9.48/live/ playpath=channel5 swfUrl=http://247hdsports.net/P/player.swf live=true swfVfy=true pageUrl=http://wrestle-zone.net.pk/
+player=default
+rating=-1.00
+
+type=video
+name=9/3 Sky Sports 1 (Brilo Sky Sports)
+date=2012-09-03
+URL=http://cricfree.tv/
+player=default
+rating=-1.00
+description=ss1/description
+
+type=video
+name=1/7 Sky Sports 2 HD (YoTamilan - Sports)
+date=2014-01-07
+URL=rtmp://37.220.32.53:443/liverepeater playpath=33698 swfUrl=http://thecdn.04stream.com/p/asrstvlnk/boopo.swf live=1 pageUrl=http://1cdn.filotv.pw/ token=#atd%#$ZH live=TIKLA Izle rtmp http rtsp L?NK
+player=default
+rating=-1.00
+
+type=video
+name=1/7 Sky Sports 4 (YoTamilan - Sports)
+date=2014-01-07
+URL=rtmp://77.81.98.136/pub/we4 pageUrl=http://www.castok.com/embed.php?v=stv39&vw=600&vh=450
+player=default
+rating=-1.00
+
+type=video
+name=1/7 Sky Sports 3 (YoTamilan - Sports)
+date=2014-01-07
+URL=rtmp://77.81.98.130/pub/we33 pageUrl=http://www.castok.com/embed.php?v=stv39&vw=600&vh=450
+player=default
+rating=-1.00
+
+type=video
+name=11/13 Sky Sports 2 HD (MovieBox > UK TV Channels)
+thumb=http://www.tnt-stream.cu.cc/logo/skysports2.png
+date=2012-11-13
+URL=rtmp://s01.webport.tv:1935/live?lp/z050325.stream
+player=default
+rating=-1.00

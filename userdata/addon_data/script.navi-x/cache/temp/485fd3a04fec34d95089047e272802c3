@@ -1,0 +1,129 @@
+﻿#######################################################################################################################################
+<poster>FELVER</poster>
+<fanart>https://scontent-b-ord.xx.fbcdn.net/hphotos-prn2/t1.0-9/1375903_10153348455540206_513150697_n.jpg</fanart>
+############################################################################################################################
+
+<channels>
+
+<channel>
+<name>LIVE TV Channels 1[COLOR aqua] updated on 05/26/14[/COLOR]</name>
+<thumbnail>https://dl.dropboxusercontent.com/u/62302783/Stream%20Logos/Navix/sports.jpg</thumbnail>
+<fanart>http://moochbar.co.uk/wp-content/uploads/2013/07/Live-Sports.jpg</fanart>
+<items>
+
+<item>
+<title>[COLOR=FF00FF00]All links updated on 05/26/14[/COLOR]</title>
+<link> </link>
+<thumbnail>https://dl.dropboxusercontent.com/u/62302783/Stream%20Logos/Sports/info.png</thumbnail>
+</item>
+
+<item>
+<title>REAL MADRID - ATL. MADRID</title>
+<link>
+<sublink>http://193.232.151.135/hls-live/livepkgr/_1040_/1040/1040-70.m3u8</sublink>
+<sublink>http://193.232.151.135/hls-live/livepkgr/_1040_/1040/1040-50.m3u8</sublink>
+<sublink>http://hls01-07.az.myvideo.az/hls-live/livepkgr/idman/idman/idman.m3u8</sublink>
+<sublink>rtmp://93.174.95.125:1935/edge/_definst_/9ddlpiijjci12o9</sublink>
+</link>
+<thumbnail>http://www.flccathletics.com/sports/msoc/2011-12/photos/0001/iStock_000001727315Medium.jpg</thumbnail>
+</item>
+
+<item>
+<title>JUVENTUS - HELLAS VERONA</title>
+<link>
+<sublink>rtmp://93.174.93.230/iguide playpath=h8jumqu0jhxmcur swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/ token=#ed%h0#w18623jsda6523lDGD</sublink>
+<sublink>rtmpe://5.153.233.106:443/share/ playpath=live3-qszlx swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=10 pageUrl=http://sharecast.to/</sublink>
+</link>
+<thumbnail>http://www.flccathletics.com/sports/msoc/2011-12/photos/0001/iStock_000001727315Medium.jpg</thumbnail>
+</item>
+
+<item>
+<title>ELCHE - BARCELONA</title>
+<link>
+<sublink>rtmp://93.174.95.125:1935/edge/_definst_/u8wfz71kltdyso3</sublink>
+<sublink>http://hls01-07.az.myvideo.az/hls-live/livepkgr/idman/idman/idman.m3u8</sublink>
+<sublink>rtmp://93.174.95.125:1935/edge/_definst_/9ddlpiijjci12o9</sublink>
+</link>
+<thumbnail>http://www.flccathletics.com/sports/msoc/2011-12/photos/0001/iStock_000001727315Medium.jpg</thumbnail>
+</item>
+
+<item>
+<title>FLUMINENSE - BAYER LEVERKUSEN (friendly)</title>
+<link>
+<sublink>http://193.232.151.135/hls-live/livepkgr/_1041_/1041/1041-70.m3u8</sublink>
+<sublink>http://193.232.151.135/hls-live/livepkgr/_1041_/1041/1041-50.m3u8</sublink>
+<sublink>rtmp://93.174.95.125:1935/edge/_definst_/z3ua1ed00znttfp</sublink>
+</link>
+<thumbnail>http://www.flccathletics.com/sports/msoc/2011-12/photos/0001/iStock_000001727315Medium.jpg</thumbnail>
+</item>
+
+<item>
+<title>SKY sport 1</title>
+<link>rtmp://93.174.95.125:1935/edge/_definst_/p78zj79dhlxx3ws</link>
+<thumbnail>http://www.flccathletics.com/sports/msoc/2011-12/photos/0001/iStock_000001727315Medium.jpg</thumbnail>
+</item>
+
+<item>
+<title>SKY sport 2</title>
+<link>rtmp://93.174.95.125:1935/edge/_definst_/on39ol6in4f2ewp</link>
+<thumbnail>http://www.flccathletics.com/sports/msoc/2011-12/photos/0001/iStock_000001727315Medium.jpg</thumbnail>
+</item>
+
+<item>
+<title>SKY sport 3</title>
+<link>rtmp://93.174.95.125:1935/edge/_definst_/pdqdnbyfwtzknat</link>
+<thumbnail>http://www.flccathletics.com/sports/msoc/2011-12/photos/0001/iStock_000001727315Medium.jpg</thumbnail>
+</item>
+
+<item>
+<title>SKY sport 4</title>
+<link>rtmp://93.174.95.125:1935/edge/_definst_/21ajqprn56aebp3</link>
+<thumbnail>http://www.flccathletics.com/sports/msoc/2011-12/photos/0001/iStock_000001727315Medium.jpg</thumbnail>
+</item>
+
+<item>
+<title>SKY sport 5</title>
+<link>rtmp://93.174.95.125:1935/edge/_definst_/u8wfz71kltdyso3</link>
+<thumbnail>http://www.flccathletics.com/sports/msoc/2011-12/photos/0001/iStock_000001727315Medium.jpg</thumbnail>
+</item>
+
+<item>
+<title>SKY sport F1</title>
+<link>rtmp://93.174.95.125:1935/edge/_definst_/udhfbfg0vfzjcds</link>
+<thumbnail>http://www.flccathletics.com/sports/msoc/2011-12/photos/0001/iStock_000001727315Medium.jpg</thumbnail>
+</item>
+
+
+<item>
+<title>BT sport 1</title>
+<link>rtmp://93.174.95.125:1935/edge/_definst_/thj91224cuxnfr1</link>
+<thumbnail>http://www.flccathletics.com/sports/msoc/2011-12/photos/0001/iStock_000001727315Medium.jpg</thumbnail>
+</item>
+
+<item>
+<title>BT sport 2</title>
+<link>rtmp://93.174.95.125:1935/edge/_definst_/z3ua1ed00znttfp</link>
+<thumbnail>http://www.flccathletics.com/sports/msoc/2011-12/photos/0001/iStock_000001727315Medium.jpg</thumbnail>
+</item>
+
+<item>
+<title>Bein 1</title>
+<link>rtmp://www.teledunet.com:1935/live?idu=soule60_25312995/bein_sport_1_low</link>
+<thumbnail>http://www.flccathletics.com/sports/msoc/2011-12/photos/0001/iStock_000001727315Medium.jpg</thumbnail>
+</item>
+
+<item>
+<title>bein 2</title>
+<link>rtmp://www.teledunet.com:1935/live?idu=soule60_25312995/bein_sport_2_low</link>
+<thumbnail>http://www.flccathletics.com/sports/msoc/2011-12/photos/0001/iStock_000001727315Medium.jpg</thumbnail>
+</item>
+
+<item>
+<title>NFL Network</title>
+<link>rtmp://93.174.95.125:1935/edge/_definst_/fzasab6vz02yuf7</link>
+<thumbnail>http://www.flccathletics.com/sports/msoc/2011-12/photos/0001/iStock_000001727315Medium.jpg</thumbnail>
+</item>
+
+</items>
+</channel>
+

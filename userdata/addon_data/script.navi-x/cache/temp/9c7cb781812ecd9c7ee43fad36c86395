@@ -1,0 +1,40 @@
+version=1
+background=http://www.google.com/imgres?sa=X&biw=1280&bih=898&tbm=isch&tbnid=uZKeWWVbYxIggM:&imgrefurl=http://www.soccergaming.com/forums/showthread.php%3Fp%3D3520862&docid=cMzGCEhARmK55M&imgurl=http://payload.cargocollective.com/1/4/135519/1823735/Logo%252520build%2525203.jpg&w=670&h=376&ei=qRPAUtKZGMLtswa66YHQBg&zoom=1&ved=1t:3588,r:5,s:0,i:96
+title= Jazeera Sport
+logo=http://www.google.com/imgres?biw=1280&bih=898&tbm=isch&tbnid=jB5oZgT2ZdWEWM:&imgrefurl=http://www.tvforum.co.uk/thegallery/sky-sports-hd-logo-32882/&docid=PvhjYJrKh3VBJM&imgurl=http://skyidentstest.yolasite.com/resources/blue%252520backdrop.png&w=1491&h=423&ei=txPAUpuUF4WGtAbB6YDoBQ&zoom=1&ved=1t:3588,r:11,s:0,i:112&iact=rc&page=1&tbnh=112&tbnw=385&start=0&ndsp=16&tx=192&ty=44
+ 
+# 1920940
+type=video
+name=Sky Sport 1 HD
+thumb=
+URL=rtmp://rtmp.featve.com:1935/redirect playpath=23697 swfUrl=http://97ff0e7e610f20512dbe-483e6ce63d68aeb3d05af6c054efb801.r29.cf1.rackcdn.com/playerg.swf pageUrl=http://featve.com/player2.php token=#atd%#$ZH live=N.SAT
+processor=
+player=default
+rating=-1.00
+ 
+# 1920940
+type=video
+name=Sky Sport 2 HD
+thumb=
+URL=rtmp://rtmp.featve.com:1935/redirect playpath=33698 swfUrl=http://97ff0e7e610f20512dbe-483e6ce63d68aeb3d05af6c054efb801.r29.cf1.rackcdn.com/playerg.swf pageUrl=http://featve.com/player2.php token=#atd%#$ZH live=N.SAT
+processor=
+player=default
+rating=-1.00
+ 
+# 1920940
+type=video
+name=Sky Sport 3 HD
+thumb=
+URL=rtmp://rtmp.featve.com:1935/redirect playpath=23699 swfUrl=http://97ff0e7e610f20512dbe-483e6ce63d68aeb3d05af6c054efb801.r29.cf1.rackcdn.com/playerg.swf pageUrl=http://featve.com/player2.php token=#atd%#$ZH live=N.SAT
+processor=
+player=default
+rating=-1.00
+ 
+# 1920940
+type=video
+name=Sky Sport 4 HD
+thumb=
+URL=rtmp://rtmp.featve.com:1935/redirect playpath=23700 swfUrl=http://97ff0e7e610f20512dbe-483e6ce63d68aeb3d05af6c054efb801.r29.cf1.rackcdn.com/playerg.swf pageUrl=http://featve.com/player2.php token=#atd%#$ZH live=N.SAT
+processor=
+player=default
+rating=-1.00

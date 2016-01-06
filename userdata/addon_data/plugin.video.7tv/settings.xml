@@ -1,0 +1,15 @@
+<settings>
+    <setting id="addon.cache.clear" value="false" />
+    <setting id="addon.cache.size" value="5" />
+    <setting id="addon.fanart.show" value="true" />
+    <setting id="addon.items.per_page" value="9" />
+    <setting id="addon.search.size" value="1" />
+    <setting id="addon.setup" value="true" />
+    <setting id="converted" value="2" />
+    <setting id="video.quality" value="3" />
+    <setting id="video.quality.ask" value="false" />
+    <setting id="view.override" value="false" />
+    <setting id="view.override.default" value="50" />
+    <setting id="view.override.episodes" value="50" />
+    <setting id="view.override.tvshows" value="50" />
+</settings>

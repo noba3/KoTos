@@ -1,0 +1,574 @@
+version=1
+background=http://www.livewallpapers.org/wp-content/uploads/2012/12/blue-3d-cubes.jpg
+title=([COLOR=FFFF0000]Live[/COLOR] International [COLOR=FF00BFFF]TV[/COLOR]) All Working!
+logo=http://lrc.utk.edu/learn/images/dishworld.jpg
+icon_playlist=http://lrc.utk.edu/learn/images/dishworld.jpg
+description=\\\\///E A S Y S T R E A M S////\\\
+
+I am fixing all my bad links today.
+
+200 + Channels Coming Soon!!
+
+=== Attention Please ===
+
+Live International tv got deleted by Navi X for unknown reasons so i created a new one
+
+The video keeps buffering? Just pause it for 2-5 minutes then continue playing!
+
+Donate to My PayPal Jaymac192@msn.com i would be eternally grateful
+
+Email me with any questions, bad links or request [COLOR=FF00BFFF]Jaymac192@gmail.com[/COLOR]
+
+--- Links [COLOR=FF00FF00] Tested [/COLOR]  / [COLOR=FFFF34FF] Added [/COLOR]  /[COLOR=FFFF0000] Replaced [/COLOR]/ [COLOR=FF00BFFF] Updated Daily [/COLOR] --- /description
+
+# 2437658
+type=video
+name=EL TRECE - NUEVO
+thumb=http://www.risk.net/IMG/219/214219/mexico-flag-2.jpg
+URL=http://200.76.77.237/LIVE/H01/CANAL113/PROFILE03.m3u8?
+player=default
+rating=-1.00
+
+# 2437660
+type=video
+name=FORO TV - NUEVO
+thumb=http://www.risk.net/IMG/219/214219/mexico-flag-2.jpg
+URL=http://200.76.77.237/LIVE/H01/CANAL104/PROFILE03.m3u8?
+player=default
+rating=-1.00
+
+# 2437661
+type=video
+name=CANAL 5 - NUEVO
+thumb=http://www.risk.net/IMG/219/214219/mexico-flag-2.jpg
+URL=http://200.76.77.237/LIVE/H01/CANAL105/PROFILE03.m3u8?
+player=default
+rating=-1.00
+
+# 2437663
+type=video
+name=PROYECTO 40 - NUEBO
+thumb=http://www.risk.net/IMG/219/214219/mexico-flag-2.jpg
+URL=http://200.76.77.237/LIVE/H01/CANAL140/PROFILE03.m3u8?
+player=default
+rating=-1.00
+
+# 2437665
+type=video
+name=AZTECA NOTICIAS - NUEVO
+thumb=http://www.risk.net/IMG/219/214219/mexico-flag-2.jpg
+URL=http://200.76.77.237/LIVE/H01/CANAL2/PROFILE03.m3u8?
+player=default
+rating=-1.00
+
+# 2439799
+type=video
+name=Tele Antillas (Dominican Republic)
+thumb=https://s-media-cache-ak0.pinimg.com/236x/b9/f6/c4/b9f6c41e62ac91c0b28f989e5fe9020d.jpg
+date=2015-03-21
+URL=http://mek4.mekstream.com/teleantillas/live3/playlist.m3u8
+player=default
+rating=-1.00
+
+# 2437964
+type=video
+name=ViveDeportes
+thumb=http://www.freelargeimages.com/wp-content/uploads/2014/11/Chile_flag-7.jpg
+date=2015-03-15
+URL=http://bit.do/2oRL
+player=default
+rating=-1.00
+
+# 2437962
+type=video
+name=CNN
+thumb=http://www.freelargeimages.com/wp-content/uploads/2014/11/Chile_flag-7.jpg
+date=2015-03-15
+URL=rtsp://200.104.250.183/vtr_cnn_online/cnn-web/
+player=default
+rating=-1.00
+
+# 2437926
+type=video
+name=MEGA
+thumb=http://www.freelargeimages.com/wp-content/uploads/2014/11/Chile_flag-7.jpg
+URL=http://bit.do/2obf
+player=default
+rating=-1.00
+
+# 2437963
+type=video
+name=TVNovelas
+thumb=http://www.freelargeimages.com/wp-content/uploads/2014/11/Chile_flag-7.jpg
+date=2015-03-15
+URL=http://edge-11-mvstr.edge.mdstrm.com/tvn-live/smil:285a5c6dade574d5f111419c85c6cf17/playlist.m3u8
+player=default
+rating=-1.00
+
+# 2439800
+type=video
+name=MULTIMEDIOS TV Mexico
+thumb=http://i.huffpost.com/gen/1352167/thumbs/o-MEXICAN-FACE-PAINT-facebook.jpg
+date=2015-03-21
+URL=http://brightcove03-f.akamaihd.net/multimedios_tv_612k@55732?file=ChelTV_m3u8
+player=default
+rating=-1.00
+
+# 2439228
+type=video
+name=tvchile
+thumb=http://www.freelargeimages.com/wp-content/uploads/2014/11/Chile_flag-7.jpg
+date=2015-03-18
+URL=http://edge-61-cl.edge.mdstrm.com/tvn-live/_definst_/smil:285a5c6dade574d5f111419c85c6cf17/chunklist_b800000.m3u8
+player=default
+rating=-1.00
+
+# 2439230
+type=video
+name=LARED
+thumb=http://www.freelargeimages.com/wp-content/uploads/2014/11/Chile_flag-7.jpg
+date=2015-03-18
+URL=http://wow1.dallas.digitalproserver.com/redtv/redtvvivo/mp4:livestream3/playlist.m3u8
+player=default
+rating=-1.00
+
+# 2439231
+type=video
+name=TVNhd
+thumb=http://www.freelargeimages.com/wp-content/uploads/2014/11/Chile_flag-7.jpg
+date=2015-03-18
+URL=http://edge-51-cl.edge.mdstrm.com/tvn-live/_definst_/smil:7cb6048ff45cb5cdf7f5fed828597fd1/chunklist_b1500000.m3u8
+player=default
+rating=-1.00
+
+# 2439232
+type=video
+name=ARICA TV
+thumb=http://www.freelargeimages.com/wp-content/uploads/2014/11/Chile_flag-7.jpg
+date=2015-03-18
+URL=http://u.to/XdcdCQ
+player=default
+rating=-1.00
+
+# 2439234
+type=video
+name=AYSEN TV
+thumb=http://www.freelargeimages.com/wp-content/uploads/2014/11/Chile_flag-7.jpg
+date=2015-03-18
+URL=http://u.to/a9cdCQ
+player=default
+rating=-1.00
+
+# 2439235
+type=video
+name=AYSEN TV OPTION 2
+thumb=http://www.freelargeimages.com/wp-content/uploads/2014/11/Chile_flag-7.jpg
+date=2015-03-18
+URL=http://u.to/XtcdCQ
+player=default
+rating=-1.00
+
+# 2439237
+type=video
+name=C9 BIO BIO TV CONCEPCION
+thumb=http://www.freelargeimages.com/wp-content/uploads/2014/11/Chile_flag-7.jpg
+date=2015-03-18
+URL=http://u.to/ZdcdCQ
+player=default
+rating=-1.00
+
+# 2439238
+type=video
+name=C9 BIO BIO TV CONCEPCION OPTION 2
+thumb=http://www.freelargeimages.com/wp-content/uploads/2014/11/Chile_flag-7.jpg
+date=2015-03-18
+URL=http://u.to/XtcdCQ
+player=default
+rating=-1.00
+
+# 2439265
+type=video
+name=ANTOFAGASTA TV CANAL 30
+thumb=http://www.freelargeimages.com/wp-content/uploads/2014/11/Chile_flag-7.jpg
+date=2015-03-18
+URL=http://wow2.cl.digitalproserver.com/atv/atvvivo/atv.smil/hasbahca.m3u8
+player=default
+rating=-1.00
+
+# 2439271
+type=video
+name=TV5 LINARES
+thumb=http://www.freelargeimages.com/wp-content/uploads/2014/11/Chile_flag-7.jpg
+date=2015-03-18
+URL=http://bit.do/2xL7
+player=default
+rating=-1.00
+
+# 2439275
+type=video
+name=CAMARADIP_CHILE
+thumb=http://www.freelargeimages.com/wp-content/uploads/2014/11/Chile_flag-7.jpg
+date=2015-03-18
+URL=rtsp://origin.camara.ztreaming.com/origincamara8/streamcam8.sdp
+player=default
+rating=-1.00
+
+# 2439274
+type=video
+name=VALLE TELEVISION CANAL 2 SAN FELIPE OPTION 2
+thumb=http://www.freelargeimages.com/wp-content/uploads/2014/11/Chile_flag-7.jpg
+date=2015-03-18
+URL=http://bit.do/2xMi
+player=default
+rating=-1.00
+
+# 2439268
+type=video
+name=TV SENADO
+thumb=http://www.freelargeimages.com/wp-content/uploads/2014/11/Chile_flag-7.jpg
+date=2015-03-18
+URL=http://senadortmp.janus.cl/senadotv/senado600/hasbahca.m3u8
+player=default
+rating=-1.00
+
+# 2439240
+type=video
+name=CAMARA DE DIPUTADOS
+thumb=http://www.freelargeimages.com/wp-content/uploads/2014/11/Chile_flag-7.jpg
+date=2015-03-18
+URL=rtsp://origin.camara.ztreaming.com/origincamara8/streamcam8.sdp
+player=default
+rating=-1.00
+
+# 2439262
+type=video
+name=HISPAN TV
+thumb=http://www.freelargeimages.com/wp-content/uploads/2014/11/Chile_flag-7.jpg
+date=2015-03-18
+URL=rtmp://mtv.fms-01.visionip.tv/live/mtv-m_tv-live-25f-4x3-SDh
+player=default
+rating=-1.00
+
+# 2439244
+type=video
+name=CAMPUS TV TALCA
+thumb=http://www.freelargeimages.com/wp-content/uploads/2014/11/Chile_flag-7.jpg
+date=2015-03-18
+URL=http://u.to/adcdCQ
+player=default
+rating=-1.00
+
+# 2439257
+type=video
+name=VALLE TELEVISION CANAL 2 SAN FELIPE OPTION 2
+thumb=http://www.freelargeimages.com/wp-content/uploads/2014/11/Chile_flag-7.jpg
+date=2015-03-18
+URL=http://u.to/ZNcdCQ
+player=default
+rating=-1.00
+
+# 2439247
+type=video
+name=EL PINGUINO TV CANAL 4 PUNTA ARENAS
+thumb=http://www.freelargeimages.com/wp-content/uploads/2014/11/Chile_flag-7.jpg
+date=2015-03-18
+URL=http://u.to/YdcdCQ
+player=default
+rating=-1.00
+
+# 2439260
+type=video
+name=CHILEVISION
+thumb=http://www.freelargeimages.com/wp-content/uploads/2014/11/Chile_flag-7.jpg
+date=2015-03-18
+URL=rtsp://cluster.13movil.ztreaming.com/13mv2/stream1grpz13m29102012.sdp
+player=default
+rating=-1.00
+
+# 2439252
+type=video
+name=TV PATAGONIA PUNTA ARENAS
+thumb=http://www.freelargeimages.com/wp-content/uploads/2014/11/Chile_flag-7.jpg
+date=2015-03-18
+URL=http://u.to/ZtcdCQ
+player=default
+rating=-1.00
+
+# 2439255
+type=video
+name=TV SENADO
+thumb=http://www.freelargeimages.com/wp-content/uploads/2014/11/Chile_flag-7.jpg
+date=2015-03-18
+URL=http://u.to/Y9cdCQ
+player=default
+rating=-1.00
+
+# 2437976
+type=video
+name=RBC Television
+thumb=http://info-peru.de/wp-content/uploads/2014/12/Flagge_von_Peru.png
+date=2015-03-15
+URL=rtmp://67.212.178.250:1935/tvservistream13092014/S47DSR4R4TY
+player=default
+rating=-1.00
+
+# 2437974
+type=video
+name=America Television
+thumb=http://info-peru.de/wp-content/uploads/2014/12/Flagge_von_Peru.png
+date=2015-03-15
+URL=http://ooyalahd2-f.akamaihd.net/i/americatv_delivery@25405/index_1728_av-p.m3u8
+player=default
+rating=-1.00
+
+# 2437966
+type=video
+name=TN
+thumb=http://revoluciontrespuntocero.com/wp-content/uploads/2015/03/ARGENTINA.jpg
+date=2015-03-15
+URL=rtsp://stream.tn.com.ar/live/tnhd1
+player=default
+rating=-1.00
+
+# 2437965
+type=video
+name=El Trece
+thumb=http://revoluciontrespuntocero.com/wp-content/uploads/2015/03/ARGENTINA.jpg
+date=2015-03-15
+URL=rtsp://stream.eltrecetv.com.ar/live13/13tv/13tv1
+player=default
+rating=-1.00
+
+# 2437968
+type=video
+name=Canal 26
+thumb=http://revoluciontrespuntocero.com/wp-content/uploads/2015/03/ARGENTINA.jpg
+date=2015-03-15
+URL=rtsp://live-edge01.telecentro.net.ar:80/live/26hd-360
+player=default
+rating=-1.00
+
+# 2437694
+type=video
+name=FX
+thumb=http://www.h3dwallpapers.com/wp-content/uploads/2014/08/Brazil_flag-2.jpg
+URL=rtmp://31.204.128.75/live/master25
+player=default
+rating=-1.00
+
+# 2437685
+type=video
+name=CINEMAX
+thumb=http://www.h3dwallpapers.com/wp-content/uploads/2014/08/Brazil_flag-2.jpg
+URL=rtmp://31.204.128.140/live/53
+player=default
+rating=-1.00
+
+# 2437697
+type=video
+name=ESPN+
+thumb=http://www.h3dwallpapers.com/wp-content/uploads/2014/08/Brazil_flag-2.jpg
+URL=rtmp://31.204.128.74/live/master27
+player=default
+rating=-1.00
+
+# 2437698
+type=video
+name=ESPN
+thumb=http://www.h3dwallpapers.com/wp-content/uploads/2014/08/Brazil_flag-2.jpg
+URL=rtmp://31.204.153.70/live/master06
+player=default
+rating=-1.00
+
+# 2437695
+type=video
+name=FOX SPORTS
+thumb=http://www.h3dwallpapers.com/wp-content/uploads/2014/08/Brazil_flag-2.jpg
+URL=rtmp://31.204.153.72/live/fsb
+player=default
+rating=-1.00
+
+# 2437705
+type=video
+name=ANIMAL PLANET
+thumb=http://www.h3dwallpapers.com/wp-content/uploads/2014/08/Brazil_flag-2.jpg
+URL=rtmp://31.204.128.75/live/30
+player=default
+rating=-1.00
+
+# 2437696
+type=video
+name=FOX
+thumb=http://www.h3dwallpapers.com/wp-content/uploads/2014/08/Brazil_flag-2.jpg
+URL=rtmp://31.204.128.140/live/fox
+player=default
+rating=-1.00
+
+# 2437693
+type=video
+name=MEGAPIX
+thumb=http://www.h3dwallpapers.com/wp-content/uploads/2014/08/Brazil_flag-2.jpg
+URL=rtmp://31.204.128.73/live/master11
+player=default
+rating=-1.00
+
+# 2437702
+type=video
+name=CARTOON NETWORK
+thumb=http://www.h3dwallpapers.com/wp-content/uploads/2014/08/Brazil_flag-2.jpg
+URL=rtmp://31.204.128.140/live/brlive_0028
+player=default
+rating=-1.00
+
+# 2437703
+type=video
+name=NICKELODEON
+thumb=http://www.h3dwallpapers.com/wp-content/uploads/2014/08/Brazil_flag-2.jpg
+URL=rtmp://31.204.128.140/live/brlive_0030
+player=default
+rating=-1.00
+
+# 2437701
+type=video
+name=BRASILISCOVERY KIDS
+thumb=http://www.h3dwallpapers.com/wp-content/uploads/2014/08/Brazil_flag-2.jpg
+URL=rtmp://31.204.128.74/live/master24
+player=default
+rating=-1.00
+
+# 2437686
+type=video
+name=First Music HD 1080p
+thumb=http://www.h3dwallpapers.com/wp-content/uploads/2014/08/Brazil_flag-2.jpg
+URL=rtmp://109.239.142.62/live/livestream3
+player=default
+rating=-1.00
+
+# 2437687
+type=video
+name=TC PREMIUM
+thumb=http://www.h3dwallpapers.com/wp-content/uploads/2014/08/Brazil_flag-2.jpg
+URL=rtmp://31.204.128.140/live/master19
+player=default
+rating=-1.00
+
+# 2437688
+type=video
+name=TC PIPOCA
+thumb=http://www.h3dwallpapers.com/wp-content/uploads/2014/08/Brazil_flag-2.jpg
+URL=rtmp://31.204.128.74/live/master18
+player=default
+rating=-1.00
+
+# 2437689
+type=video
+name=TC ACTION
+thumb=http://www.h3dwallpapers.com/wp-content/uploads/2014/08/Brazil_flag-2.jpg
+URL=rtmp://31.204.128.75/live/master17
+player=default
+rating=-1.00
+
+# 2437690
+type=video
+name=SPORTS Mais
+thumb=http://www.h3dwallpapers.com/wp-content/uploads/2014/08/Brazil_flag-2.jpg
+URL=rtmp://31.204.153.70/live/sportsmais
+player=default
+rating=-1.00
+
+# 2437691
+type=video
+name=TV TCM 10
+thumb=http://www.h3dwallpapers.com/wp-content/uploads/2014/08/Brazil_flag-2.jpg
+URL=rtmp://177.154.192.30/live/canal10
+player=default
+rating=-1.00
+
+# 2437692
+type=video
+name=Rede FamÃ­lia
+thumb=http://www.h3dwallpapers.com/wp-content/uploads/2014/08/Brazil_flag-2.jpg
+URL=rtsp://srv3.ntelecom.com.br/redefamilia
+player=default
+rating=-1.00
+
+# 2437699
+type=video
+name=Conexaobr Tv
+thumb=http://www.h3dwallpapers.com/wp-content/uploads/2014/08/Brazil_flag-2.jpg
+URL=rtmp://srvvenus.canaldoboi.com/livecx/livestream
+player=default
+rating=-1.00
+
+# 2437700
+type=video
+name=Canal Do Boi Tv
+thumb=http://www.h3dwallpapers.com/wp-content/uploads/2014/08/Brazil_flag-2.jpg
+URL=rtmp://srvvenus.canaldoboi.com/livecb/livestream
+player=default
+rating=-1.00
+
+# 2437704
+type=video
+name=BASTA CRER
+thumb=http://www.h3dwallpapers.com/wp-content/uploads/2014/08/Brazil_flag-2.jpg
+URL=rtmp://streamspub.manasat.com/live/bastacrer
+player=default
+rating=-1.00
+
+# 2437614
+type=
+name=_/******* [COLOR=FF00BFFF]\\\\///CARIBBEAN CHANNELS////\\\[/COLOR] *******\_
+thumb=http://paradiseintheworld.com/wp-content/uploads/2012/01/caribbean.jpg
+player=default
+rating=-1.00
+
+# 2437615
+type=
+name=_/******* [COLOR=FF00BFFF]\\\\///European Channels////\\\[/COLOR] *******\ _
+thumb=http://www.computing.co.uk/IMG/985/90985/flags-of-european-union.jpg
+player=default
+rating=-1.00
+
+# 2437988
+type=video
+name=MusikGerman
+date=2015-03-15
+URL=rtsp://46.249.213.87/broadcast/musik-tablet.3gp
+player=default
+rating=-1.00
+
+# 2439434
+type=video
+name=MeSuena TV (OpciÃ³n 3)
+date=2015-03-19
+URL=http://uneapple-i.akamaihd.net/hls/live/207643/grupoune_st24@207643/st24_index.m3u8
+player=default
+rating=-1.00
+
+# 2439436
+type=video
+name=MeSuena TV
+date=2015-03-19
+URL=http://uneapple-i.akamaihd.net/hls/live/215955/grupoune_st44@215955/st44_index.m3u8
+player=default
+rating=-1.00
+
+# 2439588
+type=video
+name=TRENDY
+date=2015-03-20
+URL=http://uneapple-i.akamaihd.net/hls/live/205019/grupoune_st10@205019/st10_index.m3u8
+player=default
+rating=-1.00
+
+# 2439738
+type=video
+name=VIO
+date=2015-03-21
+URL=http://uneapple-i.akamaihd.net/hls/live/205018/grupoune_st9@205018/st9_index.m3u8
+player=default
+rating=-1.00
+
+
+# cached

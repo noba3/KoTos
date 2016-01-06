@@ -1,0 +1,26 @@
+version=1
+title=Sky Sports 1-4 (working)
+
+# 1403762
+type=video
+name=Sky calcia
+URL=rtmp://198.105.212.4/live/Sportv260gtzhetyh?id=24824
+player=default
+rating=-1.00
+
+# 1402134
+type=video
+name=Test
+URL=rtsp://origin.hdcast.tv:1935/live/_definst_/ssone
+player=default
+rating=-1.00
+
+# 1402133
+type=video
+name=Sky Sports 1
+URL=rtsp://origin.hdcast.tv:1935/live/_definst_/ssone
+player=default
+rating=-1.00
+
+
+# cached

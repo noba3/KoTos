@@ -1,0 +1,20 @@
+<settings>
+    <category label="Einstellungen">
+		<setting label="Premium Login - arabian TV" type="lsep"/>	
+        <setting label="30080" type="sep" />
+        <setting id="user" label="Benutzername eingeben:" type="text" default="xbmcuser"/>
+        <setting id="password" label="Passwort eingeben: " type="text" default="user"/>
+        <setting label="30080" type="sep" />
+		<setting label="" type="lsep"/>	
+		<setting label="allgemeine Einstellungen" type="lsep"/>	
+        <setting label="30080" type="sep" />
+        <setting id="setBack" type="bool" label="Hintergrundbild des Senders anzeigen" default="true"/>
+        <setting id="views" type="text" label="Standard Ansicht / Viewtyp für Senderliste" default="500"/>
+    </category>
+		<setting id="firstrun" default="0"/>
+		<setting id="data1" default="0"/>
+		<setting id="data2" default="0"/>
+		<setting id="data3" default="0"/>
+		<setting id="data4" default="0"/>
+		<setting id="data5" default="0"/>
+</settings>

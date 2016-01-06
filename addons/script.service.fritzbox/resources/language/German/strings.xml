@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<strings>
+	<!-- Addon Name -->
+	<string id="30000">XBMC Anrufanzeige</string>
+	<!-- some other strings -->
+	<string id="30100">Hi</string>
+	<!-- Settings -->
+	<string id="30001">Fritzbox</string>
+	<string id="30002">Addressbuecher</string>
+	<string id="30003">Aktionen</string>
+	<!-- Default Tab -->
+	<string id="30200">IP Addresse der Fritzbox</string>
+	<string id="30210">Anzeigedauer der Info (Sekunden)</string>
+	<string id="30211">Wartezeit vor dem Start</string>
+
+	<!-- Addressbook -->
+	<string id="30300">Benutze Fritzbox Addressbuch</string>
+    <string id="30301">Anmelde Passwort</string>
+
+	<!-- Actions -->
+	<string id="30400">XBMC bei eingehenden Anrufen pausieren?</string>
+</strings>
+

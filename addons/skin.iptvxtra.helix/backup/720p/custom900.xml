@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<window id="900" type="dialog">
+	<defaultcontrol always="true">900</defaultcontrol>
+    <!-- <onunload>RunPlugin($INFO[Skin.String(iptvxtra_addon_aktuell)]/?listchange)</onunload> -->
+	<onload>Container.Refresh</onload>
+	<coordinates>
+		<system>1</system>
+		<left>1000</left>
+		<top>20</top>
+	</coordinates>
+	<include>dialogeffect</include>
+	<controls>
+		<control type="image">
+			<left>-1050</left>
+			<top>-20</top>
+			<width>1380</width>
+			<height>720</height>
+			<aspectratio>scale</aspectratio>
+			<fadetime>IconCrossfadeTime</fadetime>
+			<texture background="true">special://skin/backgrounds/loading.jpg</texture>
+            <visible>!Window.IsVisible(12005) | !Player.Playing</visible>
+		</control>
+		<control type="group">
+			<control type="image">
+				<description>background image</description>
+				<left>0</left>
+				<top>0</top>
+				<width>270</width>
+				<height>680</height>
+				<texture border="40">DialogBack2.png</texture>
+			</control>
+			<control type="button" id ="902">
+				<description>Close Window button</description>
+				<left>10</left>
+				<top>5</top>
+				<width>64</width>
+				<height>32</height>
+				<label>-</label>
+				<font>-</font>
+				<onclick>PreviousMenu</onclick>
+				<onclick>Dialog.Close(900)</onclick>
+				<texturefocus>DialogCloseButton-focus.png</texturefocus>
+				<texturenofocus>DialogCloseButton.png</texturenofocus>
+				<onright>PreviousMenu</onright>
+				<onleft>PreviousMenu</onleft>
+				<onup>900</onup>
+				<ondown>900</ondown>
+			</control>
+<!-- 			<control type="button">
+				<description>Close Window button</description>
+				<left>200</left>
+				<top>5</top>
+				<width>64</width>
+				<height>32</height>
+				<label>-</label>
+				<font>-</font>
+                <onclick>RunPlugin(plugin://plugin.video.iptvxtra-de/?zapsidemenu)</onclick>
+				<texturefocus>DialogCloseButton-focus.png</texturefocus>
+				<texturenofocus>DialogCloseButton.png</texturenofocus>
+				<onright>PreviousMenu</onright>
+				<onleft>PreviousMenu</onleft>
+				<onup>900</onup>
+				<ondown>900</ondown>
+			</control> -->
+			<control type="image">
+				<description>Dialog Header image</description>
+				<left>40</left>
+				<top>6</top>
+				<width>190</width>
+				<height>50</height>
+				<texture>dialogheader.png</texture>
+			</control>
+ 			<control type="label">
+				<description>header label</description>
+				<left>40</left>
+				<top>6</top>
+				<width>190</width>
+				<height>40</height>
+				<font>font12_title</font>
+				<label>TV - Kanäle</label>
+				<align>center</align>
+				<aligny>center</aligny>
+				<textcolor>blue</textcolor>
+				<shadowcolor>black</shadowcolor>
+			</control>
+			<control type="label">
+				<description>header label</description>
+				<left>40</left>
+				<top>-17</top>
+				<width>190</width>
+				<height>120</height>
+				<font>font10_title</font>
+				<label>$INFO[System.Date(DDD)], $INFO[System.Date(d)] $INFO[System.Date(mmm)] $INFO[System.Date(yyyy)] • $INFO[System.Time]</label>
+				<align>center</align>
+				<aligny>center</aligny>
+				<textcolor>grey</textcolor>
+				<shadowcolor>black</shadowcolor>
+			</control>
+			<control type="label">
+				<description>info label</description>
+				<left>10</left><top>250</top><width>250</width><height>30</height>
+				<font>font13_title</font><visible>!Container(900).HasFocus</visible>
+				<label>einen kleinen Moment</label>
+				<align>center</align><aligny>center</aligny>
+				<textcolor>white</textcolor><shadowcolor>black</shadowcolor>
+			</control>
+			<control type="label">
+				<description>info label</description>
+				<left>10</left><top>290</top><width>250</width><height>30</height>
+				<font>font13_title</font><visible>!Container(900).HasFocus</visible>
+				<label>die Liste wird importiert</label>
+				<align>center</align><aligny>center</aligny>
+				<textcolor>white</textcolor><shadowcolor>black</shadowcolor>
+			</control>
+
+
+			<control type="list" id="900">
+				<left>20</left>
+				<top>65</top>
+				<width>230</width>
+				<height>600</height>
+				<onright>901</onright>
+				<onleft>901</onleft>
+				<onup>900</onup>
+				<ondown>900</ondown>
+				<viewtype label="900">list</viewtype>
+				<scrolltime>200</scrolltime>
+				<itemlayout height="50" width="410">
+					<control type="image">
+						<left>0</left>
+						<top>0</top>
+						<width>230</width>
+						<height>50</height>
+						<texture border="5">button-nofocus.png</texture>
+						<include>VisibleFadeEffect</include>
+					</control>
+					<control type="image">
+						<left>1</left>
+						<top>1</top>
+						<width>48</width>
+						<height>48</height>
+						<texture>$INFO[ListItem.Icon]</texture>
+					</control>
+					<control type="label">
+						<left>60</left>
+						<left>52</left>
+						<top>0</top>
+						<width>170</width>
+						<height>50</height>
+						<font>font13_title</font>
+						<font>font12_title</font>
+						<textcolor>white</textcolor>
+						<selectedcolor>selected</selectedcolor>
+						<aligny>center</aligny>
+						<align>left</align>
+						<label>$INFO[ListItem.Label]</label>
+					</control>
+					<control type="label">
+						<left>52</left>
+						<top>20</top>
+						<width>170</width>
+						<height>50</height>
+						<font>font12</font>
+						<textcolor>grey</textcolor>
+						<selectedcolor>selected</selectedcolor>
+						<align>left</align>
+						<!-- <label>$INFO[ListItem.Title]</label> -->
+					</control>
+				</itemlayout>
+				<focusedlayout height="50" width="410">
+					<control type="image">
+						<left>0</left>
+						<top>0</top>
+						<width>230</width>
+						<height>50</height>
+						<texture border="5">button-nofocus.png</texture>
+						<visible>!Control.HasFocus(900)</visible>
+						<include>VisibleFadeEffect</include>
+					</control>
+					<control type="image">
+						<left>0</left>
+						<top>0</top>
+						<width>230</width>
+						<height>50</height>
+						<texture border="5">button-focus2.png</texture>
+						<visible>Control.HasFocus(900)</visible>
+						<include>VisibleFadeEffect</include>
+					</control>
+					<control type="image">
+						<left>1</left>
+						<top>1</top>
+						<width>48</width>
+						<height>48</height>
+						<texture>$INFO[ListItem.Icon]</texture>
+					</control>
+					<control type="label">
+						<left>60</left>
+						<left>52</left>
+						<top>0</top>
+						<width>170</width>
+						<height>50</height>
+						<font>font13_title</font>
+						<font>font12_title</font>
+						<textcolor>white</textcolor>
+						<selectedcolor>selected</selectedcolor>
+						<aligny>center</aligny>
+						<align>left</align>
+						<label>$INFO[ListItem.Label]</label>
+					</control>
+					<control type="label">
+						<left>52</left>
+						<top>20</top>
+						<width>170</width>
+						<height>50</height>
+						<font>font12</font>
+						<textcolor>grey</textcolor>
+						<selectedcolor>selected</selectedcolor>
+						<align>left</align>
+						<!-- <label>$INFO[ListItem.Title]</label> -->
+					</control>
+				</focusedlayout>
+
+
+
+
+
+				<!-- <Content target="video">$INFO[Container.ListItem.Path]</content>  -->
+				<content target="video">$INFO[Skin.String(iptvxtra_addon_aktuell)]/?zapsidemenu</content>
+				<!-- <content target="video">$INFO[Skin.String(iptvxtra_epg_file)]</content> -->
+			</control>
+		</control>
+	</controls>
+</window>

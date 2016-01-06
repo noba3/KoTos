@@ -1,0 +1,72 @@
+version=1
+background=http://img.wallpaperstock.net:81/fire-football-wallpapers_27494_1280x800.jpg
+title=- - - - - - - - - - - -[COLORyellow] Click Here for Sky Sports Tv Guide [/COLOR]- - - - - - - - - - - - -
+logo=https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQK5ka8yw09pHrJSMkTyzSRIirRcGeEXOZLbxBH1TS3XbgByHQu
+icon_playlist=http://soccer4you.info/TVGuide.png?v=1ww6ns4wakkybkb
+description=TV Guide/description
+
+# 1950361
+type=rss:
+name=Sky Sports 1 Today
+thumb=http://soccer4you.info/TVGuide.png?v=1ww6ns4wakkybkb
+URL=http://bleb.org/tv/data/rss.php?ch=sky_sports1&day=0
+background=http://img.wallpaperstock.net:81/fire-football-wallpapers_27494_1280x800.jpg
+player=default
+rating=-1.00
+
+# 1950379
+type=rss:
+name=Sky Sports 2 Today
+thumb=http://soccer4you.info/TVGuide.png?v=1ww6ns4wakkybkb
+URL=http://bleb.org/tv/data/rss.php?ch=sky_sports2&day=0
+background=http://img.wallpaperstock.net:81/fire-football-wallpapers_27494_1280x800.jpg
+player=default
+rating=-1.00
+
+# 1950380
+type=rss:
+name=Sky Sports 3 Today
+thumb=http://soccer4you.info/TVGuide.png?v=1ww6ns4wakkybkb
+URL=http://bleb.org/tv/data/rss.php?ch=sky_sports3&day=0
+background=http://img.wallpaperstock.net:81/fire-football-wallpapers_27494_1280x800.jpg
+player=default
+rating=-1.00
+
+# 1950382
+type=rss:
+name=Sky Sports 4 Today
+thumb=http://soccer4you.info/TVGuide.png?v=1ww6ns4wakkybkb
+URL=http://bleb.org/tv/data/rss.php?ch=sky_sports_xtra&day=0
+background=http://img.wallpaperstock.net:81/fire-football-wallpapers_27494_1280x800.jpg
+player=default
+rating=-1.00
+
+# 1950383
+type=rss:
+name=Sky Sports F1 Today
+thumb=http://soccer4you.info/TVGuide.png?v=1ww6ns4wakkybkb
+URL=http://bleb.org/tv/data/rss.php?ch=sky_sports_f1&day=0
+background=http://img.wallpaperstock.net:81/fire-football-wallpapers_27494_1280x800.jpg
+player=default
+rating=-1.00
+
+# 1950384
+type=rss:
+name=Sky Sports News Today
+thumb=http://soccer4you.info/TVGuide.png?v=1ww6ns4wakkybkb
+URL=http://bleb.org/tv/data/rss.php?ch=sky_sports_news&day=0
+background=http://img.wallpaperstock.net:81/fire-football-wallpapers_27494_1280x800.jpg
+player=default
+rating=-1.00
+
+# 1950385
+type=rss:
+name=Eurosport Today
+thumb=http://soccer4you.info/TVGuide.png?v=1ww6ns4wakkybkb
+URL=http://bleb.org/tv/data/rss.php?ch=british_eurosport&day=0
+background=http://img.wallpaperstock.net:81/fire-football-wallpapers_27494_1280x800.jpg
+player=default
+rating=-1.00
+
+
+# cached

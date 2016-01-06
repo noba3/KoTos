@@ -1,0 +1,14 @@
+version=1
+background=http://static.guim.co.uk/sys-images/Sport/Pix/pictures/2012/12/12/1355341699044/Wayne-Rooney-celebrates-a-008.jpg
+title=Live 24/7 Sky Sports and Movies
+description=Live 24/7 Sky Sports and Movies/description
+
+# 1586989
+type=rss:video
+name=24/7 Live Sky Sports & Movies
+URL=http://pastebin.com/raw.php?i=DVCPQ7nr
+player=default
+rating=-1.00
+
+
+# cached

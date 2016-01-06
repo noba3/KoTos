@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<window id="800" type="dialog">
+  <defaultcontrol>805</defaultcontrol>
+	<allowoverlay>no</allowoverlay>
+  <coordinates>
+<!--     <system>1</system> -->
+    <posx>400</posx>
+    <posy>600</posy>
+  </coordinates>
+  <controls>
+
+		<control type="group">
+		<!-- <include>ViewsAnimation</include> -->
+
+				<control type="image">
+					<left>-20</left>
+					<top>-10</top>
+					<width>610</width>
+					<height>75</height>
+					<texture border="20">background.jpg</texture>
+					<include>VisibleFadeEffect</include>
+				</control>
+				<control type="button"  id="801">
+					<left>0</left><top>0</top><width>100</width><height>55</height>
+                    <texturefocus>10lf.png</texturefocus><texturenofocus>10l.png</texturenofocus>
+					<onclick>Skin.SetBool(iptvxtra_replay_ok)</onclick>
+ 					<onclick>RunPlugin($INFO[Skin.String(iptvxtra_addon_aktuell)]/?setmin#-600#$INFO[Skin.String(iptvxtra_time_aktuell)]#$INFO[Skin.String(iptvxtra_stream_aktuell)]#$INFO[Skin.String(iptvxtra_titel_aktuell)]#$INFO[Skin.String(iptvxtra_icon_aktuell)])</onclick>
+                    <onleft>807</onleft><onright>802</onright>				
+				</control>
+				<control type="button"  id="802">
+					<left>110</left><top>0</top><width>80</width><height>55</height>
+                    <texturefocus>5lf.png</texturefocus><texturenofocus>5l.png</texturenofocus>
+					<onclick>Skin.SetBool(iptvxtra_replay_ok)</onclick>
+ 					<onclick>RunPlugin($INFO[Skin.String(iptvxtra_addon_aktuell)]/?setmin#-300#$INFO[Skin.String(iptvxtra_time_aktuell)]#$INFO[Skin.String(iptvxtra_stream_aktuell)]#$INFO[Skin.String(iptvxtra_titel_aktuell)]#$INFO[Skin.String(iptvxtra_icon_aktuell)])</onclick>
+                    <onleft>801</onleft><onright>803</onright>
+				</control>
+				<control type="button"  id="803">
+					<left>200</left><top>0</top><width>50</width><height>55</height>
+                    <texturefocus>1lf.png</texturefocus><texturenofocus>1l.png</texturenofocus>
+					<onclick>Skin.SetBool(iptvxtra_replay_ok)</onclick>
+ 					<onclick>RunPlugin($INFO[Skin.String(iptvxtra_addon_aktuell)]/?setmin#-60#$INFO[Skin.String(iptvxtra_time_aktuell)]#$INFO[Skin.String(iptvxtra_stream_aktuell)]#$INFO[Skin.String(iptvxtra_titel_aktuell)]#$INFO[Skin.String(iptvxtra_icon_aktuell)])</onclick>
+                    <onleft>802</onleft><onright>804</onright>
+				</control>
+				<control type="button"  id="804">
+					<left>260</left><top>0</top><width>50</width><height>55</height>
+                    <texturefocus>1rf.png</texturefocus><texturenofocus>1r.png</texturenofocus>
+					<onclick>Skin.SetBool(iptvxtra_replay_ok)</onclick>
+ 					<onclick>RunPlugin($INFO[Skin.String(iptvxtra_addon_aktuell)]/?setmin#+60#$INFO[Skin.String(iptvxtra_time_aktuell)]#$INFO[Skin.String(iptvxtra_stream_aktuell)]#$INFO[Skin.String(iptvxtra_titel_aktuell)]#$INFO[Skin.String(iptvxtra_icon_aktuell)])</onclick>
+                    <onleft>803</onleft><onright>805</onright>
+				</control>
+				<control type="button"  id="805">
+					<left>320</left><top>0</top><width>80</width><height>55</height>
+                    <texturefocus>5rf.png</texturefocus><texturenofocus>5r.png</texturenofocus>
+					<onclick>Skin.SetBool(iptvxtra_replay_ok)</onclick>
+ 					<onclick>RunPlugin($INFO[Skin.String(iptvxtra_addon_aktuell)]/?setmin#+300#$INFO[Skin.String(iptvxtra_time_aktuell)]#$INFO[Skin.String(iptvxtra_stream_aktuell)]#$INFO[Skin.String(iptvxtra_titel_aktuell)]#$INFO[Skin.String(iptvxtra_icon_aktuell)])</onclick>
+                    <onleft>804</onleft><onright>806</onright>
+				</control>
+				<control type="button"  id="806">
+					<left>410</left><top>0</top><width>100</width><height>55</height>
+                    <texturefocus>10rf.png</texturefocus><texturenofocus>10r.png</texturenofocus>
+					<onclick>Skin.SetBool(iptvxtra_replay_ok)</onclick>
+ 					<onclick>RunPlugin($INFO[Skin.String(iptvxtra_addon_aktuell)]/?setmin#+600#$INFO[Skin.String(iptvxtra_time_aktuell)]#$INFO[Skin.String(iptvxtra_stream_aktuell)]#$INFO[Skin.String(iptvxtra_titel_aktuell)]#$INFO[Skin.String(iptvxtra_icon_aktuell)])</onclick>
+                    <onleft>805</onleft><onright>807</onright>
+				</control>
+				<control type="button"  id="807">
+					<left>540</left><top>20</top><width>30</width><height>30</height>
+					<texturefocus>scrollxf-x.png</texturefocus><texturenofocus>scrollx-x.png</texturenofocus>
+					<onclick>Skin.SetBool(iptvxtra_replay_ok)</onclick>
+ 					<onclick>Dialog.Close(800)</onclick>
+                    <onleft>806</onleft><onright>801</onright>
+				</control>
+
+	    </control>
+  </controls>
+</window>

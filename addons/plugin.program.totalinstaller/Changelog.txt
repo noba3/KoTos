@@ -1,0 +1,7 @@
+V.2.0.1:
+- Minor update, some systems didn't like base64
+
+Version 2.0:
+- A complete re-write, all my own code apart from the handful of modules not obfuscated.
+- The default.py is now obfuscated due to some morons stealing work without crediting the original author and also removing licenses.
+Sorry about that, it goes against everything I believe in but until these idiots are dealt with it will stay this way.

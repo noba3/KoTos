@@ -1,0 +1,32 @@
+Version 0.2.4
+ Cloudyvideos and mightyupload are fixed!
+Version 0.2.3
+ Cloudyvideos fixed!
+Version 0.2.2
+ Hoster streamin implemented.
+Version 0.2.1
+ Api error fixed!
+Version 0.2.0
+ Fixed scrapper
+Version 0.1.9
+ Added scraper.
+Version 0.1.8
+ Search implemented!
+Version 0.1.7
+ Fix!
+Version 0.1.6
+ Own database implemented!
+Version 0.1.5
+ Images updated!
+Version 0.1.4
+ API implemented and optimized plugin.
+Version 0.1.3
+ Implemented Metahandler
+Version 0.1.2
+ Fixing encoding!
+Version 0.1.1
+ Testing with encoding for all plattforms.
+Version 0.1
+ initial
+
+Version

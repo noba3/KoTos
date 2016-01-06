@@ -1,0 +1,110 @@
+version=1
+background=http://www.vectorfree.com/media/vectors/sport-silhouettes-vector-pack.jpg
+title=Sports
+logo=http://1.bp.blogspot.com/-223GRfpkIzg/US3NfLctmPI/AAAAAAAABj8/r-2xDo8JRtM/s1600/world.jpg
+
+# 2223357
+type=video
+name=CRICKET
+URL=rtmpe://89.248.168.130:443/liveedge1/ playpath=star1751 app=liveedge1/ swfUrl=http://hardrazor.wf/jw5/player1.swf pageUrl=http://hardrazor.wf/gen_s.php?id=20834&width=600&height=430
+player=default
+rating=-1.00
+
+# 2111694
+type=video
+name=Star Sports
+thumb=http://www.adfederal.com/images/star-sports.png
+URL=http://s30.telugulive.com/criclive_330?token=k6wb6G/nlEvNW3qpQpkBnxaYN9/eYP5F4+4zFNe5hAqf2bfaalmQ1/39zJeVWG67AAAAAAAAAAAAAAAAAA==
+player=default
+rating=-1.00
+
+# 1877050
+type=video
+name=Pro Wrestling
+thumb=http://www.pro-wrestling-america.com/images/john-cena-wwe-belt.jpg
+URL=rtmp://80.93.53.88:1935/live playpath=wrestling.stream
+player=default
+rating=-1.00
+
+# 1798797
+type=video
+name=SPORTS TONIGHT
+thumb=http://sim.in.com/62/eb208a3c3b20508831b1ea9137c57476_ft_m.jpg
+URL=rtmp://freeview.fms.visionip.tv/live playpath=sports_tonight-sports_tonight-live-25f-16x9-SD?ref=www.sportstonightlive.com&USER=STL_0001 swfUrl=http://embeddedplayer.visionip.tv/data/swf/f22ee95bcec532c04146635a1a1adf00559/player.swf
+player=default
+rating=-1.00
+
+# 1525460
+type=video
+name=Chelsea TV
+thumb=http://www.mill-tv.com/milltheme/images/canales/img_151.jpg
+URL=rtmp://cp96798.live.edgefcs.net/live/ playpath=ChelTV_Ch01_1000k@26291 swfUrl=http://player.tv-stream.to/player.swf live=1 pageUrl=http://www.lagerassassin.eu/sport-stream/1/2650.html
+player=default
+rating=-1.00
+
+# 1675635
+type=video
+name=DD Sport (India)
+thumb=http://nowwatchtvlive.com/wp-content/uploads/2011/11/DD-Sports.jpg
+URL=rtmp://50.7.175.253:1939/base2 playpath=dd3.stream token=Vu4KaBzaxa swfUrl=http://desilivetv.net/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf pageUrl=http://desilivetv.net/dd-sports/
+player=default
+rating=-1.00
+
+# 1525449
+type=video
+name=Eurosport
+thumb=http://www.lyngsat-logo.com/logo/tv/ee/eurosport.jpg
+URL=rtmp://31.220.0.103:443/live/europspp11 pageUrl=http://www.reyhq.com/embed1.php?live=halilou&vw=620&vh=490
+player=default
+rating=4.00
+
+# 1525461
+type=video
+name=Eurosport 2
+thumb=http://www.lyngsat-logo.com/hires/ee/eurosport2.png
+URL=rtmp://31.220.0.103:443/live/euro22 pageUrl=http://www.reyhq.com/embed1.php?live=halilou&vw=620&vh=490
+player=default
+rating=4.00
+
+# 1525457
+type=video
+name=Redbull TV
+thumb=http://www.redbull.at/cs/RedBull/RBImages/000/000/483/309/photo610x343a/redbulltv.jpg
+URL=rtmp://cp93704.live.edgefcs.net:443/live playpath=redbull2@21839 swfUrl=http://img.hsni.com/images/Site_Relaunch_2007/arcade/StrobeMediaPlayback_Default.swf pageUrl=http://livetvcafe.net/ swfVfy=true live=true
+player=default
+rating=-1.00
+
+# 1525463
+type=video
+name=NFL Network
+thumb=http://dishtv.com/blog/wp-content/uploads/2012/08/NFL-Network2.gif
+URL=rtmp://31.7.58.250:1935/stream/0XB9uW6aK5.stream swfUrl=http://thecdn.04stream.com/p/boopo.swf live=true timeout=10 swfVfy=1 pageUrl=http://www.04stream.com
+player=default
+rating=-1.00
+
+# 1525462
+type=video
+name=NBA TV
+thumb=http://sportsmediajournal.com/wp-content/uploads/2011/06/NBA-TV-Logo.jpg
+URL=rtmp://46.246.29.130:1935/stream/W3h4q9Z6.stream swfUrl=http://thecdn.04stream.com/p/boopo.swf live=true timeout=15 swfVfy=1 pageUrl=http://www.04stream.com
+player=default
+rating=-1.00
+
+# 1674403
+type=video
+name=Sky Poker
+thumb=http://www.parttimepoker.com/wp-content/themes/strobe/images/bonus/sky-promo-logo.jpg
+URL=rtmp://cp67698.live.edgefcs.net/live/SkyPoker_500k@9124 app=live pageUrl=http://www.estadio.in/skypoker swfUrl=http://www.estadio.in/player.swf tcUrl=rtmp://cp67698.live.edgefcs.net/live playPath=SkyPoker_500k@9124 timeout=10rtmp://cp67698.live.edgefcs.net/live/SkyPoker_500k@9124 app=live pageUrl=http://www.estadio.in/skypoker swfUrl=http://www.estadio.in/player.swf tcUrl=rtmp://cp67698.live.edgefcs.net/live playPath=SkyPoker_500k@9124 timeout=10 live=1
+player=default
+rating=-1.00
+
+# 1798584
+type=video
+name=ORF SPORT +
+thumb=http://www.xmediatv.tk/index_htm_files/112.png
+URL=rtsp://apasfwl.apa.at/orfs_q6a/orf.sdp
+player=default
+rating=-1.00
+
+
+# cached

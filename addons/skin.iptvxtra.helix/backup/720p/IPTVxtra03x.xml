@@ -1,0 +1,701 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<includes>
+		<include name="IPTVxtra03">
+		<control type="group">
+			<left>0</left>
+			<top>0</top>
+			<visible>Control.IsVisible(732)</visible>
+			<include>VisibleFadeEffect</include>
+				<control type="image">
+					<left>-50</left>
+					<top>0</top>
+					<width>1380</width>
+					<height>720</height>
+					<aspectratio>scale</aspectratio>
+					<fadetime>IconCrossfadeTime</fadetime>
+					<texture background="true">$INFO[ListItem.Icon]</texture>
+				</control>
+				<control type="image">
+					<left>-50</left>
+					<top>0</top>
+					<width>1380</width>
+					<height>720</height>
+					<aspectratio>scale</aspectratio>
+					<fadetime>IconCrossfadeTime</fadetime>
+					<texture background="true">$INFO[ListItem.Icon]</texture>
+				</control>
+				<control type="image">
+					<left>0</left>
+					<top>600</top>
+					<width>1280</width>
+					<height>120</height>
+					<texture>xfloor.png</texture>
+				</control>
+				<control type="image">
+					<left>0</left>
+					<top>0</top>
+					<width>1280</width>
+					<height>120</height>
+					<texture flipy="true">xfloor.png</texture>
+				</control>
+				<control type="label">
+					<left>350</left>
+					<top>4</top>
+					<width>800</width>
+					<height>20</height>
+					<font>font24_title</font>
+					<textcolor>white</textcolor>
+					<selectedcolor>selected</selectedcolor>
+					<label>$INFO[ListItem.Label]</label>
+				</control>
+		</control>
+		<control type="group">
+				<visible>Control.IsVisible(732)</visible>
+				<left>60</left> 
+				<top>210</top>
+				<control type="image">
+					<left>-10</left>
+					<top>-20</top>
+					<width>630</width>
+					<height>310</height>
+					<texture border="20">ContentPanel.png</texture>
+					<include>VisibleFadeEffect</include>
+				</control>
+				<control type="image">
+					<left>0</left>
+					<top>47</top>
+					<width>610</width>
+					<height>3</height>
+					<texture>separator2.png</texture>
+				</control>
+				<control type="label">
+					<left>10</left>
+					<top>5</top>
+					<width>600</width>
+					<height>20</height>
+					<font>font13_title</font>
+					<align>center</align>
+					<textcolor>orange</textcolor>
+					<shadowcolor>black</shadowcolor>
+                   	<label>$INFO[ListItem.Genre]</label>
+				</control>
+
+				<control type="textbox">
+					<description>Description Value for TV Show</description>
+					<left>10</left>
+					<top>50</top>
+					<width>600</width>
+					<height>235</height>
+					<font>font13</font>
+					<textcolor>white</textcolor>
+					<label>$INFO[ListItem.Plot]</label>
+					<autoscroll time="2000" delay="3000" repeat="5000">Skin.HasSetting(AutoScroll)</autoscroll>
+				</control>
+				<control type="image">
+					<left>10</left>
+					<top>-2</top>
+					<width>45</width>
+					<height>45</height>
+					<aspectratio>scale</aspectratio>
+					<fadetime>IconCrossfadeTime</fadetime>
+					<texture background="true">$INFO[ListItem.Icon]</texture>
+				</control>
+				<control type="button" id="1350">
+					<description>refresh Container</description>
+					<left>380</left>
+					<top>250</top>
+					<width>105</width>
+					<height>25</height>
+					<visible>true</visible>
+					<aligny>center</aligny>
+					<align>center</align>
+					<font>font12_title</font>
+					<label>refresh</label>
+					<texturefocus>scrollxf-full.png</texturefocus>
+					<texturenofocus>scrollx-full.png</texturenofocus>
+					<onclick>SetFocus(732)</onclick>
+					<onclick>Container.Refresh</onclick>
+					<onleft>1436</onleft><onright>1437</onright><onup>731</onup><ondown>1364</ondown>
+				</control>
+            	<control type="button" id="1437">
+					<posx>500</posx>
+					<posy>250</posy>
+					<width>105</width>
+					<height>25</height>
+					<visible>true</visible>
+					<aligny>center</aligny>
+					<align>center</align>
+					<font>font12_title</font>
+					<label>Settings</label>
+					<texturefocus>scrollxf-full.png</texturefocus>
+					<texturenofocus>scrollx-full.png</texturenofocus>
+					<onclick>SetFocus(732)</onclick>
+ 					<onclick>RunPlugin($INFO[container.folderpath]/?gosetting)</onclick>
+					<onleft>1350</onleft><onright>1431</onright><onup>731</onup><ondown>1364</ondown>
+				</control>
+		</control>
+
+		<control type="group">
+				<visible>Control.IsVisible(732)</visible>
+				<left>710</left> 
+				<top>210</top>
+				<control type="image">
+					<left>-10</left>
+					<top>-20</top>
+					<width>530</width>
+					<height>310</height>
+					<texture border="20">ContentPanel.png</texture>
+					<include>VisibleFadeEffect</include>
+				</control>
+				<control type="image">
+					<left>0</left>
+					<top>-10</top>
+					<width>510</width>
+					<height>290</height>
+					<aspectratio>scale</aspectratio>
+					<fadetime>IconCrossfadeTime</fadetime>
+					<texture background="true">$INFO[ListItem.Icon]</texture>
+					<bordertexture border="8">ThumbShadow.png</bordertexture>
+					<bordersize>8</bordersize>
+				</control>
+				<control type="image">
+					<left>8</left>
+					<top>-2</top>
+					<width>494</width>
+					<height>274</height>
+					<texture>black.png</texture>
+					<visible>Player.Playing</visible>
+				</control>
+				<control type="videowindow" id="1430">
+					<allowoverlay>true</allowoverlay>
+					<left>8</left>
+					<top>-2</top>
+					<width>494</width>
+					<height>274</height>
+					<aspectratio>stretch</aspectratio>
+					<visible>Player.HasVideo</visible>
+					<animation effect="slide" start="0,0" end="-2000,0" time="0">WindowClose</animation>
+				</control>
+				<control type="image">
+					<left>8</left>
+					<top>-2</top>
+					<width>494</width>
+					<height>70</height>
+					<texture flipy="true">xfloor.png</texture>
+                    <visible>!Player.Playing</visible>
+				</control>
+				<control type="image">
+					<left>8</left>
+					<top>202</top>
+					<width>494</width>
+					<height>70</height>
+					<texture>xfloor.png</texture>
+                    <visible>!Player.Playing</visible>
+				</control>
+
+				<control type="image">		<!-- Player Buttons -->
+					<posx>8</posx>
+					<posy>192</posy>
+					<width>494</width>
+					<height>80</height>
+					<texture>HomeNowPlayingBack.png</texture>
+					<visible>Player.Playing</visible>
+				</control>
+				<control type="button" id="1431">
+					<description>PreView Button im videowindow</description>
+					<left>2</left>
+					<top>245</top>
+					<width>120</width>
+					<height>30</height>
+					<align>center</align>
+					<aligny>center</aligny>
+					<font>font12_title</font>
+                    <texturefocus>cubuttonFO.png</texturefocus>
+			        <texturenofocus>cubuttonNF.png</texturenofocus>
+					<label>PreView</label>
+                    <onclick>RunPlugin($INFO[container.folderpath]/?preview1339)</onclick>
+					<onleft>1437</onleft><onright>1432</onright><onup>731</onup><ondown>1364</ondown>
+                </control>
+				<control type="button" id="1432">
+					<left>280</left>
+					<top>230</top>
+					<width>40</width>
+					<height>40</height>
+					<texturefocus>OSDChannelListFO.png</texturefocus>
+					<texturenofocus>OSDChannelListNF.png</texturenofocus>
+					<onclick>fullscreen</onclick>
+					<visible>Player.Playing | Player.Paused</visible>
+					<onleft>1431</onleft><onright>1433</onright><onup>731</onup><ondown>1364</ondown>
+				</control>
+				<control type="togglebutton" id="1433">
+					<left>330</left>
+					<top>230</top>
+					<width>40</width>
+					<height>40</height>
+					<texturefocus>OSDPauseFO.png</texturefocus>
+					<texturenofocus>OSDPauseNF.png</texturenofocus>
+					<usealttexture>Player.Paused | Player.Forwarding | Player.Rewinding</usealttexture>
+					<alttexturefocus>OSDPlayFO.png</alttexturefocus>
+					<alttexturenofocus>OSDPlayNF.png</alttexturenofocus>
+					<onclick>PlayerControl(Play)</onclick>
+					<enable>Player.PauseEnabled</enable>
+					<visible>Player.Playing | Player.Paused</visible>
+					<onleft>1432</onleft><onright>1434</onright><onup>731</onup><ondown>1364</ondown>
+				</control>
+				<control type="button" id="1434">
+					<left>370</left>
+					<top>230</top>
+					<width>40</width>
+					<height>40</height>
+					<texturefocus>OSDStopFO.png</texturefocus>
+					<texturenofocus>OSDStopNF.png</texturenofocus>
+					<onclick>Skin.Reset(iptvxtra_replay_ok)</onclick>
+					<onclick>PlayerControl(Stop)</onclick>
+					<visible>Player.Playing | Player.Paused</visible>
+					<onleft>1433</onleft><onright>1435</onright><onup>731</onup><ondown>1364</ondown>
+				</control>
+				<control type="button" id="1435">
+					<left>420</left>
+					<top>230</top>
+                    <width>40</width>
+                    <height>40</height>
+                    <texturefocus>OSDVolDownFO.png</texturefocus>
+                    <texturenofocus>OSDVolDownNF.png</texturenofocus>
+                    <onclick>$VAR[VolumeStepDown]</onclick>	
+                    <onclick>VolumeDown</onclick><onclick>VolumeUp</onclick>
+					<visible>Player.Playing | Player.Paused</visible>
+					<onleft>1434</onleft><onright>1436</onright><onup>731</onup><ondown>1364</ondown>
+                </control>
+                <control type="button" id="1436">
+					<left>460</left>
+					<top>230</top>
+                    <width>40</width>
+                    <height>40</height>
+                    <texturefocus>OSDAudioFO.png</texturefocus>
+                    <texturenofocus>OSDAudioNF.png</texturenofocus>
+                    <onclick>$VAR[VolumeStepUp]</onclick>
+                    <onclick>VolumeUp</onclick><onclick>VolumeDown</onclick>
+					<visible>Player.Playing | Player.Paused</visible>
+					<onleft>1435</onleft><onright>1350</onright><onup>731</onup><ondown>1364</ondown>
+                </control>	
+				<control type="label">
+					<left>25</left>
+					<top>3</top>
+					<width>470</width>
+					<height>20</height>
+					<font>font10</font>
+					<textcolor>white</textcolor>
+                    <visible>!Player.Playing</visible>
+					<align>center</align>
+					<label>Start der Vorschau hier im Fenster, mit Button PreView</label>
+				</control>
+
+				<control type="grouplist">
+					<description>Media Codec Flagging Images</description>
+					<visible>!Player.Playing + !Player.Paused</visible>
+					<left>130</left>
+					<top>235</top>
+					<width>364</width>
+					<align>left</align>
+					<itemgap>2</itemgap>
+					<orientation>horizontal</orientation>
+					<include>VideoCodecFlaggingConditions</include>
+					<include>AudioCodecFlaggingConditions</include>
+					<include>AudioChannelsFlaggingConditions</include>
+					<include>AspectCodecFlaggingConditions</include>
+					<include>VideoStereoscopicsFlaggingConditions</include>
+					<include>VideoTypeHackFlaggingConditions</include>
+				</control>
+				<control type="grouplist">
+					<visible>Player.Playing | Player.Paused</visible>
+					<description>Media Codec Flagging Images</description>
+					<left>8</left>
+					<top>200</top>
+					<width>494</width>
+					<align>left</align>
+					<itemgap>2</itemgap>
+					<orientation>horizontal</orientation>
+					<include>VideoCodecFlaggingConditions</include>
+					<include>AudioCodecFlaggingConditions</include>
+					<include>AudioChannelsFlaggingConditions</include>
+					<include>AspectCodecFlaggingConditions</include>
+					<include>VideoStereoscopicsFlaggingConditions</include>
+					<include>VideoTypeHackFlaggingConditions</include>
+				</control>
+		</control>
+
+		<control type="group">
+			<visible>Control.IsVisible(732)</visible>
+			<include>VisibleFadeEffect</include>
+			<left>0</left>
+			<top>40</top>
+			<control type="fixedlist" id="732">
+			    <visible>Container.Content(Seasons) | Container.Content(Movies) | Container.Content(TVShows) | Container.Content(MusicVideos) | Container.Content(Episodes)</visible>
+				<hitrect x="0" y="-10" w="1280" h="190"/>
+				<left>27</left>
+				<top>0</top>
+				<width>1235</width>
+				<height>250</height>
+				<onleft>732</onleft><onright>732</onright><onup>2</onup><ondown>1431</ondown>
+				<viewtype label="IPTVxtra 3">wrap</viewtype>
+				<pagecontrol>60</pagecontrol>
+				<scrolltime>200</scrolltime>
+				<focusposition>5</focusposition>
+				<movement>3</movement>
+				<orientation>horizontal</orientation>
+				<preloaditems>4</preloaditems>
+				<itemlayout height="100" width="100">
+					<control type="image">
+						<left>2</left>
+						<top>20</top>
+						<width>100</width>
+						<height>100</height>
+						<aspectratio>stretch</aspectratio>
+						<bordertexture border="5">button-nofocus.png</bordertexture>
+						<bordersize>4</bordersize>
+						<fadetime>200</fadetime>
+						<texture background="true">$VAR[PosterThumb]</texture>
+					</control>
+					<control type="image">
+						<left>2</left>
+						<top>20</top>
+						<width>100</width>
+						<height>100</height>
+						<aspectratio>stretch</aspectratio>
+						<texture>black-back.png</texture>
+						<colordiffuse>11FFFFFF</colordiffuse>
+					</control>
+				</itemlayout>
+				<focusedlayout height="130" width="130">
+					<control type="image">
+						<left>-6</left>
+						<top>1</top>
+						<width>130</width>
+						<height>130</height>
+						<aspectratio>stretch</aspectratio>
+						<bordertexture border="8">ThumbBorder.png</bordertexture>
+						<bordersize>8</bordersize>
+						<fadetime>200</fadetime>
+						<texture background="true">$VAR[PosterThumb]</texture>
+						<animation reversible="false" effect="zoom" start="-12,16,148,148" end="-12,-16,148,148" time="200">focus</animation>
+						<animation reversible="false" effect="zoom" end="-12,16,148,148" start="-12,-16,148,148" time="200">unfocus</animation>
+					</control>
+				</focusedlayout>
+			</control>
+		</control>
+
+		<control type="group">
+				<visible>Control.IsVisible(732)</visible>
+				<left>60</left> 
+				<top>526</top>
+				<control type="image">
+					<left>-10</left>
+					<top>-20</top>
+					<width>1180</width>
+					<height>150</height>
+					<texture border="20">ContentPanel.png</texture>
+					<include>VisibleFadeEffect</include>
+				</control>
+
+				<control type="button">
+                    <label>00:01</label><font>font10</font><left>-4</left><top>80</top><width>50</width><height>15</height><texturefocus>dummy.png</texturefocus><texturenofocus>dummy.png</texturenofocus><onclick>RunPlugin($INFO[container.folderpath]/?setslidx1355#1364#00)</onclick>
+				</control>
+				<control type="button">
+                    <label>02:00</label><font>font10</font><left>86</left><top>80</top><width>50</width><height>15</height><texturefocus>dummy.png</texturefocus><texturenofocus>dummy.png</texturenofocus><onclick>RunPlugin($INFO[container.folderpath]/?setslidx1355#1364#02)</onclick>
+				</control>
+				<control type="button">
+                    <label>04:00</label><font>font10</font><left>179</left><top>80</top><width>50</width><height>15</height><texturefocus>dummy.png</texturefocus><texturenofocus>dummy.png</texturenofocus><onclick>RunPlugin($INFO[container.folderpath]/?setslidx1355#1364#04)</onclick>
+				</control>
+				<control type="button">
+                    <label>06:00</label><font>font10</font><left>273</left><top>80</top><width>50</width><height>15</height><texturefocus>dummy.png</texturefocus><texturenofocus>dummy.png</texturenofocus><onclick>RunPlugin($INFO[container.folderpath]/?setslidx1355#1364#06)</onclick>
+				</control>
+				<control type="button">
+                    <label>08:00</label><font>font10</font><left>367</left><top>80</top><width>50</width><height>15</height><texturefocus>dummy.png</texturefocus><texturenofocus>dummy.png</texturenofocus><onclick>RunPlugin($INFO[container.folderpath]/?setslidx1355#1364#08)</onclick>
+				</control>
+				<control type="button">
+                    <label>10:00</label><font>font10</font><left>462</left><top>80</top><width>50</width><height>15</height><texturefocus>dummy.png</texturefocus><texturenofocus>dummy.png</texturenofocus><onclick>RunPlugin($INFO[container.folderpath]/?setslidx1355#1364#10)</onclick>
+				</control>
+				<control type="button">
+                    <label>12:00</label><font>font10</font><left>555</left><top>80</top><width>50</width><height>15</height><texturefocus>dummy.png</texturefocus><texturenofocus>dummy.png</texturenofocus><onclick>RunPlugin($INFO[container.folderpath]/?setslidx1355#1364#12)</onclick>
+				</control>
+				<control type="button">
+                    <label>14:00</label><font>font10</font><left>649</left><top>80</top><width>50</width><height>15</height><texturefocus>dummy.png</texturefocus><texturenofocus>dummy.png</texturenofocus><onclick>RunPlugin($INFO[container.folderpath]/?setslidx1355#1364#14)</onclick>
+				</control>
+				<control type="button">
+                    <label>16:00</label><font>font10</font><left>744</left><top>80</top><width>50</width><height>15</height><texturefocus>dummy.png</texturefocus><texturenofocus>dummy.png</texturenofocus><onclick>RunPlugin($INFO[container.folderpath]/?setslidx1355#1364#16)</onclick>
+				</control>
+				<control type="button">
+                    <label>18:00</label><font>font10</font><left>837</left><top>80</top><width>50</width><height>15</height><texturefocus>dummy.png</texturefocus><texturenofocus>dummy.png</texturenofocus><onclick>RunPlugin($INFO[container.folderpath]/?setslidx1355#1364#18)</onclick>
+				</control>
+				<control type="button">
+                    <label>20:00</label><font>font10</font><left>931</left><top>80</top><width>50</width><height>15</height><texturefocus>dummy.png</texturefocus><texturenofocus>dummy.png</texturenofocus><onclick>RunPlugin($INFO[container.folderpath]/?setslidx1355#1364#20)</onclick>
+				</control>
+				<control type="button">
+                    <label>22:00</label><font>font10</font><left>1025</left><top>80</top><width>50</width><height>15</height><texturefocus>dummy.png</texturefocus><texturenofocus>dummy.png</texturenofocus><onclick>RunPlugin($INFO[container.folderpath]/?setslidx1355#1364#22)</onclick>
+				</control>
+				<control type="button">
+                    <label>00:00</label><font>font10</font><left>1114</left><top>80</top><width>50</width><height>15</height><texturefocus>dummy.png</texturefocus><texturenofocus>dummy.png</texturenofocus><onclick>RunPlugin($INFO[container.folderpath]/?setslidx1355#1364#24)</onclick>
+				</control>
+
+				<control type="group">
+					<visible>Control.IsVisible(732)</visible>
+					<left>445</left> 
+					<top>45</top>
+				<control type="button" id="1438">
+					<left>0</left><top>0</top><width>55</width><height>25</height>
+                    <texturefocus>10lf.png</texturefocus><texturenofocus>10l.png</texturenofocus>
+ 					<onclick>RunPlugin($INFO[container.folderpath]/?setslidmin1355#1364#-600)</onclick>
+					<onleft>1337</onleft><onright>1439</onright><onup>1364</onup><ondown>1355</ondown>
+				</control>
+				<control type="button" id="1439">
+					<left>60</left><top>0</top><width>40</width><height>25</height>
+                    <texturefocus>5lf.png</texturefocus><texturenofocus>5l.png</texturenofocus>
+ 					<onclick>RunPlugin($INFO[container.folderpath]/?setslidmin1355#1364#-300)</onclick>
+					<onleft>1438</onleft><onright>1440</onright><onup>1364</onup><ondown>1355</ondown>
+				</control>
+				<control type="button" id="1440">
+					<left>105</left><top>0</top><width>25</width><height>25</height>
+                    <texturefocus>1lf.png</texturefocus><texturenofocus>1l.png</texturenofocus>
+ 					<onclick>RunPlugin($INFO[container.folderpath]/?setslidmin1355#1364#-60)</onclick>
+					<onleft>1439</onleft><onright>1441</onright><onup>1364</onup><ondown>1355</ondown>
+				</control>
+				<control type="button" id="1441">
+					<left>140</left><top>0</top><width>25</width><height>25</height>
+                    <texturefocus>1rf.png</texturefocus><texturenofocus>1r.png</texturenofocus>
+ 					<onclick>RunPlugin($INFO[container.folderpath]/?setslidmin1355#1364#+60)</onclick>
+					<onleft>1440</onleft><onright>1442</onright><onup>1364</onup><ondown>1355</ondown>
+				</control>
+				<control type="button" id="1442">
+					<left>170</left><top>0</top><width>40</width><height>25</height>
+                    <texturefocus>5rf.png</texturefocus><texturenofocus>5r.png</texturenofocus>
+ 					<onclick>RunPlugin($INFO[container.folderpath]/?setslidmin1355#1364#+300)</onclick>
+					<onleft>1441</onleft><onright>1443</onright><onup>1364</onup><ondown>1355</ondown>
+				</control>
+				<control type="button" id="1443">
+					<left>215</left><top>0</top><width>55</width><height>25</height>
+                    <texturefocus>10rf.png</texturefocus><texturenofocus>10r.png</texturenofocus>
+ 					<onclick>RunPlugin($INFO[container.folderpath]/?setslidmin1355#1364#+600)</onclick>
+					<onleft>1442</onleft><onright>1335</onright><onup>1364</onup><ondown>1355</ondown>
+				</control>
+				</control>
+
+				<control type="slider" id="1355">
+					<description>Slider</description>
+					<left>15</left>
+					<top>95</top>
+					<width>1130</width>
+					<height>20</height>
+                    <step>1</step>
+                    <lower>0</lower>
+                    <upper>86400</upper>
+                    <onleft></onleft><onright></onright><onup>1441</onup><ondown>1360</ondown>
+					<texturefocus>-</texturefocus>
+					<texturenofocus>-</texturenofocus>
+					<texturesliderbar>timeline1.png</texturesliderbar>
+					<textureslidernib>indicator.png</textureslidernib>
+					<textureslidernibfocus>indicatorf.png</textureslidernibfocus>
+					<!-- <action></action> -->
+					<animation effect="fade" time="200">VisibleChange</animation>
+				</control>
+
+ 				<control type="button" id="1361">
+                    <description>Mitte</description>
+					<label>today</label>
+					<left>45</left>
+					<top>0</top>
+					<width>115</width>
+					<height>35</height>
+					<align>center</align>
+					<aligny>center</aligny>
+                    <texturefocus>scrollx-mid.png</texturefocus>
+					<texturenofocus>scrollx-mid.png</texturenofocus>
+					<font>font12_title</font>
+				</control>
+ 				<control type="button" id="1362">
+                    <description>Pfeil links</description>
+					<left>10</left>
+					<top>0</top>
+					<width>35</width>
+					<height>35</height>
+                    <texturefocus>scrollxf-left.png</texturefocus>
+					<texturenofocus>scrollx-left.png</texturenofocus>
+ 					<onclick>RunPlugin($INFO[container.folderpath]/?datedown1361)</onclick>
+					<onleft>1360</onleft><onright>1363</onright><onup>1431</onup><ondown>1336</ondown>
+				</control>
+ 				<control type="button" id="1363">
+                    <description>Pfeil rechts</description>
+					<left>160</left>
+					<top>0</top>
+					<width>35</width>
+					<height>35</height>
+                    <texturefocus>scrollxf-right.png</texturefocus>
+					<texturenofocus>scrollx-right.png</texturenofocus>
+ 					<onclick>RunPlugin($INFO[container.folderpath]/?dateup1361)</onclick>
+					<onleft>1362</onleft><onright>1364</onright><onup>1431</onup><ondown>1336</ondown>
+				</control>
+
+            	<control type="button" id="1364">
+					<posx>210</posx>
+					<posy>0</posy>
+					<width>160</width>
+					<height>35</height>
+					<visible>true</visible>
+					<aligny>center</aligny>
+					<align>center</align>
+					<font>font12_title</font>
+					<label>Set Time:   $INFO[System.Time]</label>
+					<texturefocus>scrollxf-full.png</texturefocus>
+					<texturenofocus>scrollx-full.png</texturenofocus>
+					<onclick>RunPlugin($INFO[container.folderpath]/?timeset13641355)</onclick>
+					<onleft>1363</onleft><onright>1368</onright><onup>1431</onup><ondown>1336</ondown>
+				</control>
+ 				<control type="button" id="1368">
+					<left>380</left>
+					<top>0</top>
+					<width>35</width>
+					<height>35</height>
+					<texturefocus>scrollxf-x.png</texturefocus>
+					<texturenofocus>scrollx-x.png</texturenofocus>
+ 					<onclick>RunPlugin($INFO[container.folderpath]/?cleartxt13641355)</onclick>
+					<onleft>1364</onleft><onright>1351</onright><onup>1431</onup><ondown>1336</ondown>
+				</control>
+ 				<control type="button" id="1335">
+                    <label>19:00</label>
+					<left>60</left>
+					<top>45</top>
+					<width>80</width>
+					<height>20</height>
+					<align>center</align>
+					<aligny>center</aligny>
+					<font>font12_title</font>
+					<texturefocus>scrollxf-full.png</texturefocus>
+					<texturenofocus>scrollx-full.png</texturenofocus>
+ 					<onclick>RunPlugin($INFO[container.folderpath]/?t19001364#1355)</onclick>
+					<onleft>1443</onleft><onright>1336</onright><onup>1364</onup><ondown>1355</ondown>
+				</control>
+ 				<control type="button" id="1336">
+                    <label>20:15</label>
+					<left>150</left>
+					<top>45</top>
+					<width>80</width>
+					<height>20</height>
+					<align>center</align>
+					<aligny>center</aligny>
+					<font>font12_title</font>
+					<texturefocus>scrollxf-full.png</texturefocus>
+					<texturenofocus>scrollx-full.png</texturenofocus>
+ 					<onclick>RunPlugin($INFO[container.folderpath]/?t20151364#1355)</onclick>
+					<onleft>1335</onleft><onright>1337</onright><onup>1364</onup><ondown>1355</ondown>
+				</control>
+ 				<control type="button" id="1337">
+                    <label>22:00</label>
+					<left>240</left>
+					<top>45</top>
+					<width>80</width>
+					<height>20</height>
+					<align>center</align>
+					<aligny>center</aligny>
+					<font>font12_title</font>
+					<texturefocus>scrollxf-full.png</texturefocus>
+					<texturenofocus>scrollx-full.png</texturenofocus>
+ 					<onclick>RunPlugin($INFO[container.folderpath]/?t22001364#1355)</onclick>
+					<onleft>1336</onleft><onright>1438</onright><onup>1364</onup><ondown>1355</ondown>
+				</control>
+
+ 				<control type="button">
+                    <description>Mitte</description>
+					<label>Channel</label>
+					<left>775</left>
+					<top>0</top>
+					<width>80</width>
+					<height>35</height>
+					<align>center</align>
+					<aligny>center</aligny>
+                    <texturefocus>scrollx-mid.png</texturefocus>
+					<texturenofocus>scrollx-mid.png</texturenofocus>
+					<font>font12_title</font>
+				</control>
+ 				<control type="button" id="1351">
+                    <description>Channel Pfeil links</description>
+					<left>740</left>
+					<top>0</top>
+					<width>35</width>
+					<height>35</height>
+                    <texturefocus>scrollxf-left.png</texturefocus>
+					<texturenofocus>scrollx-left.png</texturenofocus>
+ 					<onclick>SetFocus(732)</onclick> 		
+ 					<onclick>Left</onclick>
+ 					<onclick>SetFocus(1351)</onclick> 
+					<onleft>1368</onleft><onright>1352</onright><onup>1431</onup><ondown>1336</ondown>
+				</control>
+ 				<control type="button" id="1352">
+                    <description>Channel Pfeil rechts</description>
+					<left>855</left>
+					<top>0</top>
+					<width>35</width>
+					<height>35</height>
+                    <texturefocus>scrollxf-right.png</texturefocus>
+					<texturenofocus>scrollx-right.png</texturenofocus>
+ 					<onclick>SetFocus(732)</onclick> 		
+ 					<onclick>Right</onclick>
+ 					<onclick>SetFocus(1352)</onclick> 
+					<onleft>1351</onleft><onright>1367</onright><onup>1431</onup><ondown>1336</ondown>
+				</control>
+ 				<control type="button" id="1367">
+                    <description>Auswahl deutsche/thai oder local Zeit</description>
+					<label>local Time</label>
+					<left>905</left>
+					<top>0</top>
+					<width>130</width>
+					<height>35</height>
+					<align>center</align>
+					<aligny>center</aligny>
+					<font>font12_title</font>
+					<texturefocus>scrollxf-full.png</texturefocus>
+					<texturenofocus>scrollx-full.png</texturenofocus>
+ 					<onclick>RunPlugin($INFO[container.folderpath]/?localtime1367)</onclick>
+					<onleft>1352</onleft><onright>1360</onright><onup>1431</onup><ondown>1336</ondown>
+				</control>
+
+				<control type="button" id="1360">
+					<label>go TV</label>
+					<left>1050</left>
+					<top>0</top>
+					<width>100</width>
+					<height>70</height>
+					<align>center</align>
+					<aligny>center</aligny>
+					<font>font12_title</font>
+					<texturefocus>scrollxf-full.png</texturefocus>
+					<texturenofocus>scrollx-full.png</texturenofocus>
+ 					<onclick>RunPlugin($INFO[container.folderpath]/?timeline1359#1364#1367#1361#1369#1355)</onclick>
+                    <!-- <onclick>ActivateWindow(busydialog)</onclick> -->
+					<onleft>1367</onleft><onright>1362</onright><onup>1431</onup><ondown>732</ondown>
+				</control>
+ 				<control type="label" id="1359">
+                    <!-- <label>Replay Testphase </label> -->
+                    <label>$INFO[Skin.String(iptvxtra_replaydata_aktuell)]</label>
+					<left>690</left>
+					<top>45</top>
+					<width>340</width>
+					<height>25</height>
+					<align>right</align>
+					<textcolor>orange</textcolor>
+					<shadowcolor>white</shadowcolor>
+					<font>font18</font>
+				</control>
+
+				<control type="button" id="1369">
+                    <description>Dummybutton für Streamadresse</description>
+					<label>$INFO[ListItem.FileNameAndPath]</label>
+					<left>0</left>
+					<top>0</top>
+					<width>0</width>
+					<height>0</height>
+                    <visible>IsEmpty(ListItem.Label) + !IsEmpty(ListItem.Label)</visible>
+				</control>
+		</control>
+
+	</include>
+
+</includes>

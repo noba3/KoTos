@@ -1,0 +1,104 @@
+C:\Users\Dawain\AppData\Roaming\Kodi\addons\plugin.video.skygo\resources\lib\other\skygov3.exe\pyHook\HookManager.py:349: RuntimeWarning: tp_compare didn't return -1 or -2 for exception
+Traceback (most recent call last):
+  File "pyHook\HookManager.pyc", line 349, in KeyboardSwitch
+TypeError: an integer is required
+Traceback (most recent call last):
+  File "pyHook\HookManager.pyc", line 349, in KeyboardSwitch
+TypeError: an integer is required
+Traceback (most recent call last):
+  File "pyHook\HookManager.pyc", line 349, in KeyboardSwitch
+TypeError: an integer is required
+Traceback (most recent call last):
+  File "pyHook\HookManager.pyc", line 349, in KeyboardSwitch
+TypeError: an integer is required
+Traceback (most recent call last):
+  File "pyHook\HookManager.pyc", line 349, in KeyboardSwitch
+TypeError: an integer is required
+Traceback (most recent call last):
+  File "pyHook\HookManager.pyc", line 349, in KeyboardSwitch
+TypeError: an integer is required
+Exception TypeError: 'an integer is required' in <module 'threading' from 'C:\Users\Dawain\AppData\Roaming\Kodi\addons\plugin.video.skygo\resources\lib\other\skygov3.exe\threading.pyc'> ignored
+Error in atexit._run_exitfuncs:
+Traceback (most recent call last):
+  File "atexit.pyc", line 24, in _run_exitfuncs
+TypeError: an integer is required
+Error in sys.exitfunc:
+Traceback (most recent call last):
+  File "atexit.pyc", line 24, in _run_exitfuncs
+TypeError: an integer is required
+C:\Users\Dawain\AppData\Roaming\Kodi\addons\plugin.video.skygo\resources\lib\other\skygov3.exe\pyHook\HookManager.py:349: RuntimeWarning: tp_compare didn't return -1 or -2 for exception
+Traceback (most recent call last):
+  File "pyHook\HookManager.pyc", line 349, in KeyboardSwitch
+TypeError: an integer is required
+Traceback (most recent call last):
+  File "pyHook\HookManager.pyc", line 349, in KeyboardSwitch
+TypeError: an integer is required
+Traceback (most recent call last):
+  File "pyHook\HookManager.pyc", line 349, in KeyboardSwitch
+TypeError: an integer is required
+Traceback (most recent call last):
+  File "pyHook\HookManager.pyc", line 349, in KeyboardSwitch
+TypeError: an integer is required
+Traceback (most recent call last):
+  File "pyHook\HookManager.pyc", line 349, in KeyboardSwitch
+TypeError: an integer is required
+Exception TypeError: 'an integer is required' in <module 'threading' from 'C:\Users\Dawain\AppData\Roaming\Kodi\addons\plugin.video.skygo\resources\lib\other\skygov3.exe\threading.pyc'> ignored
+Traceback (most recent call last):
+  File "skygov3.py", line 156, in <module>
+  File "skygov3.py", line 138, in main
+  File "skygov3.py", line 76, in mouse_moves
+ValueError: Point out of bounds
+C:\Users\Dawain\AppData\Roaming\Kodi\addons\plugin.video.skygo\resources\lib\other\skygov3.exe\pyHook\HookManager.py:349: RuntimeWarning: tp_compare didn't return -1 or -2 for exception
+Traceback (most recent call last):
+  File "pyHook\HookManager.pyc", line 349, in KeyboardSwitch
+TypeError: an integer is required
+Traceback (most recent call last):
+  File "pyHook\HookManager.pyc", line 349, in KeyboardSwitch
+TypeError: an integer is required
+Traceback (most recent call last):
+  File "pyHook\HookManager.pyc", line 349, in KeyboardSwitch
+TypeError: an integer is required
+C:\Users\Dawain\AppData\Roaming\Kodi\addons\plugin.video.skygo\resources\lib\other\skygov3.exe\pyHook\HookManager.py:349: RuntimeWarning: tp_compare didn't return -1 or -2 for exception
+Traceback (most recent call last):
+  File "pyHook\HookManager.pyc", line 349, in KeyboardSwitch
+TypeError: an integer is required
+Traceback (most recent call last):
+  File "pyHook\HookManager.pyc", line 349, in KeyboardSwitch
+TypeError: an integer is required
+Traceback (most recent call last):
+  File "pyHook\HookManager.pyc", line 349, in KeyboardSwitch
+TypeError: an integer is required
+Traceback (most recent call last):
+  File "pyHook\HookManager.pyc", line 349, in KeyboardSwitch
+TypeError: an integer is required
+Traceback (most recent call last):
+  File "pyHook\HookManager.pyc", line 349, in KeyboardSwitch
+TypeError: an integer is required
+Traceback (most recent call last):
+  File "pyHook\HookManager.pyc", line 349, in KeyboardSwitch
+TypeError: an integer is required
+Traceback (most recent call last):
+  File "pyHook\HookManager.pyc", line 349, in KeyboardSwitch
+TypeError: an integer is required
+Traceback (most recent call last):
+  File "pyHook\HookManager.pyc", line 349, in KeyboardSwitch
+TypeError: an integer is required
+Exception TypeError: 'an integer is required' in <module 'threading' from 'C:\Users\Dawain\AppData\Roaming\Kodi\addons\plugin.video.skygo\resources\lib\other\skygov3.exe\threading.pyc'> ignored
+Exception TypeError: 'an integer is required' in <module 'threading' from 'C:\Users\Dawain\AppData\Roaming\Kodi\addons\plugin.video.skygo\resources\lib\other\skygov3.exe\threading.pyc'> ignored
+Traceback (most recent call last):
+  File "pyHook\HookManager.pyc", line 349, in KeyboardSwitch
+TypeError: an integer is required
+Traceback (most recent call last):
+  File "pyHook\HookManager.pyc", line 349, in KeyboardSwitch
+TypeError: an integer is required
+Error in atexit._run_exitfuncs:Error in atexit._run_exitfuncs:Traceback (most recent call last):
+  File "atexit.pyc", line 24, in _run_exitfuncs
+Traceback (most recent call last):
+  File "atexit.pyc", line 24, in _run_exitfuncs
+TypeError: an integer is required
+Error in sys.exitfunc:
+Traceback (most recent call last):
+  File "atexit.pyc", line 24, in _run_exitfuncs
+  File "atexit.pyc", line 24, in _run_exitfuncs
+TypeError: an integer is required: 
+an integer is required

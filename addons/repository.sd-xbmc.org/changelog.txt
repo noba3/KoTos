@@ -1,0 +1,14 @@
+[COLOR orange][B]2.0.0[/B][/COLOR]
+switched to zipped version
+
+[COLOR orange][B]1.0.3[/B][/COLOR]
+refresh icon
+
+[COLOR orange][B]1.0.2[/B][/COLOR]
+changed icon and fanart
+
+[COLOR orange][B]1.0.0[/B][/COLOR]
+repository SD-XBMC
+
+[COLOR orange][B]0.0.1[/B][/COLOR]
+initial release

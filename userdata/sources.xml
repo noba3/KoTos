@@ -1,0 +1,37 @@
+<sources>
+    <programs>
+        <default pathversion="1"></default>
+    </programs>
+    <video>
+        <default pathversion="1"></default>
+    </video>
+    <music>
+        <default pathversion="1"></default>
+    </music>
+    <pictures>
+        <default pathversion="1"></default>
+    </pictures>
+    <files>
+        <default pathversion="1"></default>
+        <source>
+            <name>FUSION</name>
+            <path pathversion="1">http://fusion.tvaddons.ag</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>supa unity</name>
+            <path pathversion="1">http://xfinity.xunitytalk.com/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>totalXBMC</name>
+            <path pathversion="1">http://i.totalxbmc.tv/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>.Addons</name>
+            <path pathversion="1">http://xbmc.aminhacasadigital.com/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+    </files>
+</sources>

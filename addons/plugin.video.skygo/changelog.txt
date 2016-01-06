@@ -1,0 +1,43 @@
+Version 2.0.10 (08.04.2014)
+- TVGuide bug fix
+
+Version 2.0.9 (08.04.2014)
+- Fix for SyntaxError
+
+Version 2.0.8 (08.04.2014)
+- What's On for LiveTV giving the current and next 2 shows
+- Automatic alternative login (you must NOT have your username and password saved by IE for it too work)
+
+Version 2.0.7
+- Much better thumbnails
+- Caching of menus for quicker access
+- Various code improvements
+- Actual fix for tvguide return issue
+- Other small bugs and fixes
+- Removed BeautifulSoup folder - using XBMC module now
+
+Version 2.0.6
+- attempted fix for tvguide return issue
+
+Version 2.0.5 (26.03.2014)
+- fixed text formating errors
+- fixed movie thumbnails not showing
+- fixed double entry into boxsets
+- added alternative refocus option
+- added "add to TVGuide addon" and add support for playing from this addon
+- various other small bug and improvements
+
+Version 2.0.1 to 2.0.4 (20.03.2014)
+- Bug Fixes
+
+Version 2.0.0 (20.03.2014) - Just about everything
+- Complete rewrite of the addon much more integrated with XBMC.
+- Added Catchup TV, TV Boxsets and Movies OnDemand
+
+Version 1.4.0 (11.03.2014)
+
+- added splash screen to cover - loading (can be disabled in settings)
+
+- added user control of mouse movement to remove channel info
+
+- other bug fixes

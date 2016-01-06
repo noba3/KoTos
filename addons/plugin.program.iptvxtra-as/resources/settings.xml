@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<settings>
+  <category label="advancedsettings">
+        <setting label="eine von uns optimierte advancedsettings.xml wird ins System kopiert" type="lsep" />
+        <setting label="" type="lsep" />
+        <setting label="30080" type="sep" />
+        <setting label="                                          installiere advancedsettings.xml" type="action" action="RunScript($CWD/resources/as.py)" />
+        <setting label="30080" type="sep" />
+        <setting label="" type="lsep" />
+        <setting label="" type="lsep" />
+        <setting label="INFO: alle Einstellungen benötigen einen Kodi Neustart" type="lsep" />
+  </category>
+  <category label="was wird geändert ?">
+        <setting label="30080" type="sep" />
+		<setting label="PVR :" type="lsep" />
+		<setting label="minvideocachelevel -> 10" type="lsep" />
+		<setting label="minaudiocachelevel -> 10" type="lsep" />
+        <setting label="30080" type="sep" />
+		<setting label="NETWORK :" type="lsep" />
+		<setting label="curlclienttimeout -> 60" type="lsep" />
+		<setting label="curllowspeedtime -> 60" type="lsep" />
+		<setting label="alwaysforcebuffer -> 1" type="lsep" />
+		<setting label="cachemembuffersize -> 0" type="lsep" />
+		<setting label="buffermode -> 0" type="lsep" />
+		<setting label="readbufferfactor -> 10" type="lsep" />
+        <setting label="30080" type="sep" />
+		<setting label="VIDEO :" type="lsep" />
+		<setting label="playcountminimumpercent -> 90" type="lsep" />
+		<setting label="ignoresecondsatstart -> 180" type="lsep" />
+		<setting label="ignorepercentatend -> 8" type="lsep" />
+        <setting label="30080" type="sep" />
+        <setting label="" type="lsep" />
+        <setting label="" type="lsep" />
+  </category>
+</settings>
+
+

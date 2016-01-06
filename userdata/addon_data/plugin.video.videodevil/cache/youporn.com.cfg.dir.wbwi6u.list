@@ -1,0 +1,25 @@
+########################################################
+#                    Temporary file                    #
+########################################################
+title=Views
+cfg=youporn.com.cfg
+director=VideoDevil
+genre=YouPorn
+type=rss
+icon=C:\Users\Dawain\AppData\Roaming\Kodi\addons\plugin.video.videodevil\resources\images\face_kiss.png
+url=http://www.youporn.com/browse/views/
+title=Duration
+cfg=youporn.com.cfg
+director=VideoDevil
+genre=YouPorn
+type=rss
+icon=C:\Users\Dawain\AppData\Roaming\Kodi\addons\plugin.video.videodevil\resources\images\face_kiss.png
+url=http://www.youporn.com/browse/duration/
+title=Date
+cfg=youporn.com.cfg
+director=VideoDevil
+genre=YouPorn
+type=rss
+icon=C:\Users\Dawain\AppData\Roaming\Kodi\addons\plugin.video.videodevil\resources\images\face_kiss.png
+url=http://www.youporn.com/browse/time/
+########################################################

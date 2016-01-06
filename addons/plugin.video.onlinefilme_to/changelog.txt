@@ -1,0 +1,13 @@
+0.1.3
+ - some bugfixes
+ - support few new hosters
+
+0.1.2
+ - rebuild as onlinefilme
+
+0.1.1
+ - bugfixes
+ - PromptFile support
+
+0.1.0
+ - first try

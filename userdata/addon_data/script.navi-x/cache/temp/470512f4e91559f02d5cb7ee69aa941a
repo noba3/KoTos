@@ -1,0 +1,40 @@
+version=1
+background=http://www.google.com/imgres?sa=X&biw=1280&bih=898&tbm=isch&tbnid=uZKeWWVbYxIggM:&imgrefurl=http://www.soccergaming.com/forums/showthread.php%3Fp%3D3520862&docid=cMzGCEhARmK55M&imgurl=http://payload.cargocollective.com/1/4/135519/1823735/Logo%252520build%2525203.jpg&w=670&h=376&ei=qRPAUtKZGMLtswa66YHQBg&zoom=1&ved=1t:3588,r:5,s:0,i:96
+title= Jazeera Sport
+logo=http://www.google.com/imgres?biw=1280&bih=898&tbm=isch&tbnid=jB5oZgT2ZdWEWM:&imgrefurl=http://www.tvforum.co.uk/thegallery/sky-sports-hd-logo-32882/&docid=PvhjYJrKh3VBJM&imgurl=http://skyidentstest.yolasite.com/resources/blue%252520backdrop.png&w=1491&h=423&ei=txPAUpuUF4WGtAbB6YDoBQ&zoom=1&ved=1t:3588,r:11,s:0,i:112&iact=rc&page=1&tbnh=112&tbnw=385&start=0&ndsp=16&tx=192&ty=44
+ 
+# 1920940
+type=video
+name=Sky Sport 1 HD
+thumb=
+URL=rtmp://77.81.98.138/pub/skyone pageUrl=http://www.castok.com/embed.php?v=halilou&vw=600&vh=450
+processor=
+player=default
+rating=-1.00
+ 
+# 1920940
+type=video
+name=Sky Sport 2 HD
+thumb=
+URL=rtmp://77.81.98.135/pub/we2 pageUrl=http://www.castok.com/embed.php?v=halilou&vw=600&vh=450
+processor=
+player=default
+rating=-1.00
+ 
+# 1920940
+type=video
+name=Sky Sport 3 HD
+thumb=
+URL=rtmp://77.81.98.130/pub/we33 pageUrl=http://www.castok.com/embed.php?v=halilou&vw=600&vh=450
+processor=
+player=default
+rating=-1.00
+ 
+# 1920940
+type=video
+name=Sky Sport 4 HD
+thumb=
+URL=rtmp://77.81.98.136/pub/we4 pageUrl=http://www.castok.com/embed.php?v=halilou&vw=600&vh=450
+processor=
+player=default
+rating=-1.00

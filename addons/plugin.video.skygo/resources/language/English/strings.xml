@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<strings>
+	
+	<!--My Strings-->
+	<string id="31001">Skygo Options</string>
+	<string id="31002">Username &amp; Password</string>
+	<string id="31003">Username</string>
+	<string id="31004">Password</string>
+	<string id="31005">Sleep 1</string>
+	<string id="31006">Sleep 2</string>
+	<string id="31010">Mouse Movement X</string>
+	<string id="31011">Mouse Movement Y</string>
+	<string id="31012">Splash Screen ON/OFF</string>
+	<string id="31013">XBMC Refocus Option</string>
+	<string id="31014">Cache Length in days</string>
+	<string id="31015">Delete all cache</string>	
+</strings>

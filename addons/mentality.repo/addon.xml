@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="MENTALITY.repo" 
+		name="MENTALITY Eklenti Deposu" 
+		version="0.0.1" 
+		provider-name="MENTALITY">
+	<extension point="xbmc.addon.repository" name="MENTALITY Add-on Repository">
+		<info compressed="false">http://mentality-repo.googlecode.com/svn/trunk/addons.xml</info>
+		<checksum>http://mentality-repo.googlecode.com/svn/trunk/addons.xml.md5</checksum>
+		<datadir zip="true">http://mentality-repo.googlecode.com/svn/trunk/</datadir>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<summary lang="en">Install Add-ons from XBMCTRSKYMC Add-on Repository</summary>
+		<summary lang="tr">MENTALITY Kurulum ve Guncelleme Deposu.</summary>
+		<description lang="en">Video plug-ins and Movie info scrapers for XBMC</description>
+		<description lang="de">Original addon fürr My-Entertainment und scraper fürr stream-oase.biz</description>
+		<disclaimer lang="de">MENTALITY's xbmc plugins</disclaimer>
+		<platform>all</platform>
+	</extension>
+</addon>

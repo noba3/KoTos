@@ -1,0 +1,18 @@
+<settings>
+    <category label="User Login ">
+        <setting id="login" label="Evonic Benutzername:" type="text" default=""/>
+        <setting id="password"   label="Passwort eingeben: " type="text" option="hidden" default=""/>
+    </category>
+	<category label="Video Settings">
+		<setting id="quality" label="Quality" type="enum" values="HDPlus|HDMobile|Both" default="2" />
+	</category>
+	<category label="Library">
+		<setting label="movie ordner" type="folder" id="folder" source="auto" option="writeable" default="false"/>
+		<setting label="serien ordner" type="folder" id="serfolder" source="auto" option="writeable" default="false"/>
+	</category>
+    <category label="Metahandler Settings">
+		<setting id="meta" type="text" default="true"/>
+	</category>
+<setting id="download" type="folder" source="files" label="Download Location"  option="writeable" default=""/>
+
+</settings>

@@ -1,0 +1,12 @@
+<settings>
+    <setting id="ads_addon" value="script.module.xbmc.ads" />
+    <setting id="ads_file" value="settings.xml" />
+    <setting id="ads_freq" value="2" />
+    <setting id="ads_settings_folder" value="" />
+    <setting id="separator" value="" />
+    <setting id="string_1" value="time" />
+    <setting id="string_2" value="donotsearch" />
+    <setting id="string_3" value="donotsearch" />
+    <setting id="string_4" value="donotsearch" />
+    <setting id="string_5" value="donotsearch" />
+</settings>

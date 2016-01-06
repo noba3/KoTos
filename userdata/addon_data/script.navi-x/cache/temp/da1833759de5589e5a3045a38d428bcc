@@ -1,0 +1,109 @@
+version=1
+title=Sport
+
+# 1102126
+type=playlist
+name=Live Sports (Press right to read info)
+thumb=http://sports-4-u.webs.com/sports-4-u.png
+URL=http://www.navixtreme.com/playlist/67663/sports-4-ulive_sports_tv.plx
+player=default
+rating=-1.00
+description=Big thanks to everyone involved at www.sports-4-u.tk
+
+The links to this list change very frequently so if you find pressing this link doesn't take you to a list of sports channels follow the instructions below:
+
+Go to the homepage and click on the top entry (Navi-X Homepage).
+Now click the top entry (Navi-Xtreme Media Portal)
+Click on "Most Recently Updated" and look for anything that mentions sports-4-u or Live Sports TV.
+
+Once you find the link in "Most Recently Updated" section if you click on it then it should work./description
+
+# 1049938
+type=playlist
+name=ESPN (America)
+thumb=http://media.navi-x.org/justme4u2c/images/ESPN.png
+URL=http://www.navixtreme.com/cgi-bin/justme4u2c/scrapers/ESPN.pl
+player=default
+rating=-1.00
+description=View content from ESPN (America).
+
+This great scraper comes to you courtesy of justme4u2c/description
+
+# 1049936
+type=playlist
+name=Football (Soccer) Clips
+thumb=http://media.navi-x.org/justme4u2c/images/SoccerClips.jpg
+URL=http://www.navixtreme.com/cgi-bin/justme4u2c/scrapers/SoccerClips.pl
+player=default
+rating=-1.00
+description=Football (Soccer) clips from around the globe.
+
+This great scraper comes to you courtesy of justme4u2c/description
+
+# 1054005
+type=playlist
+name=Fox Sports
+thumb=http://media.navi-x.org/justme4u2c/images/Fox_Sports.png
+URL=http://www.navixtreme.com/cgi-bin/justme4u2c/scrapers/FoxSports.pl?q=foxsports/
+player=default
+rating=-1.00
+description=Various sports highlights, news and interviews from the Fox Sports Network.  Courtesy of justme4u2c/description
+
+# 1108361
+type=rss:video
+name=MLB.com Video Podcast
+thumb=http://a1.phobos.apple.com/us/r30/Podcasts/db/34/ea/ps.ofndxkac.170x170-75.jpg
+URL=http://mlb.mlb.com/feed/podcast/c1265936.xml
+background=http://i254.photobucket.com/albums/hh98/justme4u2cme/bg-bodyLow.jpg
+player=default
+rating=-1.00
+
+# 1108360
+type=rss:video
+name=NBA.com - Barkley Zone Video
+thumb=http://i254.photobucket.com/albums/hh98/justme4u2cme/Navi-X%20Playlists/Justme4u2c%20Sports%20Network/nba_logo.jpg
+URL=http://www.nba.com/rss/barkleyzone.rss
+processor=http://www.navixtreme.com/proc/nba
+background=http://i254.photobucket.com/albums/hh98/justme4u2cme/Navi-X%20Playlists/Justme4u2c%20Sports%20Network/nba_logo2-1.png
+player=default
+rating=-1.00
+
+# 1108359
+type=rss:video
+name=NBA.com - TNT Overtime
+thumb=http://i254.photobucket.com/albums/hh98/justme4u2cme/Navi-X%20Playlists/Justme4u2c%20Sports%20Network/nba_logo.jpg
+URL=http://www.nba.com/broadband/tnt_overtime.xml
+processor=http://www.navixtreme.com/proc/nba
+background=http://i254.photobucket.com/albums/hh98/justme4u2cme/Navi-X%20Playlists/Justme4u2c%20Sports%20Network/nba_logo2-1.png
+player=default
+rating=-1.00
+
+# 1108358
+type=rss:video
+name=NBA.com - Top Videos
+thumb=http://i254.photobucket.com/albums/hh98/justme4u2cme/Navi-X%20Playlists/Justme4u2c%20Sports%20Network/nba_logo.jpg
+URL=http://pipes.yahoo.com/pipes/pipe.run?_id=db8ad3abedfc938bc8b245275793d082&_render=rss
+processor=http://www.navixtreme.com/proc/nba
+background=http://i254.photobucket.com/albums/hh98/justme4u2cme/Navi-X%20Playlists/Justme4u2c%20Sports%20Network/nba_logo2-1.png
+player=default
+rating=-1.00
+
+# 1108362
+type=playlist
+name=NFL
+thumb=http://www.mytinyphone.com/uploads/users/sexy_boy/401426.jpg
+URL=http://www.navixtreme.com/scrape/nfl/
+player=default
+rating=-1.00
+
+# 1054003
+type=playlist
+name=PokerStars
+thumb=http://media.navi-x.org/justme4u2c/images/PokerstarsTV.png
+URL=http://www.navixtreme.com/cgi-bin/justme4u2c/scrapers/PokerStars.pl
+player=default
+rating=-1.00
+description=PokerStars TV - courtesy of justme4u2c/description
+
+
+# cached

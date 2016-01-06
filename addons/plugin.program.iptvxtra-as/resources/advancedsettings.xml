@@ -1,0 +1,19 @@
+<advancedsettings>
+<pvr>
+    <minvideocachelevel>10</minvideocachelevel>
+    <minaudiocachelevel>10</minaudiocachelevel>
+</pvr>
+<network>
+	<curlclienttimeout>60</curlclienttimeout>
+	<curllowspeedtime>60</curllowspeedtime>
+	<alwaysforcebuffer>1</alwaysforcebuffer>
+	<cachemembuffersize>0</cachemembuffersize>
+    <buffermode>0</buffermode>
+    <readbufferfactor>10</readbufferfactor>
+</network>
+  <video>
+    <playcountminimumpercent>90</playcountminimumpercent>
+    <ignoresecondsatstart>180</ignoresecondsatstart>
+    <ignorepercentatend>8</ignorepercentatend>
+  </video>
+</advancedsettings>

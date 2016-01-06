@@ -1,0 +1,20 @@
+<settings>
+    <setting id="epgCache" value="true" />
+    <setting id="epgPath" value="" />
+    <setting id="epgPathType" value="1" />
+    <setting id="epgTSOverride" value="false" />
+    <setting id="epgTimeShift" value="0.000000" />
+    <setting id="epgUrl" value="http://wownet.ro/epg/" />
+    <setting id="logoBaseUrl" value="http://wownet.ro/logo/" />
+    <setting id="logoFromEpg" value="0" />
+    <setting id="logoPath" value="/storage/emulated/0/Android/obb/Senderlogos/" />
+    <setting id="logoPathType" value="1" />
+    <setting id="m3uCache" value="false" />
+    <setting id="m3uPath" value="/storage/emulated/0/Android/obb/bbtspvr_D.m3u" />
+    <setting id="m3uPathType" value="1" />
+    <setting id="m3uUrl" value="http://pastebin.com/raw.php?i=yf6kakxe" />
+    <setting id="sep1" value="" />
+    <setting id="sep2" value="" />
+    <setting id="sep3" value="" />
+    <setting id="startNum" value="1" />
+</settings>

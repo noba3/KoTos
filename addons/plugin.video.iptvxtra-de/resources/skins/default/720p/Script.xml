@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<window id="129">
+    <defaultcontrol always="true">3203</defaultcontrol>
+    <coordinates>
+        <system>1</system>
+        <posx>640</posx>
+        <posy>360</posy>
+    </coordinates>
+    <controls>
+        <control type="image">
+            <description>Black Background</description>
+            <posx>-300</posx>
+            <posy>-200</posy>
+            <width>600</width>
+            <height>400</height>
+			<!-- <colordiffuse>00FFFFFF</colordiffuse> -->
+            <texture>RecentAddedBack.png</texture>
+        </control>
+        <control type="image">
+            <description>Black Background</description>
+            <posx>-300</posx>
+            <posy>-200</posy>
+            <width>600</width>
+            <height>400</height>
+            <texture>RecentAddedBack.png</texture>
+        </control>
+		<control type="textbox" id="3201">
+			<description>Description Value for TV Show</description>
+            <posx>-270</posx>
+            <posy>-170</posy>
+            <width>580</width>
+            <height>380</height>
+			<font>font12</font>
+			<textcolor>white</textcolor>
+			<label></label>
+			<autoscroll time="2000" delay="3000" repeat="5000">Skin.HasSetting(AutoScroll)</autoscroll>
+		</control>
+        <control type="button" id="3203">
+            <description>Exit Button</description>
+            <posx>205</posx>
+            <posy>-190</posy>
+            <width>64</width>
+            <height>32</height>
+			<texturefocus>DialogCloseButton-focus.png</texturefocus>
+			<texturenofocus>DialogCloseButton.png</texturenofocus>
+        </control>
+
+    </controls>
+</window>

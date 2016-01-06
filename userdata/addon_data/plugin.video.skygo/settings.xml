@@ -1,0 +1,13 @@
+<settings>
+    <setting id="Mousex" value="500" />
+    <setting id="Mousey" value="500" />
+    <setting id="cache" value="7" />
+    <setting id="delcache" value="" />
+    <setting id="focus" value="Default" />
+    <setting id="password" value="" />
+    <setting id="separator" value="" />
+    <setting id="sleep 1" value="0.400000" />
+    <setting id="sleep 2" value="5.000000" />
+    <setting id="splashy" value="true" />
+    <setting id="username" value="" />
+</settings>

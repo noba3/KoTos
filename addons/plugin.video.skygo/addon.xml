@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="plugin.video.skygo" name="Skygo Launcher V2" version="2.0.10" provider-name="Syborg">
+	<requires>
+		<import addon="xbmc.python" version="2.1.0"/>
+		<import addon="script.module.simplejson" version="2.0.9"/>
+		<import addon="script.module.beautifulsoup4" version="4.3.1"/> 
+	</requires>
+	<extension point="xbmc.python.pluginsource" library="default.py">
+		<provides>video</provides>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<platform>windx</platform>
+        <disclaimer>You must have an active Skygo account for this to work.</disclaimer>
+        <summary lang="en">Easy Access to Skygo in XBMC (Windows Only)</summary>
+        <description lang="en">This an addon to give quick and easy access to the Skygo service.</description>
+	</extension>
+</addon>

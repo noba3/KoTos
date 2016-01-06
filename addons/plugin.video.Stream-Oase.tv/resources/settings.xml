@@ -1,0 +1,19 @@
+<settings>
+    <category label="Benutzer Login ">
+        <setting id="login" label="Stream-Oase Benutzername:" type="text" default=""/>
+        <setting id="password"   label="Passwort eingeben: " type="text" option="hidden" default=""/>
+    </category>
+<setting id="New Videos" value="false" />
+<setting id="Action" value="false" />
+<setting id="Abenteuer" value="false" />
+<setting id="Drama" value="false" />
+<setting id="Krieg" value="false" />
+<setting id="Thriller" value="false" />
+<setting id="Horror" value="false" />
+<setting id="Komödie" value="false" />
+<setting id="Zeichentrick" value="false" />
+<setting id="Sci-Fi" value="false" />
+<setting id="Doku´s" value="false" />
+<setting id="Western" value="false" />
+<setting id="Fantasy" value="false" />
+</settings>

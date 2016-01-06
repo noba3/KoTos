@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<settings>
+  <category label="Addon Starter">
+        <setting label="nur eine Option wählen:" type="lsep" />
+        <setting id="popupx" type="bool" label="Popup Info für den IPTVxtra-Service anzeigen" default="true"/>
+        <setting id="popup" type="bool" label="Popup Info für die einzelnen IPTVxtra-Service anzeigen" default="false"/>
+        <setting label="30080" type="sep" />
+        <setting id="de" type="bool" label="deutsches TV direkt starten" default="false" enable="eq(4,false)" />
+        <setting id="th" type="bool" label="thailändisches TV direkt starten" default="false" enable="eq(3,false)" />
+        <setting id="sport" type="bool" label="s.p.o.r.t.TV direkt starten" default="false" enable="eq(2,false)" />
+        <setting label="30080" type="sep" />
+        <setting id="alt1" type="bool" label="alternatives Addon starten (z.B. plugin.audio.antennebayern)" default="false"/>
+        <setting id="alt2" type="text" label="Addon:" default="plugin.audio.antennebayern" enable="!eq(-1,false)"/>
+        <setting label="30080" type="sep" />
+        <setting label="INFO: alle Einstellungen benötigen einen Kodi Neustart" type="lsep" />
+  </category>
+  <category label="Stream Restart">
+        <setting label="INFO: Stream Restart ist experimentell, Kodi kann evtl. auch abstürzen" type="lsep" />
+        <setting label="diese Funktion ist nur für unser DE Addon und TH Addon (Live und Replay)" type="lsep" />
+        <setting id="playerinfox" type="bool" label="Bei Abbruch eines Streams durch Kodi, wird versucht diesen neu zu starten" default="true"/>
+        <setting id="playerdelay" type="text" label="Verzögerung in Sekunden (ohne Eintrag 500ms - maximal 10s)" default="1"/>
+        <setting id="startfull" type="bool" label="Video Restart immer direkt wieder ins Vollbild" default="true"/>
+		<setting label="30080" type="sep" />
+        <setting label="" type="lsep" />
+        <setting label="INFO: alle Einstellungen benötigen einen Kodi Neustart" type="lsep" />
+  </category>
+  <category label="weitere Optionen">
+        <setting label="                                           suche nach Addon Aktualisierungen" type="action" action="RunScript($CWD/resources/lib/update.py)" />
+        <setting label="30080" type="sep" />
+        <setting label="INFO: dieser AutoStarter für den EcoUpdater ersetzt den vorherigen Service" type="lsep" />
+        <setting id="eco" type="bool" label="startet den EcoUpdater für XStream einmalig beim Kodi-Start" default="false"/>
+        <setting id="ecodel" type="bool" enable="!eq(-1,false)" label="löscht den alten Autostart Dienst des EcoUpdaters" default="false"/>
+        <setting label="30080" type="sep" />
+        <setting label="INFO: EPG-File wird nur geladen, wenn älter als 24Std. oder nicht vorhanden" type="lsep" />
+        <setting id="epgde" type="bool" label="deutsches XMLTV EPG beim Kodi-Start downloaden" default="true"/>
+        <setting id="epgth" type="bool" label="thailändisches XMLTV EPG beim Kodi-Start downloaden" default="false"/>
+        <setting label="30080" type="sep" />
+        <setting label="eine von uns optimierte advancedsettings.xml wird ins System kopiert" type="action" action="RunScript($CWD/resources/lib/as.py)" />
+        <!-- <setting label="" type="lsep" /> -->
+        <setting label="INFO: alle Einstellungen benötigen einen Kodi Neustart" type="lsep" />
+  </category>
+		<setting id="playerstatusinfo" default="0"/>
+		<setting id="is_addon" default="none"/>
+		<setting id="playerinfo2" default="0"/>
+		<setting id="def1" default="0"/>
+		<setting id="def2" default="0"/>
+		<setting id="def3" default="0"/>
+		<setting id="def4" default="0"/>
+		<setting id="def5" default="0"/>
+</settings>
+
+

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<settings>
+<setting id="help1" type="text" label="Please signup at www.mega.co.nz if you haven't already," enable="false"/>
+<setting id="help2" type="text" label="then enter your login details below:" enable="false"/>
+<setting id="username" type="text" label="User name:" default=""/>
+<setting id="password" type="text" label="Password:" default="" option="hidden"/>
+<setting id="buffering_time" type="slider" label="Buffering time for videos (in seconds)" default="30" range="10,10,300" option="int" />
+<setting id="tos_accepted" type="bool" label="Terms of service has been accepted" default="false"/>
+<setting id="tos_accepted2" type="text" label="Read TOS at http://g.static.mega.co.nz/pages/terms.html" enable="false"/>
+</settings>

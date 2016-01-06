@@ -1,0 +1,23 @@
+<settings>
+    <setting id="alt1" value="false" />
+    <setting id="alt2" value="plugin.audio.antennebayern" />
+    <setting id="de" value="false" />
+    <setting id="def1" value="" />
+    <setting id="def2" value="" />
+    <setting id="def3" value="" />
+    <setting id="def4" value="" />
+    <setting id="def5" value="0" />
+    <setting id="eco" value="false" />
+    <setting id="ecodel" value="false" />
+    <setting id="epgde" value="true" />
+    <setting id="epgth" value="true" />
+    <setting id="is_addon" value="de" />
+    <setting id="playerdelay" value="1" />
+    <setting id="playerinfox" value="true" />
+    <setting id="playerstatusinfo" value="0" />
+    <setting id="popup" value="false" />
+    <setting id="popupx" value="true" />
+    <setting id="sport" value="false" />
+    <setting id="startfull" value="true" />
+    <setting id="th" value="false" />
+</settings>

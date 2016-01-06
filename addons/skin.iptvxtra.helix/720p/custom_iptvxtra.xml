@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<window id="6789" type="dialog">
+	<defaultcontrol always="true">6789</defaultcontrol>
+    <!-- <onunload>RunPlugin($INFO[Skin.String(iptvxtra_addon_aktuell)]/?listchange)</onunload> -->
+<!-- 	<onload>Container.Refresh</onload> -->
+	<coordinates>
+		<system>1</system>
+	</coordinates>
+	<include>dialogeffect</include>
+	<controls>
+		<control type="group">
+		<posx>40</posx>
+		<posy>220r</posy>
+			<control type="image">
+				<description>background image</description>
+				<posx>0</posx>
+				<posy>0</posy>
+				<width>1200</width>
+				<height>200</height>
+				<colordiffuse>dddddddd</colordiffuse>
+				<!-- <texture>http://srv1.iptvxtra.net/werbung/acc_error.jpg</texture> -->
+				<texture>http://srv1.iptvxtra.net/werbung/werbung2.jpg</texture>
+			</control>
+			<control type="image">
+				<description>background image</description>
+				<posx>0</posx>
+				<posy>0</posy>
+				<width>1200</width>
+				<height>200</height>
+				<texture>http://srv1.iptvxtra.net/werbung/maskex.png</texture>
+			</control>
+
+
+			<control type="button" id ="6789">
+				<description>Close Window button</description>
+				<posx>1130</posx>
+				<posy>5</posy>
+				<width>64</width>
+				<height>32</height>
+				<onclick>PreviousMenu</onclick>
+		<!-- 		<onclick>Dialog.Close(900)</onclick> -->
+				<texturefocus>DialogCloseButton-focus.png</texturefocus>
+				<texturenofocus>DialogCloseButton.png</texturenofocus>
+			</control>
+
+
+
+
+
+		
+		</control>
+	</controls>
+</window>

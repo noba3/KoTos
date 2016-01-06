@@ -1,0 +1,14 @@
+0.2.0
+- add: download and merge multiple(max 3) xml files
+0.1.1
+- fix: addon.xml version
+0.1.0
+- upd: switched from program to service addon only
+- add: select xmltv
+- add: manual download setting
+0.0.3
+- add: support for network paths
+0.0.2
+- re-write
+0.0.1
+- test release

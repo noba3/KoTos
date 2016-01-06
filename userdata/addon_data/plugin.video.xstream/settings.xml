@@ -1,0 +1,39 @@
+<settings>
+    <setting id="auto-view" value="false" />
+    <setting id="autoPlay" value="false" />
+    <setting id="cacheTime" value="600" />
+    <setting id="download-folder" value="D:\Eigene Dateien\Videos\Filme\" />
+    <setting id="episodes-view" value="504" />
+    <setting id="hosterListFolder" value="false" />
+    <setting id="jd_automatic_start" value="true" />
+    <setting id="jd_enabled" value="false" />
+    <setting id="jd_grabber" value="false" />
+    <setting id="jd_host" value="127.0.0.1" />
+    <setting id="jd_port" value="10025" />
+    <setting id="kinox_to-domain" value="kinox.me" />
+    <setting id="maxHoster" value="100" />
+    <setting id="metaOverwrite" value="false" />
+    <setting id="metahandler" value="false" />
+    <setting id="movie4k_to-domain" value="movie4k.me" />
+    <setting id="movies-view" value="503" />
+    <setting id="plugin_anime_proxer_me" value="true" />
+    <setting id="plugin_anime_stream24_com" value="true" />
+    <setting id="plugin_bundesliga_de" value="true" />
+    <setting id="plugin_burning_series_org" value="true" />
+    <setting id="plugin_gstream_in" value="true" />
+    <setting id="plugin_kinox_to" value="true" />
+    <setting id="plugin_kkiste_to" value="true" />
+    <setting id="plugin_megatv_to" value="true" />
+    <setting id="plugin_movie4k_to" value="true" />
+    <setting id="plugin_stream_oase_tv" value="true" />
+    <setting id="prefLanguage" value="0" />
+    <setting id="presortHoster" value="false" />
+    <setting id="pyload_enabled" value="false" />
+    <setting id="pyload_host" value="127.0.0.1" />
+    <setting id="pyload_passwd" value="" />
+    <setting id="pyload_port" value="8000" />
+    <setting id="pyload_user" value="user" />
+    <setting id="seasons-view" value="504" />
+    <setting id="showAdult" value="true" />
+    <setting id="tvshows-view" value="503" />
+</settings>

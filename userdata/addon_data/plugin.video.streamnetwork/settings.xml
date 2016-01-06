@@ -1,0 +1,13 @@
+<settings>
+    <setting id="epg_dl" value="false" />
+    <setting id="epg_info" value="5" />
+    <setting id="epg_on" value="true" />
+    <setting id="epg_title" value="true" />
+    <setting id="password" value="user" />
+    <setting id="setBack" value="true" />
+    <setting id="timeshift" value="0" />
+    <setting id="timeshift0" value="true" />
+    <setting id="user" value="user" />
+    <setting id="views_kg" value="503" />
+    <setting id="views_s" value="504" />
+</settings>

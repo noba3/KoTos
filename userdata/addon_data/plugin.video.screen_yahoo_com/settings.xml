@@ -1,0 +1,18 @@
+<settings>
+    <setting id="forceView" value="true" />
+    <setting id="itemsPerPage" value="1" />
+    <setting id="maxVideoQuality" value="2" />
+    <setting id="site1" value="true" />
+    <setting id="site10" value="true" />
+    <setting id="site11" value="true" />
+    <setting id="site2" value="true" />
+    <setting id="site3" value="true" />
+    <setting id="site4" value="true" />
+    <setting id="site5" value="true" />
+    <setting id="site6" value="true" />
+    <setting id="site7" value="true" />
+    <setting id="site8" value="true" />
+    <setting id="site9" value="true" />
+    <setting id="useThumbAsFanart" value="true" />
+    <setting id="viewIDNew" value="51" />
+</settings>
